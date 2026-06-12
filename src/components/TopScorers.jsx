@@ -9,11 +9,6 @@ export default function TopScorers({ snapshot }) {
   }
   return (
     <section className="group">
-      {coLeaders && (
-        <p className="muted small">
-          Co-leaders share the top spot — the organiser settles golden-boot ties, not this site.
-        </p>
-      )}
       <div className="table-scroll">
         <table>
           <thead>

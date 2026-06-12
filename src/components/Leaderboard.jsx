@@ -20,7 +20,7 @@ export default function Leaderboard({ snapshot }) {
             </p>
           )}
           {prizes.topScorer.tie && (
-            <p className="muted small">Tied — the organiser settles ties, not this site.</p>
+            <p className="muted small">Tied.</p>
           )}
         </article>
       </section>
