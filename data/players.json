@@ -1,0 +1,49 @@
+{
+"players": [
+    {
+      "name": "Paolo",
+      "colour": "#e6194b",
+      "teams": ["MEX", "USA", "ESP", "JPN", "NOR", "SWE", "CZE"]
+    },
+    {
+      "name": "Nicola",
+      "colour": "#3cb44b",
+      "teams": ["POR", "URU", "PAN", "GHA", "COD"]
+    },
+    {
+      "name": "Martin",
+      "colour": "#ffe119",
+      "teams": ["ARG", "AUT", "SCO", "CUW", "HAI"]
+    },
+    {
+      "name": "MA",
+      "colour": "#4363d8",
+      "teams": ["CAN", "ENG", "KOR", "ALG", "EGY", "BIH"]
+    },
+    {
+      "name": "Neil",
+      "colour": "#f58231",
+      "teams": ["FRA", "MAR", "PAR", "CIV", "TUR"]
+    },
+    {
+      "name": "LA",
+      "colour": "#911eb4",
+      "teams": ["NED", "AUS", "KSA", "UZB", "JOR"]
+    },
+    {
+      "name": "JK",
+      "colour": "#46f0f0",
+      "teams": ["GER", "SEN", "ECU", "RSA", "CPV"]
+    },
+    {
+      "name": "Adam",
+      "colour": "#f032e6",
+      "teams": ["BRA", "SUI", "IRN", "TUN", "NZL"]
+    },
+    {
+      "name": "Ollie",
+      "colour": "#bcf60c",
+      "teams": ["BEL", "COL", "CRO", "QAT", "IRQ"]
+    }
+  ]
+}

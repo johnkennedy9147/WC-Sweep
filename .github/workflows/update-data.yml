@@ -1,0 +1,44 @@
+name: Update tournament data
+
+on:
+  schedule:
+    # Match windows for North America kickoffs, in UTC. Two ranges because
+    # cron can't span midnight. Widen/narrow once the real schedule is known.
+    - cron: '*/10 15-23 * * *'
+    - cron: '*/10 0-7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch, derive, write snapshot
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: node scripts/update-snapshot.js
+      # Data commits intentionally do NOT trigger a Pages deploy: the
+      # front-end reads data/snapshot.json from raw.githubusercontent.com,
+      # and GITHUB_TOKEN commits can't trigger other workflows anyway.
+      - name: Commit snapshot if changed
+        run: |
+          if git diff --quiet -- data/snapshot.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/snapshot.json
+          git commit -m "data: update snapshot"
+          git pull --rebase origin main
+          git push
