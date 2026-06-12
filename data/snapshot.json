@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-12T20:32:41.400Z",
- "sourceLastUpdated": "2026-06-12T20:32:14Z",
+ "fetchedAt": "2026-06-12T21:00:25.910Z",
+ "sourceLastUpdated": "2026-06-12T20:59:56Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-13T01:00:00Z",
  "groups": [
@@ -98,15 +98,34 @@
       "colour": "#4363d8"
      },
      "played": 1,
-     "won": 1,
-     "drawn": 0,
+     "won": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 1,
-     "ga": 0,
-     "gd": 1,
-     "points": 3,
-     "undetermined": false,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
      "position": 1,
+     "status": "projected"
+    },
+    {
+     "teamId": "CAN",
+     "name": "Canada",
+     "drawnBy": {
+      "name": "MA",
+      "colour": "#4363d8"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -125,8 +144,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 2,
-     "status": "projected"
+     "position": 3,
+     "status": "thirds"
     },
     {
      "teamId": "SUI",
@@ -144,25 +163,6 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
-    },
-    {
-     "teamId": "CAN",
-     "name": "Canada",
-     "drawnBy": {
-      "name": "MA",
-      "colour": "#4363d8"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 0,
-     "ga": 1,
-     "gd": -1,
-     "points": 0,
-     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1011,11 +1011,11 @@
     "group": "B",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "SUI",
-    "name": "Switzerland",
+    "teamId": "QAT",
+    "name": "Qatar",
     "drawnBy": {
-     "name": "Adam",
-     "colour": "#f032e6"
+     "name": "Ollie",
+     "colour": "#bcf60c"
     },
     "played": 0,
     "won": 0,
@@ -2237,6 +2237,17 @@
  ],
  "topScorers": [
   {
+   "playerName": "Cyle Larin",
+   "teamId": "CAN",
+   "teamName": "Canada",
+   "goals": 1,
+   "drawnBy": {
+    "name": "MA",
+    "colour": "#4363d8"
+   },
+   "rank": 1
+  },
+  {
    "playerName": "Hyun-Gyu Oh",
    "teamId": "KOR",
    "teamName": "Korea Republic",
@@ -2340,6 +2351,7 @@
    "amount": "£10",
    "tie": true,
    "leaders": [
+    "Cyle Larin",
     "Hyun-Gyu Oh",
     "In-beom Hwang",
     "Jovo Lukić",
