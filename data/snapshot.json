@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-12T16:39:49.474Z",
- "sourceLastUpdated": "2026-06-12T08:25:00Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-12T19:00:00Z",
+ "fetchedAt": "2026-06-12T20:11:24.943Z",
+ "sourceLastUpdated": "2026-06-12T19:57:20Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-13T01:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -97,35 +97,16 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 0,
-     "won": 0,
+     "played": 1,
+     "won": 1,
      "drawn": 0,
      "lost": 0,
-     "gf": 0,
+     "gf": 1,
      "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": true,
+     "gd": 1,
+     "points": 3,
+     "undetermined": false,
      "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "CAN",
-     "name": "Canada",
-     "drawnBy": {
-      "name": "MA",
-      "colour": "#4363d8"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": true,
-     "position": 2,
      "status": "projected"
     },
     {
@@ -144,8 +125,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 2,
+     "status": "projected"
     },
     {
      "teamId": "SUI",
@@ -163,6 +144,25 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
+     "teamId": "CAN",
+     "name": "Canada",
+     "drawnBy": {
+      "name": "MA",
+      "colour": "#4363d8"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 0,
+     "lost": 1,
+     "gf": 0,
+     "ga": 1,
+     "gd": -1,
+     "points": 0,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1011,11 +1011,11 @@
     "group": "B",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "QAT",
-    "name": "Qatar",
+    "teamId": "SUI",
+    "name": "Switzerland",
     "drawnBy": {
-     "name": "Ollie",
-     "colour": "#bcf60c"
+     "name": "Adam",
+     "colour": "#f032e6"
     },
     "played": 0,
     "won": 0,
@@ -2259,6 +2259,17 @@
    "rank": 1
   },
   {
+   "playerName": "Jovo Lukić",
+   "teamId": "BIH",
+   "teamName": "Bosnia-H.",
+   "goals": 1,
+   "drawnBy": {
+    "name": "MA",
+    "colour": "#4363d8"
+   },
+   "rank": 1
+  },
+  {
    "playerName": "Julián Quiñones",
    "teamId": "MEX",
    "teamName": "Mexico",
@@ -2331,6 +2342,7 @@
    "leaders": [
     "Hyun-Gyu Oh",
     "In-beom Hwang",
+    "Jovo Lukić",
     "Julián Quiñones",
     "Ladislav Krejčí",
     "Raúl Jiménez"
