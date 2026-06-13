@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-13T21:17:29.715Z",
- "sourceLastUpdated": "2026-06-13T21:09:44Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-13T22:00:00Z",
+ "fetchedAt": "2026-06-13T22:07:12.121Z",
+ "sourceLastUpdated": "2026-06-13T22:05:59Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-14T01:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -179,35 +179,16 @@
       "name": "Adam",
       "colour": "#f032e6"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "HAI",
-     "name": "Haiti",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": true,
-     "position": 2,
      "status": "projected"
     },
     {
@@ -216,6 +197,25 @@
      "drawnBy": {
       "name": "Neil",
       "colour": "#f58231"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
+     "position": 2,
+     "status": "projected"
+    },
+    {
+     "teamId": "HAI",
+     "name": "Haiti",
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
      },
      "played": 0,
      "won": 0,
@@ -1034,11 +1034,11 @@
     "group": "C",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "MAR",
-    "name": "Morocco",
+    "teamId": "HAI",
+    "name": "Haiti",
     "drawnBy": {
-     "name": "Neil",
-     "colour": "#f58231"
+     "name": "Martin",
+     "colour": "#ffe119"
     },
     "played": 0,
     "won": 0,
