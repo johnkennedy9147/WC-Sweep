@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-13T19:17:39.915Z",
- "sourceLastUpdated": "2026-06-13T19:16:38Z",
+ "fetchedAt": "2026-06-13T19:27:23.330Z",
+ "sourceLastUpdated": "2026-06-13T19:26:50Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-13T22:00:00Z",
  "groups": [
@@ -375,6 +375,22 @@
      "status": "projected"
     },
     {
+     "teamId": "CUR",
+     "name": "Curaçao",
+     "drawnBy": null,
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": true,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
      "teamId": "ECU",
      "name": "Ecuador",
      "drawnBy": {
@@ -390,8 +406,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 4,
+     "status": "alive"
     },
     {
      "teamId": "GER",
@@ -409,7 +425,7 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 4,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -1080,12 +1096,9 @@
     "group": "E",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "ECU",
-    "name": "Ecuador",
-    "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
-    },
+    "teamId": "CUR",
+    "name": "Curaçao",
+    "drawnBy": null,
     "played": 0,
     "won": 0,
     "drawn": 0,
@@ -2246,6 +2259,17 @@
     "colour": "#e6194b"
    },
    "rank": 1
+  },
+  {
+   "playerName": "Breel Embolo",
+   "teamId": "SUI",
+   "teamName": "Switzerland",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Adam",
+    "colour": "#f032e6"
+   },
+   "rank": 2
   },
   {
    "playerName": "Cyle Larin",
