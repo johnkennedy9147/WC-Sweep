@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-12T23:03:36.480Z",
- "sourceLastUpdated": "2026-06-12T22:25:00Z",
+ "fetchedAt": "2026-06-13T04:44:02.907Z",
+ "sourceLastUpdated": "2026-06-13T03:25:00Z",
  "liveNow": false,
- "nextKickoffUtc": "2026-06-13T01:00:00Z",
+ "nextKickoffUtc": "2026-06-13T19:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -255,30 +255,30 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "USA",
+     "name": "United States",
+     "drawnBy": {
+      "name": "Paolo",
+      "colour": "#e6194b"
+     },
+     "played": 1,
+     "won": 1,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 4,
+     "ga": 1,
+     "gd": 3,
+     "points": 3,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "AUS",
      "name": "Australia",
      "drawnBy": {
       "name": "LA",
       "colour": "#911eb4"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": true,
-     "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "PAR",
-     "name": "Paraguay",
-     "drawnBy": {
-      "name": "Neil",
-      "colour": "#f58231"
      },
      "played": 0,
      "won": 0,
@@ -312,21 +312,21 @@
      "status": "thirds"
     },
     {
-     "teamId": "USA",
-     "name": "United States",
+     "teamId": "PAR",
+     "name": "Paraguay",
      "drawnBy": {
-      "name": "Paolo",
-      "colour": "#e6194b"
+      "name": "Neil",
+      "colour": "#f58231"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
      "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
+     "lost": 1,
+     "gf": 1,
+     "ga": 4,
+     "gd": -3,
      "points": 0,
-     "undetermined": true,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -2237,6 +2237,17 @@
  ],
  "topScorers": [
   {
+   "playerName": "Folarin Balogun",
+   "teamId": "USA",
+   "teamName": "USA",
+   "goals": 2,
+   "drawnBy": {
+    "name": "Paolo",
+    "colour": "#e6194b"
+   },
+   "rank": 1
+  },
+  {
    "playerName": "Cyle Larin",
    "teamId": "CAN",
    "teamName": "Canada",
@@ -2245,7 +2256,18 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 1
+   "rank": 2
+  },
+  {
+   "playerName": "Gio Reyna",
+   "teamId": "USA",
+   "teamName": "USA",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Paolo",
+    "colour": "#e6194b"
+   },
+   "rank": 2
   },
   {
    "playerName": "Hyun-Gyu Oh",
@@ -2256,7 +2278,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 1
+   "rank": 2
   },
   {
    "playerName": "In-beom Hwang",
@@ -2267,7 +2289,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 1
+   "rank": 2
   },
   {
    "playerName": "Jovo Lukić",
@@ -2278,7 +2300,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 1
+   "rank": 2
   },
   {
    "playerName": "Julián Quiñones",
@@ -2289,7 +2311,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 1
+   "rank": 2
   },
   {
    "playerName": "Ladislav Krejčí",
@@ -2300,7 +2322,18 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 1
+   "rank": 2
+  },
+  {
+   "playerName": "Mauricio",
+   "teamId": "PAR",
+   "teamName": "Paraguay",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Neil",
+    "colour": "#f58231"
+   },
+   "rank": 2
   },
   {
    "playerName": "Raúl Jiménez",
@@ -2311,7 +2344,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 1
+   "rank": 2
   }
  ],
  "prizes": {
@@ -2349,18 +2382,11 @@
   },
   "topScorer": {
    "amount": "£10",
-   "tie": true,
+   "tie": false,
    "leaders": [
-    "Cyle Larin",
-    "Hyun-Gyu Oh",
-    "In-beom Hwang",
-    "Jovo Lukić",
-    "Julián Quiñones",
-    "Ladislav Krejčí",
-    "Raúl Jiménez"
+    "Folarin Balogun"
    ],
    "holders": [
-    "MA",
     "Paolo"
    ]
   }
