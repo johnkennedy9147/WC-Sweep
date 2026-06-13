@@ -1,0 +1,7 @@
+# This Netlify site exists only to host the scheduled function that triggers
+# the GitHub data-refresh workflow. The actual front-end is served from GitHub
+# Pages, so there's no build and we publish a placeholder directory.
+[build]
+  command = ""
+  publish = "netlify-public"
+  functions = "netlify/functions"
