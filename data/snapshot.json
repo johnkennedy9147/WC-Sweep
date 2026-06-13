@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-13T20:57:22.211Z",
- "sourceLastUpdated": "2026-06-13T20:57:14Z",
+ "fetchedAt": "2026-06-13T21:07:21.595Z",
+ "sourceLastUpdated": "2026-06-13T21:06:48Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-13T22:00:00Z",
  "groups": [
@@ -91,25 +91,6 @@
    "complete": false,
    "standings": [
     {
-     "teamId": "SUI",
-     "name": "Switzerland",
-     "drawnBy": {
-      "name": "Adam",
-      "colour": "#f032e6"
-     },
-     "played": 1,
-     "won": 1,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 1,
-     "ga": 0,
-     "gd": 1,
-     "points": 3,
-     "undetermined": false,
-     "position": 1,
-     "status": "projected"
-    },
-    {
      "teamId": "BIH",
      "name": "Bosnia and Herzegovina",
      "drawnBy": {
@@ -125,7 +106,7 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 2,
+     "position": 1,
      "status": "projected"
     },
     {
@@ -144,8 +125,8 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 2,
+     "status": "projected"
     },
     {
      "teamId": "QAT",
@@ -156,13 +137,32 @@
      },
      "played": 1,
      "won": 0,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 0,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 1,
      "ga": 1,
-     "gd": -1,
-     "points": 0,
-     "undetermined": false,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
+     "teamId": "SUI",
+     "name": "Switzerland",
+     "drawnBy": {
+      "name": "Adam",
+      "colour": "#f032e6"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
      "position": 4,
      "status": "alive"
     }
@@ -375,6 +375,22 @@
      "status": "projected"
     },
     {
+     "teamId": "CUR",
+     "name": "Curaçao",
+     "drawnBy": null,
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": true,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
      "teamId": "ECU",
      "name": "Ecuador",
      "drawnBy": {
@@ -390,8 +406,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 4,
+     "status": "alive"
     },
     {
      "teamId": "GER",
@@ -409,7 +425,7 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 4,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -1011,11 +1027,11 @@
     "group": "B",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "CAN",
-    "name": "Canada",
+    "teamId": "QAT",
+    "name": "Qatar",
     "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
+     "name": "Ollie",
+     "colour": "#bcf60c"
     },
     "played": 1,
     "won": 0,
@@ -1080,12 +1096,9 @@
     "group": "E",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "ECU",
-    "name": "Ecuador",
-    "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
-    },
+    "teamId": "CUR",
+    "name": "Curaçao",
+    "drawnBy": null,
     "played": 0,
     "won": 0,
     "drawn": 0,
@@ -2246,6 +2259,17 @@
     "colour": "#e6194b"
    },
    "rank": 1
+  },
+  {
+   "playerName": "Boualem Khoukhi",
+   "teamId": "QAT",
+   "teamName": "Qatar",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Ollie",
+    "colour": "#bcf60c"
+   },
+   "rank": 2
   },
   {
    "playerName": "Breel Embolo",
