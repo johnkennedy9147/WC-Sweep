@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-13T19:01:22.776Z",
- "sourceLastUpdated": "2026-06-13T03:25:00Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-13T19:00:00Z",
+ "fetchedAt": "2026-06-13T19:07:32.158Z",
+ "sourceLastUpdated": "2026-06-13T19:05:53Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-13T22:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -135,14 +135,14 @@
       "name": "Ollie",
       "colour": "#bcf60c"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 3,
      "status": "thirds"
@@ -154,14 +154,14 @@
       "name": "Adam",
       "colour": "#f032e6"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 4,
      "status": "alive"
@@ -375,22 +375,6 @@
      "status": "projected"
     },
     {
-     "teamId": "CUR",
-     "name": "Curaçao",
-     "drawnBy": null,
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": true,
-     "position": 3,
-     "status": "thirds"
-    },
-    {
      "teamId": "ECU",
      "name": "Ecuador",
      "drawnBy": {
@@ -406,8 +390,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 4,
-     "status": "alive"
+     "position": 3,
+     "status": "thirds"
     },
     {
      "teamId": "GER",
@@ -425,7 +409,7 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 5,
+     "position": 4,
      "status": "alive"
     }
    ]
@@ -1033,15 +1017,15 @@
      "name": "Ollie",
      "colour": "#bcf60c"
     },
-    "played": 0,
+    "played": 1,
     "won": 0,
-    "drawn": 0,
+    "drawn": 1,
     "lost": 0,
     "gf": 0,
     "ga": 0,
     "gd": 0,
-    "points": 0,
-    "undetermined": true,
+    "points": 1,
+    "undetermined": false,
     "position": 3,
     "rank": 1,
     "qualified": true
@@ -1096,9 +1080,12 @@
     "group": "E",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "CUR",
-    "name": "Curaçao",
-    "drawnBy": null,
+    "teamId": "ECU",
+    "name": "Ecuador",
+    "drawnBy": {
+     "name": "JK",
+     "colour": "#46f0f0"
+    },
     "played": 0,
     "won": 0,
     "drawn": 0,
