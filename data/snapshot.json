@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-06-13T22:27:17.467Z",
+ "fetchedAt": "2026-06-13T22:27:30.268Z",
  "sourceLastUpdated": "2026-06-13T22:26:59Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-14T01:00:00Z",
@@ -2310,6 +2310,17 @@
    "drawnBy": {
     "name": "MA",
     "colour": "#4363d8"
+   },
+   "rank": 2
+  },
+  {
+   "playerName": "Ismael Saibari",
+   "teamId": "MAR",
+   "teamName": "Morocco",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Neil",
+    "colour": "#f58231"
    },
    "rank": 2
   },
