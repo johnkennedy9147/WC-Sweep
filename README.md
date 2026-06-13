@@ -1,16 +1,13 @@
 # World Cup 2026 Sweepstakes Tracker
 
-Read-only static tracker for a 9-player family sweepstakes. See `PRD.md` for
-the full design. Architecture in one breath: a GitHub Actions cron fetches
-football-data.org, runs it through a pure Tournament State Engine, and commits
-`data/snapshot.json`; the React page polls that file from the repo's raw URL,
-so data updates never need a redeploy.
+Read-only static tracker for a family and friends World Cup sweepstakes. 
 
+Netlify function triggered on a cron schedule dispatches GitHub Action which fetches from football-data.org, runs it through a state engine, and commits - `data/snapshot.json`; Front in is React SPA that polls that file from the repo's raw URL.
 ## Local dev
 
 ```sh
 npm install
-npm run sample   # regenerate data/snapshot.json from synthetic fixtures
+npm run sample   # only required before first real data fetch
 npm run dev
 ```
 
