@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-13T22:27:30.268Z",
- "sourceLastUpdated": "2026-06-13T22:26:59Z",
+ "fetchedAt": "2026-06-13T22:37:29.280Z",
+ "sourceLastUpdated": "2026-06-13T22:36:59Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-14T01:00:00Z",
  "groups": [
@@ -173,25 +173,6 @@
    "complete": false,
    "standings": [
     {
-     "teamId": "BRA",
-     "name": "Brazil",
-     "drawnBy": {
-      "name": "Adam",
-      "colour": "#f032e6"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 1,
-     "status": "projected"
-    },
-    {
      "teamId": "MAR",
      "name": "Morocco",
      "drawnBy": {
@@ -199,15 +180,15 @@
       "colour": "#f58231"
      },
      "played": 1,
-     "won": 0,
-     "drawn": 1,
+     "won": 1,
+     "drawn": 0,
      "lost": 0,
-     "gf": 0,
+     "gf": 1,
      "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 2,
+     "gd": 1,
+     "points": 3,
+     "undetermined": false,
+     "position": 1,
      "status": "projected"
     },
     {
@@ -226,8 +207,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 2,
+     "status": "projected"
     },
     {
      "teamId": "SCO",
@@ -245,6 +226,25 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
+     "teamId": "BRA",
+     "name": "Brazil",
+     "drawnBy": {
+      "name": "Adam",
+      "colour": "#f032e6"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 0,
+     "lost": 1,
+     "gf": 0,
+     "ga": 1,
+     "gd": -1,
+     "points": 0,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1034,8 +1034,8 @@
     "group": "C",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "HAI",
-    "name": "Haiti",
+    "teamId": "SCO",
+    "name": "Scotland",
     "drawnBy": {
      "name": "Martin",
      "colour": "#ffe119"
@@ -2376,6 +2376,17 @@
    "drawnBy": {
     "name": "Paolo",
     "colour": "#e6194b"
+   },
+   "rank": 2
+  },
+  {
+   "playerName": "Vinicius Junior",
+   "teamId": "BRA",
+   "teamName": "Brazil",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Adam",
+    "colour": "#f032e6"
    },
    "rank": 2
   }
