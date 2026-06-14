@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-14T01:27:39.111Z",
- "sourceLastUpdated": "2026-06-14T02:05:33Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-14T01:00:00Z",
+ "fetchedAt": "2026-06-14T01:37:26.012Z",
+ "sourceLastUpdated": "2026-06-14T01:37:23Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-14T04:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -173,6 +173,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "SCO",
+     "name": "Scotland",
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
+     },
+     "played": 1,
+     "won": 1,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 1,
+     "ga": 0,
+     "gd": 1,
+     "points": 3,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "BRA",
      "name": "Brazil",
      "drawnBy": {
@@ -188,7 +207,7 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 1,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -207,8 +226,8 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 2,
-     "status": "projected"
+     "position": 3,
+     "status": "thirds"
     },
     {
      "teamId": "HAI",
@@ -217,34 +236,15 @@
       "name": "Martin",
       "colour": "#ffe119"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
      "drawn": 0,
-     "lost": 0,
+     "lost": 1,
      "gf": 0,
-     "ga": 0,
-     "gd": 0,
+     "ga": 1,
+     "gd": -1,
      "points": 0,
-     "undetermined": true,
-     "position": 3,
-     "status": "thirds"
-    },
-    {
-     "teamId": "SCO",
-     "name": "Scotland",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": true,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1025,7 +1025,7 @@
     "ga": 1,
     "gd": 0,
     "points": 1,
-    "undetermined": false,
+    "undetermined": true,
     "position": 3,
     "rank": 1,
     "qualified": true
@@ -1034,20 +1034,20 @@
     "group": "C",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "HAI",
-    "name": "Haiti",
+    "teamId": "MAR",
+    "name": "Morocco",
     "drawnBy": {
-     "name": "Martin",
-     "colour": "#ffe119"
+     "name": "Neil",
+     "colour": "#f58231"
     },
-    "played": 0,
+    "played": 1,
     "won": 0,
-    "drawn": 0,
+    "drawn": 1,
     "lost": 0,
-    "gf": 0,
-    "ga": 0,
+    "gf": 1,
+    "ga": 1,
     "gd": 0,
-    "points": 0,
+    "points": 1,
     "undetermined": true,
     "position": 3,
     "rank": 2,
@@ -2321,6 +2321,17 @@
    "drawnBy": {
     "name": "Neil",
     "colour": "#f58231"
+   },
+   "rank": 2
+  },
+  {
+   "playerName": "John McGinn",
+   "teamId": "SCO",
+   "teamName": "Scotland",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Martin",
+    "colour": "#ffe119"
    },
    "rank": 2
   },
