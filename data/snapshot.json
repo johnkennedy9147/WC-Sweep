@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-14T18:07:29.426Z",
- "sourceLastUpdated": "2026-06-14T18:01:53Z",
+ "fetchedAt": "2026-06-14T18:17:24.700Z",
+ "sourceLastUpdated": "2026-06-14T18:16:29Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-14T20:00:00Z",
  "groups": [
@@ -347,9 +347,9 @@
      "won": 1,
      "drawn": 0,
      "lost": 0,
-     "gf": 3,
+     "gf": 4,
      "ga": 1,
-     "gd": 2,
+     "gd": 3,
      "points": 3,
      "undetermined": false,
      "position": 1,
@@ -405,8 +405,8 @@
      "drawn": 0,
      "lost": 1,
      "gf": 1,
-     "ga": 3,
-     "gd": -2,
+     "ga": 4,
+     "gd": -3,
      "points": 0,
      "undetermined": false,
      "position": 4,
@@ -2343,6 +2343,17 @@
    "drawnBy": {
     "name": "Neil",
     "colour": "#f58231"
+   },
+   "rank": 2
+  },
+  {
+   "playerName": "Jamal Musiala",
+   "teamId": "GER",
+   "teamName": "Germany",
+   "goals": 1,
+   "drawnBy": {
+    "name": "JK",
+    "colour": "#46f0f0"
    },
    "rank": 2
   },
