@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-14T03:17:20.789Z",
- "sourceLastUpdated": "2026-06-14T03:09:14Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-14T04:00:00Z",
+ "fetchedAt": "2026-06-14T04:17:37.728Z",
+ "sourceLastUpdated": "2026-06-14T04:17:14Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-14T17:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -280,14 +280,14 @@
       "name": "LA",
       "colour": "#911eb4"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 2,
      "status": "projected"
@@ -299,14 +299,14 @@
       "name": "Neil",
       "colour": "#f58231"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 3,
      "status": "thirds"
@@ -1063,15 +1063,15 @@
      "name": "Neil",
      "colour": "#f58231"
     },
-    "played": 0,
+    "played": 1,
     "won": 0,
-    "drawn": 0,
+    "drawn": 1,
     "lost": 0,
     "gf": 0,
     "ga": 0,
     "gd": 0,
-    "points": 0,
-    "undetermined": true,
+    "points": 1,
+    "undetermined": false,
     "position": 3,
     "rank": 3,
     "qualified": true
