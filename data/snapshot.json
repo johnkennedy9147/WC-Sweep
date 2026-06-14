@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-14T05:27:30.031Z",
- "sourceLastUpdated": "2026-06-14T05:27:26Z",
+ "fetchedAt": "2026-06-14T05:37:19.174Z",
+ "sourceLastUpdated": "2026-06-14T05:36:26Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-14T17:00:00Z",
  "groups": [
@@ -2266,6 +2266,17 @@
    "drawnBy": {
     "name": "Adam",
     "colour": "#f032e6"
+   },
+   "rank": 2
+  },
+  {
+   "playerName": "Connor Metcalfe",
+   "teamId": "AUS",
+   "teamName": "Australia",
+   "goals": 1,
+   "drawnBy": {
+    "name": "LA",
+    "colour": "#911eb4"
    },
    "rank": 2
   },
