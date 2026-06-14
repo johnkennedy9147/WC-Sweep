@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-14T01:17:27.674Z",
- "sourceLastUpdated": "2026-06-14T01:16:47Z",
- "liveNow": true,
- "nextKickoffUtc": "2026-06-14T04:00:00Z",
+ "fetchedAt": "2026-06-14T01:27:39.111Z",
+ "sourceLastUpdated": "2026-06-14T02:05:33Z",
+ "liveNow": false,
+ "nextKickoffUtc": "2026-06-14T01:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -217,14 +217,14 @@
       "name": "Martin",
       "colour": "#ffe119"
      },
-     "played": 1,
+     "played": 0,
      "won": 0,
-     "drawn": 1,
+     "drawn": 0,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 1,
+     "points": 0,
      "undetermined": true,
      "position": 3,
      "status": "thirds"
@@ -236,14 +236,14 @@
       "name": "Martin",
       "colour": "#ffe119"
      },
-     "played": 1,
+     "played": 0,
      "won": 0,
-     "drawn": 1,
+     "drawn": 0,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 1,
+     "points": 0,
      "undetermined": true,
      "position": 4,
      "status": "alive"
@@ -1040,15 +1040,15 @@
      "name": "Martin",
      "colour": "#ffe119"
     },
-    "played": 1,
+    "played": 0,
     "won": 0,
-    "drawn": 1,
+    "drawn": 0,
     "lost": 0,
     "gf": 0,
     "ga": 0,
     "gd": 0,
-    "points": 1,
-    "undetermined": false,
+    "points": 0,
+    "undetermined": true,
     "position": 3,
     "rank": 2,
     "qualified": true
