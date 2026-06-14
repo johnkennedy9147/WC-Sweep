@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-14T21:07:15.737Z",
- "sourceLastUpdated": "2026-06-14T20:55:02Z",
+ "fetchedAt": "2026-06-14T21:17:23.453Z",
+ "sourceLastUpdated": "2026-06-14T21:16:01Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-14T23:00:00Z",
  "groups": [
@@ -419,25 +419,6 @@
    "complete": false,
    "standings": [
     {
-     "teamId": "JPN",
-     "name": "Japan",
-     "drawnBy": {
-      "name": "Paolo",
-      "colour": "#e6194b"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 1,
-     "status": "projected"
-    },
-    {
      "teamId": "NED",
      "name": "Netherlands",
      "drawnBy": {
@@ -445,15 +426,15 @@
       "colour": "#911eb4"
      },
      "played": 1,
-     "won": 0,
-     "drawn": 1,
+     "won": 1,
+     "drawn": 0,
      "lost": 0,
-     "gf": 0,
+     "gf": 1,
      "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 2,
+     "gd": 1,
+     "points": 3,
+     "undetermined": false,
+     "position": 1,
      "status": "projected"
     },
     {
@@ -472,8 +453,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 2,
+     "status": "projected"
     },
     {
      "teamId": "TUN",
@@ -491,6 +472,25 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
+     "teamId": "JPN",
+     "name": "Japan",
+     "drawnBy": {
+      "name": "Paolo",
+      "colour": "#e6194b"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 0,
+     "lost": 1,
+     "gf": 0,
+     "ga": 1,
+     "gd": -1,
+     "points": 0,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1080,11 +1080,11 @@
     "group": "F",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "SWE",
-    "name": "Sweden",
+    "teamId": "TUN",
+    "name": "Tunisia",
     "drawnBy": {
-     "name": "Paolo",
-     "colour": "#e6194b"
+     "name": "Adam",
+     "colour": "#f032e6"
     },
     "played": 0,
     "won": 0,
@@ -2497,6 +2497,17 @@
    "drawnBy": {
     "name": "Adam",
     "colour": "#f032e6"
+   },
+   "rank": 3
+  },
+  {
+   "playerName": "Virgil van Dijk",
+   "teamId": "NED",
+   "teamName": "Netherlands",
+   "goals": 1,
+   "drawnBy": {
+    "name": "LA",
+    "colour": "#911eb4"
    },
    "rank": 3
   }
