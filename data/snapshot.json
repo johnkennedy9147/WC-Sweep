@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-14T18:27:17.494Z",
- "sourceLastUpdated": "2026-06-14T18:26:08Z",
+ "fetchedAt": "2026-06-14T18:37:26.634Z",
+ "sourceLastUpdated": "2026-06-14T18:36:35Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-14T20:00:00Z",
  "groups": [
@@ -347,9 +347,9 @@
      "won": 1,
      "drawn": 0,
      "lost": 0,
-     "gf": 4,
+     "gf": 5,
      "ga": 1,
-     "gd": 3,
+     "gd": 4,
      "points": 3,
      "undetermined": false,
      "position": 1,
@@ -405,8 +405,8 @@
      "drawn": 0,
      "lost": 1,
      "gf": 1,
-     "ga": 4,
-     "gd": -3,
+     "ga": 5,
+     "gd": -4,
      "points": 0,
      "undetermined": false,
      "position": 4,
@@ -2431,6 +2431,17 @@
    "drawnBy": {
     "name": "Neil",
     "colour": "#f58231"
+   },
+   "rank": 2
+  },
+  {
+   "playerName": "Nathaniel Brown",
+   "teamId": "GER",
+   "teamName": "Germany",
+   "goals": 1,
+   "drawnBy": {
+    "name": "JK",
+    "colour": "#46f0f0"
    },
    "rank": 2
   },
