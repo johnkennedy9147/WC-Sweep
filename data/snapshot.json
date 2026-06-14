@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-14T17:47:19.604Z",
- "sourceLastUpdated": "2026-06-14T17:47:17Z",
+ "fetchedAt": "2026-06-14T17:57:19.622Z",
+ "sourceLastUpdated": "2026-06-14T17:56:53Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-14T20:00:00Z",
  "groups": [
@@ -347,9 +347,9 @@
      "won": 1,
      "drawn": 0,
      "lost": 0,
-     "gf": 2,
+     "gf": 3,
      "ga": 1,
-     "gd": 1,
+     "gd": 2,
      "points": 3,
      "undetermined": false,
      "position": 1,
@@ -405,8 +405,8 @@
      "drawn": 0,
      "lost": 1,
      "gf": 1,
-     "ga": 2,
-     "gd": -1,
+     "ga": 3,
+     "gd": -2,
      "points": 0,
      "undetermined": false,
      "position": 4,
@@ -2376,6 +2376,17 @@
    "drawnBy": {
     "name": "Paolo",
     "colour": "#e6194b"
+   },
+   "rank": 2
+  },
+  {
+   "playerName": "Kai Havertz",
+   "teamId": "GER",
+   "teamName": "Germany",
+   "goals": 1,
+   "drawnBy": {
+    "name": "JK",
+    "colour": "#46f0f0"
    },
    "rank": 2
   },
