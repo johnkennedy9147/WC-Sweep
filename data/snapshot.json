@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-14T21:17:23.453Z",
- "sourceLastUpdated": "2026-06-14T21:16:01Z",
+ "fetchedAt": "2026-06-14T21:27:15.968Z",
+ "sourceLastUpdated": "2026-06-14T21:26:43Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-14T23:00:00Z",
  "groups": [
@@ -419,6 +419,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "JPN",
+     "name": "Japan",
+     "drawnBy": {
+      "name": "Paolo",
+      "colour": "#e6194b"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "NED",
      "name": "Netherlands",
      "drawnBy": {
@@ -426,15 +445,15 @@
       "colour": "#911eb4"
      },
      "played": 1,
-     "won": 1,
-     "drawn": 0,
+     "won": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 1,
-     "ga": 0,
-     "gd": 1,
-     "points": 3,
-     "undetermined": false,
-     "position": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -453,8 +472,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 2,
-     "status": "projected"
+     "position": 3,
+     "status": "thirds"
     },
     {
      "teamId": "TUN",
@@ -472,25 +491,6 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
-    },
-    {
-     "teamId": "JPN",
-     "name": "Japan",
-     "drawnBy": {
-      "name": "Paolo",
-      "colour": "#e6194b"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 0,
-     "ga": 1,
-     "gd": -1,
-     "points": 0,
-     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1080,11 +1080,11 @@
     "group": "F",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "TUN",
-    "name": "Tunisia",
+    "teamId": "SWE",
+    "name": "Sweden",
     "drawnBy": {
-     "name": "Adam",
-     "colour": "#f032e6"
+     "name": "Paolo",
+     "colour": "#e6194b"
     },
     "played": 0,
     "won": 0,
@@ -2292,6 +2292,17 @@
    "rank": 3
   },
   {
+   "playerName": "Crysencio Summerville",
+   "teamId": "NED",
+   "teamName": "Netherlands",
+   "goals": 1,
+   "drawnBy": {
+    "name": "LA",
+    "colour": "#911eb4"
+   },
+   "rank": 3
+  },
+  {
    "playerName": "Cyle Larin",
    "teamId": "CAN",
    "teamName": "Canada",
@@ -2405,6 +2416,17 @@
    "playerName": "Julián Quiñones",
    "teamId": "MEX",
    "teamName": "Mexico",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Paolo",
+    "colour": "#e6194b"
+   },
+   "rank": 3
+  },
+  {
+   "playerName": "Keito Nakamura",
+   "teamId": "JPN",
+   "teamName": "Japan",
    "goals": 1,
    "drawnBy": {
     "name": "Paolo",
