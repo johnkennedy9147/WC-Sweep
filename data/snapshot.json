@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-15T02:07:34.713Z",
- "sourceLastUpdated": "2026-06-15T02:59:31Z",
+ "fetchedAt": "2026-06-15T02:17:35.407Z",
+ "sourceLastUpdated": "2026-06-15T02:17:25Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-15T16:00:00Z",
  "groups": [
@@ -419,6 +419,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "SWE",
+     "name": "Sweden",
+     "drawnBy": {
+      "name": "Paolo",
+      "colour": "#e6194b"
+     },
+     "played": 1,
+     "won": 1,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 1,
+     "ga": 0,
+     "gd": 1,
+     "points": 3,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "JPN",
      "name": "Japan",
      "drawnBy": {
@@ -434,7 +453,7 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 1,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -453,25 +472,6 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 2,
-     "status": "projected"
-    },
-    {
-     "teamId": "SWE",
-     "name": "Sweden",
-     "drawnBy": {
-      "name": "Paolo",
-      "colour": "#e6194b"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
      "position": 3,
      "status": "thirds"
     },
@@ -484,13 +484,13 @@
      },
      "played": 1,
      "won": 0,
-     "drawn": 1,
-     "lost": 0,
+     "drawn": 0,
+     "lost": 1,
      "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
+     "ga": 1,
+     "gd": -1,
+     "points": 0,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1008,6 +1008,29 @@
  "thirdPlace": {
   "rows": [
    {
+    "group": "F",
+    "groupComplete": false,
+    "identityUndetermined": true,
+    "teamId": "NED",
+    "name": "Netherlands",
+    "drawnBy": {
+     "name": "LA",
+     "colour": "#911eb4"
+    },
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "gf": 2,
+    "ga": 2,
+    "gd": 0,
+    "points": 1,
+    "undetermined": false,
+    "position": 3,
+    "rank": 1,
+    "qualified": true
+   },
+   {
     "group": "B",
     "groupComplete": false,
     "identityUndetermined": true,
@@ -1027,7 +1050,7 @@
     "points": 1,
     "undetermined": true,
     "position": 3,
-    "rank": 1,
+    "rank": 2,
     "qualified": true
    },
    {
@@ -1049,29 +1072,6 @@
     "gd": 0,
     "points": 1,
     "undetermined": true,
-    "position": 3,
-    "rank": 2,
-    "qualified": true
-   },
-   {
-    "group": "F",
-    "groupComplete": false,
-    "identityUndetermined": true,
-    "teamId": "SWE",
-    "name": "Sweden",
-    "drawnBy": {
-     "name": "Paolo",
-     "colour": "#e6194b"
-    },
-    "played": 1,
-    "won": 0,
-    "drawn": 1,
-    "lost": 0,
-    "gf": 0,
-    "ga": 0,
-    "gd": 0,
-    "points": 1,
-    "undetermined": false,
     "position": 3,
     "rank": 3,
     "qualified": true
@@ -2552,6 +2552,17 @@
    "drawnBy": {
     "name": "LA",
     "colour": "#911eb4"
+   },
+   "rank": 3
+  },
+  {
+   "playerName": "Yasin Ayari",
+   "teamId": "SWE",
+   "teamName": "Sweden",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Paolo",
+    "colour": "#e6194b"
    },
    "rank": 3
   }
