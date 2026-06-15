@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-06-15T00:37:25.628Z",
+ "fetchedAt": "2026-06-15T00:57:34.248Z",
  "sourceLastUpdated": "2026-06-15T00:15:31Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-15T02:00:00Z",
@@ -2257,6 +2257,17 @@
     "colour": "#46f0f0"
    },
    "rank": 1
+  },
+  {
+   "playerName": "Amad Diallo",
+   "teamId": "CIV",
+   "teamName": "Ivory Coast",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Neil",
+    "colour": "#f58231"
+   },
+   "rank": 3
   },
   {
    "playerName": "Boualem Khoukhi",
