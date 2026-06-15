@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-15T22:37:30.983Z",
- "sourceLastUpdated": "2026-06-15T22:36:25Z",
+ "fetchedAt": "2026-06-15T22:47:13.126Z",
+ "sourceLastUpdated": "2026-06-15T22:46:43Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-16T01:00:00Z",
  "groups": [
@@ -2268,6 +2268,17 @@
     "colour": "#e6194b"
    },
    "rank": 1
+  },
+  {
+   "playerName": "Abdulelah Al Amri",
+   "teamId": "KSA",
+   "teamName": "Saudi Arabia",
+   "goals": 1,
+   "drawnBy": {
+    "name": "LA",
+    "colour": "#911eb4"
+   },
+   "rank": 4
   },
   {
    "playerName": "Alexander Isak",
