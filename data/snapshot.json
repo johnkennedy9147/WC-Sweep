@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-15T22:47:13.126Z",
- "sourceLastUpdated": "2026-06-15T22:46:43Z",
+ "fetchedAt": "2026-06-15T22:57:18.480Z",
+ "sourceLastUpdated": "2026-06-15T22:56:19Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-16T01:00:00Z",
  "groups": [
@@ -583,30 +583,30 @@
    "complete": false,
    "standings": [
     {
-     "teamId": "CPV",
-     "name": "Cape Verde",
-     "drawnBy": {
-      "name": "JK",
-      "colour": "#46f0f0"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 1,
-     "status": "projected"
-    },
-    {
      "teamId": "KSA",
      "name": "Saudi Arabia",
      "drawnBy": {
       "name": "LA",
       "colour": "#911eb4"
+     },
+     "played": 1,
+     "won": 1,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 1,
+     "ga": 0,
+     "gd": 1,
+     "points": 3,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
+     "teamId": "CPV",
+     "name": "Cape Verde",
+     "drawnBy": {
+      "name": "JK",
+      "colour": "#46f0f0"
      },
      "played": 1,
      "won": 0,
@@ -640,22 +640,6 @@
      "status": "thirds"
     },
     {
-     "teamId": "URY",
-     "name": "Uruguay",
-     "drawnBy": null,
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 4,
-     "status": "alive"
-    },
-    {
      "teamId": "URU",
      "name": "Uruguay",
      "drawnBy": {
@@ -669,6 +653,22 @@
      "gf": 0,
      "ga": 0,
      "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 4,
+     "status": "alive"
+    },
+    {
+     "teamId": "URY",
+     "name": "Uruguay",
+     "drawnBy": null,
+     "played": 1,
+     "won": 0,
+     "drawn": 0,
+     "lost": 1,
+     "gf": 0,
+     "ga": 1,
+     "gd": -1,
      "points": 0,
      "undetermined": false,
      "position": 5,
