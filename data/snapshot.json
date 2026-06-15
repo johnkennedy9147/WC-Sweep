@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-15T15:07:33.800Z",
- "sourceLastUpdated": "2026-06-15T08:25:01Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-15T16:00:00Z",
+ "fetchedAt": "2026-06-15T16:07:39.008Z",
+ "sourceLastUpdated": "2026-06-15T16:07:34Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-15T19:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -589,35 +589,16 @@
       "name": "JK",
       "colour": "#46f0f0"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "KSA",
-     "name": "Saudi Arabia",
-     "drawnBy": {
-      "name": "LA",
-      "colour": "#911eb4"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": true,
-     "position": 2,
      "status": "projected"
     },
     {
@@ -626,6 +607,25 @@
      "drawnBy": {
       "name": "Paolo",
       "colour": "#e6194b"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
+     "position": 2,
+     "status": "projected"
+    },
+    {
+     "teamId": "KSA",
+     "name": "Saudi Arabia",
+     "drawnBy": {
+      "name": "LA",
+      "colour": "#911eb4"
      },
      "played": 0,
      "won": 0,
@@ -1103,11 +1103,11 @@
     "group": "H",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "ESP",
-    "name": "Spain",
+    "teamId": "KSA",
+    "name": "Saudi Arabia",
     "drawnBy": {
-     "name": "Paolo",
-     "colour": "#e6194b"
+     "name": "LA",
+     "colour": "#911eb4"
     },
     "played": 0,
     "won": 0,
