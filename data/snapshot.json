@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-15T00:07:24.493Z",
- "sourceLastUpdated": "2026-06-14T23:58:32Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-14T23:00:00Z",
+ "fetchedAt": "2026-06-15T00:17:30.016Z",
+ "sourceLastUpdated": "2026-06-15T00:15:31Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-15T02:00:00Z",
  "groups": [
   {
    "id": "A",
