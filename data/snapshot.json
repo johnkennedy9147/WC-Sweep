@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-15T02:37:32.766Z",
- "sourceLastUpdated": "2026-06-15T02:37:16Z",
+ "fetchedAt": "2026-06-15T02:47:16.107Z",
+ "sourceLastUpdated": "2026-06-15T02:46:16Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-15T16:00:00Z",
  "groups": [
@@ -2530,6 +2530,17 @@
    "drawnBy": {
     "name": "JK",
     "colour": "#46f0f0"
+   },
+   "rank": 3
+  },
+  {
+   "playerName": "Omar Rekik",
+   "teamId": "TUN",
+   "teamName": "Tunisia",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Adam",
+    "colour": "#f032e6"
    },
    "rank": 3
   },
