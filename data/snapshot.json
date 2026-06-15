@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-15T23:47:18.732Z",
- "sourceLastUpdated": "2026-06-15T23:46:46Z",
+ "fetchedAt": "2026-06-15T23:57:31.835Z",
+ "sourceLastUpdated": "2026-06-15T23:57:28Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-16T01:00:00Z",
  "groups": [
@@ -590,15 +590,31 @@
       "colour": "#911eb4"
      },
      "played": 1,
-     "won": 1,
-     "drawn": 0,
+     "won": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 1,
-     "ga": 0,
-     "gd": 1,
-     "points": 3,
-     "undetermined": false,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
      "position": 1,
+     "status": "projected"
+    },
+    {
+     "teamId": "URY",
+     "name": "Uruguay",
+     "drawnBy": null,
+     "played": 1,
+     "won": 0,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -617,8 +633,8 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 2,
-     "status": "projected"
+     "position": 3,
+     "status": "thirds"
     },
     {
      "teamId": "ESP",
@@ -636,8 +652,8 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 4,
+     "status": "alive"
     },
     {
      "teamId": "URU",
@@ -653,22 +669,6 @@
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URY",
-     "name": "Uruguay",
-     "drawnBy": null,
-     "played": 1,
-     "won": 0,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 0,
-     "ga": 1,
-     "gd": -1,
      "points": 0,
      "undetermined": false,
      "position": 5,
@@ -1080,11 +1080,11 @@
     "group": "H",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "ESP",
-    "name": "Spain",
+    "teamId": "CPV",
+    "name": "Cape Verde",
     "drawnBy": {
-     "name": "Paolo",
-     "colour": "#e6194b"
+     "name": "JK",
+     "colour": "#46f0f0"
     },
     "played": 1,
     "won": 0,
