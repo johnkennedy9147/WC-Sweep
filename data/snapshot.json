@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-15T01:57:18.160Z",
+ "fetchedAt": "2026-06-15T02:07:34.713Z",
  "sourceLastUpdated": "2026-06-15T02:59:31Z",
  "liveNow": true,
- "nextKickoffUtc": "2026-06-15T02:00:00Z",
+ "nextKickoffUtc": "2026-06-15T16:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -463,14 +463,14 @@
       "name": "Paolo",
       "colour": "#e6194b"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 3,
      "status": "thirds"
@@ -482,14 +482,14 @@
       "name": "Adam",
       "colour": "#f032e6"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 4,
      "status": "alive"
@@ -1063,15 +1063,15 @@
      "name": "Paolo",
      "colour": "#e6194b"
     },
-    "played": 0,
+    "played": 1,
     "won": 0,
-    "drawn": 0,
+    "drawn": 1,
     "lost": 0,
     "gf": 0,
     "ga": 0,
     "gd": 0,
-    "points": 0,
-    "undetermined": true,
+    "points": 1,
+    "undetermined": false,
     "position": 3,
     "rank": 3,
     "qualified": true
