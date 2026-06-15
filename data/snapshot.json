@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-15T20:27:24.371Z",
- "sourceLastUpdated": "2026-06-15T20:26:19Z",
+ "fetchedAt": "2026-06-15T20:37:42.239Z",
+ "sourceLastUpdated": "2026-06-15T20:37:31Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-15T22:00:00Z",
  "groups": [
@@ -501,6 +501,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "BEL",
+     "name": "Belgium",
+     "drawnBy": {
+      "name": "Ollie",
+      "colour": "#bcf60c"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "EGY",
      "name": "Egypt",
      "drawnBy": {
@@ -508,15 +527,15 @@
       "colour": "#4363d8"
      },
      "played": 1,
-     "won": 1,
-     "drawn": 0,
+     "won": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 1,
-     "ga": 0,
-     "gd": 1,
-     "points": 3,
-     "undetermined": false,
-     "position": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -535,8 +554,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 2,
-     "status": "projected"
+     "position": 3,
+     "status": "thirds"
     },
     {
      "teamId": "NZL",
@@ -554,25 +573,6 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
-    },
-    {
-     "teamId": "BEL",
-     "name": "Belgium",
-     "drawnBy": {
-      "name": "Ollie",
-      "colour": "#bcf60c"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 0,
-     "ga": 1,
-     "gd": -1,
-     "points": 0,
-     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1080,8 +1080,8 @@
     "group": "G",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "NZL",
-    "name": "New Zealand",
+    "teamId": "IRN",
+    "name": "Iran",
     "drawnBy": {
      "name": "Adam",
      "colour": "#f032e6"
