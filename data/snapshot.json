@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-15T03:17:37.840Z",
- "sourceLastUpdated": "2026-06-15T03:16:28Z",
+ "fetchedAt": "2026-06-15T03:27:28.673Z",
+ "sourceLastUpdated": "2026-06-15T03:27:16Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-15T16:00:00Z",
  "groups": [
@@ -429,9 +429,9 @@
      "won": 1,
      "drawn": 0,
      "lost": 0,
-     "gf": 2,
+     "gf": 3,
      "ga": 1,
-     "gd": 1,
+     "gd": 2,
      "points": 3,
      "undetermined": false,
      "position": 1,
@@ -487,8 +487,8 @@
      "drawn": 0,
      "lost": 1,
      "gf": 1,
-     "ga": 2,
-     "gd": -1,
+     "ga": 3,
+     "gd": -2,
      "points": 0,
      "undetermined": false,
      "position": 4,
@@ -2548,6 +2548,17 @@
    "playerName": "Raúl Jiménez",
    "teamId": "MEX",
    "teamName": "Mexico",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Paolo",
+    "colour": "#e6194b"
+   },
+   "rank": 3
+  },
+  {
+   "playerName": "Viktor Gyökeres",
+   "teamId": "SWE",
+   "teamName": "Sweden",
    "goals": 1,
    "drawnBy": {
     "name": "Paolo",
