@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-16T01:27:26.718Z",
+ "fetchedAt": "2026-06-16T01:37:18.376Z",
  "sourceLastUpdated": "2026-06-16T02:59:13Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-16T01:00:00Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-16T19:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -501,6 +501,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "NZL",
+     "name": "New Zealand",
+     "drawnBy": {
+      "name": "Adam",
+      "colour": "#f032e6"
+     },
+     "played": 1,
+     "won": 1,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 1,
+     "ga": 0,
+     "gd": 1,
+     "points": 3,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "BEL",
      "name": "Belgium",
      "drawnBy": {
@@ -516,7 +535,7 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 1,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -535,8 +554,8 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 2,
-     "status": "projected"
+     "position": 3,
+     "status": "thirds"
     },
     {
      "teamId": "IRN",
@@ -545,34 +564,15 @@
       "name": "Adam",
       "colour": "#f032e6"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
      "drawn": 0,
-     "lost": 0,
+     "lost": 1,
      "gf": 0,
-     "ga": 0,
-     "gd": 0,
+     "ga": 1,
+     "gd": -1,
      "points": 0,
-     "undetermined": true,
-     "position": 3,
-     "status": "thirds"
-    },
-    {
-     "teamId": "NZL",
-     "name": "New Zealand",
-     "drawnBy": {
-      "name": "Adam",
-      "colour": "#f032e6"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": true,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1061,6 +1061,29 @@
     "qualified": true
    },
    {
+    "group": "G",
+    "groupComplete": false,
+    "identityUndetermined": true,
+    "teamId": "EGY",
+    "name": "Egypt",
+    "drawnBy": {
+     "name": "MA",
+     "colour": "#4363d8"
+    },
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "gf": 1,
+    "ga": 1,
+    "gd": 0,
+    "points": 1,
+    "undetermined": true,
+    "position": 3,
+    "rank": 4,
+    "qualified": true
+   },
+   {
     "group": "H",
     "groupComplete": false,
     "identityUndetermined": true,
@@ -1079,29 +1102,6 @@
     "gd": 0,
     "points": 1,
     "undetermined": false,
-    "position": 3,
-    "rank": 4,
-    "qualified": true
-   },
-   {
-    "group": "G",
-    "groupComplete": false,
-    "identityUndetermined": true,
-    "teamId": "IRN",
-    "name": "Iran",
-    "drawnBy": {
-     "name": "Adam",
-     "colour": "#f032e6"
-    },
-    "played": 0,
-    "won": 0,
-    "drawn": 0,
-    "lost": 0,
-    "gf": 0,
-    "ga": 0,
-    "gd": 0,
-    "points": 0,
-    "undetermined": true,
     "position": 3,
     "rank": 5,
     "qualified": true
