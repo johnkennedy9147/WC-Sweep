@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-16T20:27:42.083Z",
- "sourceLastUpdated": "2026-06-16T20:26:52Z",
+ "fetchedAt": "2026-06-16T20:37:28.556Z",
+ "sourceLastUpdated": "2026-06-16T20:37:04Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-16T22:00:00Z",
  "groups": [
@@ -672,34 +672,15 @@
       "colour": "#f58231"
      },
      "played": 1,
-     "won": 0,
-     "drawn": 1,
+     "won": 1,
+     "drawn": 0,
      "lost": 0,
-     "gf": 0,
+     "gf": 1,
      "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
+     "gd": 1,
+     "points": 3,
+     "undetermined": false,
      "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "SEN",
-     "name": "Senegal",
-     "drawnBy": {
-      "name": "JK",
-      "colour": "#46f0f0"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 2,
      "status": "projected"
     },
     {
@@ -718,8 +699,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 2,
+     "status": "projected"
     },
     {
      "teamId": "NOR",
@@ -737,6 +718,25 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
+     "teamId": "SEN",
+     "name": "Senegal",
+     "drawnBy": {
+      "name": "JK",
+      "colour": "#46f0f0"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 0,
+     "lost": 1,
+     "gf": 0,
+     "ga": 1,
+     "gd": -1,
+     "points": 0,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1110,11 +1110,11 @@
     "group": "I",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "IRQ",
-    "name": "Iraq",
+    "teamId": "NOR",
+    "name": "Norway",
     "drawnBy": {
-     "name": "Ollie",
-     "colour": "#bcf60c"
+     "name": "Paolo",
+     "colour": "#e6194b"
     },
     "played": 0,
     "won": 0,
@@ -2492,6 +2492,17 @@
    "drawnBy": {
     "name": "Paolo",
     "colour": "#e6194b"
+   },
+   "rank": 5
+  },
+  {
+   "playerName": "Kylian Mbappé",
+   "teamId": "FRA",
+   "teamName": "France",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Neil",
+    "colour": "#f58231"
    },
    "rank": 5
   },
