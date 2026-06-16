@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-16T01:47:35.422Z",
- "sourceLastUpdated": "2026-06-16T01:46:31Z",
- "liveNow": true,
- "nextKickoffUtc": "2026-06-16T19:00:00Z",
+ "fetchedAt": "2026-06-16T01:57:35.446Z",
+ "sourceLastUpdated": "2026-06-16T02:59:13Z",
+ "liveNow": false,
+ "nextKickoffUtc": "2026-06-16T01:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -545,14 +545,14 @@
       "name": "Adam",
       "colour": "#f032e6"
      },
-     "played": 1,
+     "played": 0,
      "won": 0,
-     "drawn": 1,
+     "drawn": 0,
      "lost": 0,
-     "gf": 1,
-     "ga": 1,
+     "gf": 0,
+     "ga": 0,
      "gd": 0,
-     "points": 1,
+     "points": 0,
      "undetermined": true,
      "position": 3,
      "status": "thirds"
@@ -564,14 +564,14 @@
       "name": "Adam",
       "colour": "#f032e6"
      },
-     "played": 1,
+     "played": 0,
      "won": 0,
-     "drawn": 1,
+     "drawn": 0,
      "lost": 0,
-     "gf": 1,
-     "ga": 1,
+     "gf": 0,
+     "ga": 0,
      "gd": 0,
-     "points": 1,
+     "points": 0,
      "undetermined": true,
      "position": 4,
      "status": "alive"
@@ -602,9 +602,12 @@
      "status": "projected"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 1,
      "won": 0,
      "drawn": 1,
@@ -653,25 +656,6 @@
      "points": 1,
      "undetermined": true,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -1077,29 +1061,6 @@
     "qualified": true
    },
    {
-    "group": "G",
-    "groupComplete": false,
-    "identityUndetermined": true,
-    "teamId": "IRN",
-    "name": "Iran",
-    "drawnBy": {
-     "name": "Adam",
-     "colour": "#f032e6"
-    },
-    "played": 1,
-    "won": 0,
-    "drawn": 1,
-    "lost": 0,
-    "gf": 1,
-    "ga": 1,
-    "gd": 0,
-    "points": 1,
-    "undetermined": true,
-    "position": 3,
-    "rank": 4,
-    "qualified": true
-   },
-   {
     "group": "H",
     "groupComplete": false,
     "identityUndetermined": true,
@@ -1118,6 +1079,29 @@
     "gd": 0,
     "points": 1,
     "undetermined": false,
+    "position": 3,
+    "rank": 4,
+    "qualified": true
+   },
+   {
+    "group": "G",
+    "groupComplete": false,
+    "identityUndetermined": true,
+    "teamId": "IRN",
+    "name": "Iran",
+    "drawnBy": {
+     "name": "Adam",
+     "colour": "#f032e6"
+    },
+    "played": 0,
+    "won": 0,
+    "drawn": 0,
+    "lost": 0,
+    "gf": 0,
+    "ga": 0,
+    "gd": 0,
+    "points": 0,
+    "undetermined": true,
     "position": 3,
     "rank": 5,
     "qualified": true
