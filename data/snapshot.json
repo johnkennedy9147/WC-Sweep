@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-16T01:57:35.446Z",
+ "fetchedAt": "2026-06-16T02:07:13.788Z",
  "sourceLastUpdated": "2026-06-16T02:59:13Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-16T01:00:00Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-16T19:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -545,14 +545,14 @@
       "name": "Adam",
       "colour": "#f032e6"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
-     "gf": 0,
-     "ga": 0,
+     "gf": 1,
+     "ga": 1,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 3,
      "status": "thirds"
@@ -564,14 +564,14 @@
       "name": "Adam",
       "colour": "#f032e6"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
-     "gf": 0,
-     "ga": 0,
+     "gf": 1,
+     "ga": 1,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 4,
      "status": "alive"
@@ -1061,6 +1061,29 @@
     "qualified": true
    },
    {
+    "group": "G",
+    "groupComplete": false,
+    "identityUndetermined": true,
+    "teamId": "IRN",
+    "name": "Iran",
+    "drawnBy": {
+     "name": "Adam",
+     "colour": "#f032e6"
+    },
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "gf": 1,
+    "ga": 1,
+    "gd": 0,
+    "points": 1,
+    "undetermined": true,
+    "position": 3,
+    "rank": 4,
+    "qualified": true
+   },
+   {
     "group": "H",
     "groupComplete": false,
     "identityUndetermined": true,
@@ -1079,29 +1102,6 @@
     "gd": 0,
     "points": 1,
     "undetermined": false,
-    "position": 3,
-    "rank": 4,
-    "qualified": true
-   },
-   {
-    "group": "G",
-    "groupComplete": false,
-    "identityUndetermined": true,
-    "teamId": "IRN",
-    "name": "Iran",
-    "drawnBy": {
-     "name": "Adam",
-     "colour": "#f032e6"
-    },
-    "played": 0,
-    "won": 0,
-    "drawn": 0,
-    "lost": 0,
-    "gf": 0,
-    "ga": 0,
-    "gd": 0,
-    "points": 0,
-    "undetermined": true,
     "position": 3,
     "rank": 5,
     "qualified": true
