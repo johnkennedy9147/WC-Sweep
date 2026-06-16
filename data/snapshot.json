@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-16T20:47:27.608Z",
- "sourceLastUpdated": "2026-06-16T20:47:16Z",
+ "fetchedAt": "2026-06-16T20:57:21.290Z",
+ "sourceLastUpdated": "2026-06-16T20:57:01Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-16T22:00:00Z",
  "groups": [
@@ -691,9 +691,9 @@
      "won": 1,
      "drawn": 0,
      "lost": 0,
-     "gf": 1,
+     "gf": 2,
      "ga": 0,
-     "gd": 1,
+     "gd": 2,
      "points": 3,
      "undetermined": false,
      "position": 1,
@@ -749,8 +749,8 @@
      "drawn": 0,
      "lost": 1,
      "gf": 0,
-     "ga": 1,
-     "gd": -1,
+     "ga": 2,
+     "gd": -2,
      "points": 0,
      "undetermined": false,
      "position": 4,
@@ -2321,6 +2321,17 @@
    "drawnBy": {
     "name": "Ollie",
     "colour": "#bcf60c"
+   },
+   "rank": 5
+  },
+  {
+   "playerName": "Bradley Barcola",
+   "teamId": "FRA",
+   "teamName": "France",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Neil",
+    "colour": "#f58231"
    },
    "rank": 5
   },
