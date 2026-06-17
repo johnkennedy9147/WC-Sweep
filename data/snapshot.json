@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-17T01:07:15.999Z",
- "sourceLastUpdated": "2026-06-17T01:06:13Z",
+ "fetchedAt": "2026-06-17T01:27:14.110Z",
+ "sourceLastUpdated": "2026-06-17T01:27:13Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-17T04:00:00Z",
  "groups": [
@@ -602,9 +602,12 @@
      "status": "projected"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 1,
      "won": 0,
      "drawn": 1,
@@ -653,25 +656,6 @@
      "points": 1,
      "undetermined": true,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -763,25 +747,6 @@
    "complete": false,
    "standings": [
     {
-     "teamId": "ALG",
-     "name": "Algeria",
-     "drawnBy": {
-      "name": "MA",
-      "colour": "#4363d8"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 1,
-     "status": "projected"
-    },
-    {
      "teamId": "ARG",
      "name": "Argentina",
      "drawnBy": {
@@ -789,15 +754,15 @@
       "colour": "#ffe119"
      },
      "played": 1,
-     "won": 0,
-     "drawn": 1,
+     "won": 1,
+     "drawn": 0,
      "lost": 0,
-     "gf": 0,
+     "gf": 1,
      "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 2,
+     "gd": 1,
+     "points": 3,
+     "undetermined": false,
+     "position": 1,
      "status": "projected"
     },
     {
@@ -816,8 +781,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 2,
+     "status": "projected"
     },
     {
      "teamId": "JOR",
@@ -835,6 +800,25 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
+     "teamId": "ALG",
+     "name": "Algeria",
+     "drawnBy": {
+      "name": "MA",
+      "colour": "#4363d8"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 0,
+     "lost": 1,
+     "gf": 0,
+     "ga": 1,
+     "gd": -1,
+     "points": 0,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1126,11 +1110,11 @@
     "group": "J",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "AUT",
-    "name": "Austria",
+    "teamId": "JOR",
+    "name": "Jordan",
     "drawnBy": {
-     "name": "Martin",
-     "colour": "#ffe119"
+     "name": "LA",
+     "colour": "#911eb4"
     },
     "played": 0,
     "won": 0,
@@ -2585,6 +2569,17 @@
    "drawnBy": {
     "name": "Paolo",
     "colour": "#e6194b"
+   },
+   "rank": 7
+  },
+  {
+   "playerName": "Lionel Messi",
+   "teamId": "ARG",
+   "teamName": "Argentina",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Martin",
+    "colour": "#ffe119"
    },
    "rank": 7
   },
