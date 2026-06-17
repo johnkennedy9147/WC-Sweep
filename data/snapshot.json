@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-17T05:57:18.654Z",
- "sourceLastUpdated": "2026-06-17T05:56:52Z",
+ "fetchedAt": "2026-06-17T06:07:21.900Z",
+ "sourceLastUpdated": "2026-06-17T06:06:28Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-17T17:00:00Z",
  "groups": [
@@ -792,9 +792,9 @@
      "won": 1,
      "drawn": 0,
      "lost": 0,
-     "gf": 3,
+     "gf": 2,
      "ga": 1,
-     "gd": 2,
+     "gd": 1,
      "points": 3,
      "undetermined": false,
      "position": 2,
@@ -812,8 +812,8 @@
      "drawn": 0,
      "lost": 1,
      "gf": 1,
-     "ga": 3,
-     "gd": -2,
+     "ga": 2,
+     "gd": -1,
      "points": 0,
      "undetermined": false,
      "position": 3,
@@ -1186,10 +1186,33 @@
     "ga": 2,
     "gd": -1,
     "points": 0,
-    "undetermined": false,
+    "undetermined": true,
     "position": 3,
     "rank": 8,
     "qualified": true
+   },
+   {
+    "group": "J",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "JOR",
+    "name": "Jordan",
+    "drawnBy": {
+     "name": "LA",
+     "colour": "#911eb4"
+    },
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "gf": 1,
+    "ga": 2,
+    "gd": -1,
+    "points": 0,
+    "undetermined": true,
+    "position": 3,
+    "rank": 9,
+    "qualified": false
    },
    {
     "group": "E",
@@ -1211,7 +1234,7 @@
     "points": 0,
     "undetermined": false,
     "position": 3,
-    "rank": 9,
+    "rank": 10,
     "qualified": false
    },
    {
@@ -1232,30 +1255,7 @@
     "ga": 3,
     "gd": -2,
     "points": 0,
-    "undetermined": true,
-    "position": 3,
-    "rank": 10,
-    "qualified": false
-   },
-   {
-    "group": "J",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "JOR",
-    "name": "Jordan",
-    "drawnBy": {
-     "name": "LA",
-     "colour": "#911eb4"
-    },
-    "played": 1,
-    "won": 0,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 1,
-    "ga": 3,
-    "gd": -2,
-    "points": 0,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 11,
     "qualified": false
