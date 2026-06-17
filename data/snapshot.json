@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-17T03:17:32.277Z",
- "sourceLastUpdated": "2026-06-17T03:06:10Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-17T04:00:00Z",
+ "fetchedAt": "2026-06-17T04:07:16.279Z",
+ "sourceLastUpdated": "2026-06-17T04:07:04Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-17T17:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -602,12 +602,9 @@
      "status": "projected"
     },
     {
-     "teamId": "URU",
+     "teamId": "URY",
      "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
+     "drawnBy": null,
      "played": 1,
      "won": 0,
      "drawn": 1,
@@ -656,6 +653,25 @@
      "points": 1,
      "undetermined": true,
      "position": 4,
+     "status": "alive"
+    },
+    {
+     "teamId": "URU",
+     "name": "Uruguay",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -772,14 +788,14 @@
       "name": "Martin",
       "colour": "#ffe119"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 2,
      "status": "projected"
@@ -791,14 +807,14 @@
       "name": "LA",
       "colour": "#911eb4"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 3,
      "status": "thirds"
@@ -1101,7 +1117,7 @@
     "ga": 0,
     "gd": 0,
     "points": 1,
-    "undetermined": false,
+    "undetermined": true,
     "position": 3,
     "rank": 5,
     "qualified": true
@@ -1116,14 +1132,14 @@
      "name": "LA",
      "colour": "#911eb4"
     },
-    "played": 0,
+    "played": 1,
     "won": 0,
-    "drawn": 0,
+    "drawn": 1,
     "lost": 0,
     "gf": 0,
     "ga": 0,
     "gd": 0,
-    "points": 0,
+    "points": 1,
     "undetermined": true,
     "position": 3,
     "rank": 6,
