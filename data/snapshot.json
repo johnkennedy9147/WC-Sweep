@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-17T01:37:31.695Z",
- "sourceLastUpdated": "2026-06-17T01:37:25Z",
- "liveNow": true,
- "nextKickoffUtc": "2026-06-17T04:00:00Z",
+ "fetchedAt": "2026-06-17T01:47:18.006Z",
+ "sourceLastUpdated": "2026-06-17T02:22:52Z",
+ "liveNow": false,
+ "nextKickoffUtc": "2026-06-17T01:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -747,22 +747,41 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "ALG",
+     "name": "Algeria",
+     "drawnBy": {
+      "name": "MA",
+      "colour": "#4363d8"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": true,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "ARG",
      "name": "Argentina",
      "drawnBy": {
       "name": "Martin",
       "colour": "#ffe119"
      },
-     "played": 1,
-     "won": 1,
+     "played": 0,
+     "won": 0,
      "drawn": 0,
      "lost": 0,
-     "gf": 1,
+     "gf": 0,
      "ga": 0,
-     "gd": 1,
-     "points": 3,
-     "undetermined": false,
-     "position": 1,
+     "gd": 0,
+     "points": 0,
+     "undetermined": true,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -781,8 +800,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 2,
-     "status": "projected"
+     "position": 3,
+     "status": "thirds"
     },
     {
      "teamId": "JOR",
@@ -800,25 +819,6 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
-    },
-    {
-     "teamId": "ALG",
-     "name": "Algeria",
-     "drawnBy": {
-      "name": "MA",
-      "colour": "#4363d8"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 0,
-     "ga": 1,
-     "gd": -1,
-     "points": 0,
-     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1110,11 +1110,11 @@
     "group": "J",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "JOR",
-    "name": "Jordan",
+    "teamId": "AUT",
+    "name": "Austria",
     "drawnBy": {
-     "name": "LA",
-     "colour": "#911eb4"
+     "name": "Martin",
+     "colour": "#ffe119"
     },
     "played": 0,
     "won": 0,
