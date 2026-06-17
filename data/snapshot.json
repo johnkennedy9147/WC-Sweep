@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-17T05:07:14.446Z",
- "sourceLastUpdated": "2026-06-17T04:58:04Z",
+ "fetchedAt": "2026-06-17T05:17:22.474Z",
+ "sourceLastUpdated": "2026-06-17T05:16:40Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-17T17:00:00Z",
  "groups": [
@@ -2316,6 +2316,17 @@
    "drawnBy": {
     "name": "Paolo",
     "colour": "#e6194b"
+   },
+   "rank": 8
+  },
+  {
+   "playerName": "Ali Olwan",
+   "teamId": "JOR",
+   "teamName": "Jordan",
+   "goals": 1,
+   "drawnBy": {
+    "name": "LA",
+    "colour": "#911eb4"
    },
    "rank": 8
   },
