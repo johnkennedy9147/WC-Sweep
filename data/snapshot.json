@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-16T23:57:14.572Z",
- "sourceLastUpdated": "2026-06-16T23:56:34Z",
+ "fetchedAt": "2026-06-17T00:07:30.861Z",
+ "sourceLastUpdated": "2026-06-17T00:06:49Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-17T01:00:00Z",
  "groups": [
@@ -665,6 +665,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "NOR",
+     "name": "Norway",
+     "drawnBy": {
+      "name": "Paolo",
+      "colour": "#e6194b"
+     },
+     "played": 1,
+     "won": 1,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 4,
+     "ga": 1,
+     "gd": 3,
+     "points": 3,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "FRA",
      "name": "France",
      "drawnBy": {
@@ -679,47 +698,9 @@
      "ga": 1,
      "gd": 2,
      "points": 3,
-     "undetermined": true,
-     "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "NOR",
-     "name": "Norway",
-     "drawnBy": {
-      "name": "Paolo",
-      "colour": "#e6194b"
-     },
-     "played": 1,
-     "won": 1,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 3,
-     "ga": 1,
-     "gd": 2,
-     "points": 3,
-     "undetermined": true,
+     "undetermined": false,
      "position": 2,
      "status": "projected"
-    },
-    {
-     "teamId": "IRQ",
-     "name": "Iraq",
-     "drawnBy": {
-      "name": "Ollie",
-      "colour": "#bcf60c"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 1,
-     "ga": 3,
-     "gd": -2,
-     "points": 0,
-     "undetermined": true,
-     "position": 3,
-     "status": "alive"
     },
     {
      "teamId": "SEN",
@@ -736,7 +717,26 @@
      "ga": 3,
      "gd": -2,
      "points": 0,
-     "undetermined": true,
+     "undetermined": false,
+     "position": 3,
+     "status": "alive"
+    },
+    {
+     "teamId": "IRQ",
+     "name": "Iraq",
+     "drawnBy": {
+      "name": "Ollie",
+      "colour": "#bcf60c"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 0,
+     "lost": 1,
+     "gf": 1,
+     "ga": 4,
+     "gd": -3,
+     "points": 0,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1224,12 +1224,12 @@
    {
     "group": "I",
     "groupComplete": false,
-    "identityUndetermined": true,
-    "teamId": "IRQ",
-    "name": "Iraq",
+    "identityUndetermined": false,
+    "teamId": "SEN",
+    "name": "Senegal",
     "drawnBy": {
-     "name": "Ollie",
-     "colour": "#bcf60c"
+     "name": "JK",
+     "colour": "#46f0f0"
     },
     "played": 1,
     "won": 0,
@@ -2543,6 +2543,17 @@
    "playerName": "Keito Nakamura",
    "teamId": "JPN",
    "teamName": "Japan",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Paolo",
+    "colour": "#e6194b"
+   },
+   "rank": 7
+  },
+  {
+   "playerName": "Kristian Thorstvedt",
+   "teamId": "NOR",
+   "teamName": "Norway",
    "goals": 1,
    "drawnBy": {
     "name": "Paolo",
