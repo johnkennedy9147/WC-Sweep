@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-06-17T00:17:21.987Z",
+ "fetchedAt": "2026-06-17T00:27:15.227Z",
  "sourceLastUpdated": "2026-06-17T00:07:58Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-17T01:00:00Z",
@@ -2543,17 +2543,6 @@
    "playerName": "Keito Nakamura",
    "teamId": "JPN",
    "teamName": "Japan",
-   "goals": 1,
-   "drawnBy": {
-    "name": "Paolo",
-    "colour": "#e6194b"
-   },
-   "rank": 7
-  },
-  {
-   "playerName": "Kristian Thorstvedt",
-   "teamId": "NOR",
-   "teamName": "Norway",
    "goals": 1,
    "drawnBy": {
     "name": "Paolo",
