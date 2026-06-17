@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-17T21:47:23.778Z",
- "sourceLastUpdated": "2026-06-17T21:46:52Z",
+ "fetchedAt": "2026-06-17T21:57:36.321Z",
+ "sourceLastUpdated": "2026-06-17T21:56:43Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-17T23:00:00Z",
  "groups": [
@@ -63,7 +63,7 @@
      "points": 0,
      "undetermined": false,
      "position": 3,
-     "status": "alive"
+     "status": "thirds"
     },
     {
      "teamId": "RSA",
@@ -375,25 +375,6 @@
      "status": "projected"
     },
     {
-     "teamId": "CUW",
-     "name": "Curaçao",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 3,
-     "status": "thirds"
-    },
-    {
      "teamId": "ECU",
      "name": "Ecuador",
      "drawnBy": {
@@ -409,13 +390,16 @@
      "gd": -1,
      "points": 0,
      "undetermined": false,
-     "position": 4,
+     "position": 3,
      "status": "alive"
     },
     {
-     "teamId": "CUR",
+     "teamId": "CUW",
      "name": "Curaçao",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
+     },
      "played": 1,
      "won": 0,
      "drawn": 0,
@@ -425,7 +409,7 @@
      "gd": -6,
      "points": 0,
      "undetermined": false,
-     "position": 5,
+     "position": 4,
      "status": "alive"
     }
    ]
@@ -953,9 +937,9 @@
      "won": 1,
      "drawn": 0,
      "lost": 0,
-     "gf": 3,
+     "gf": 4,
      "ga": 2,
-     "gd": 1,
+     "gd": 2,
      "points": 3,
      "undetermined": false,
      "position": 1,
@@ -1011,8 +995,8 @@
      "drawn": 0,
      "lost": 1,
      "gf": 2,
-     "ga": 3,
-     "gd": -1,
+     "ga": 4,
+     "gd": -2,
      "points": 0,
      "undetermined": false,
      "position": 4,
@@ -1139,29 +1123,6 @@
     "qualified": true
    },
    {
-    "group": "E",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "CUW",
-    "name": "Curaçao",
-    "drawnBy": {
-     "name": "Martin",
-     "colour": "#ffe119"
-    },
-    "played": 0,
-    "won": 0,
-    "drawn": 0,
-    "lost": 0,
-    "gf": 0,
-    "ga": 0,
-    "gd": 0,
-    "points": 0,
-    "undetermined": true,
-    "position": 3,
-    "rank": 6,
-    "qualified": true
-   },
-   {
     "group": "K",
     "groupComplete": false,
     "identityUndetermined": true,
@@ -1181,7 +1142,7 @@
     "points": 0,
     "undetermined": true,
     "position": 3,
-    "rank": 7,
+    "rank": 6,
     "qualified": true
    },
    {
@@ -1204,7 +1165,7 @@
     "points": 0,
     "undetermined": true,
     "position": 3,
-    "rank": 8,
+    "rank": 7,
     "qualified": true
    },
    {
@@ -1223,6 +1184,29 @@
     "lost": 1,
     "gf": 1,
     "ga": 2,
+    "gd": -1,
+    "points": 0,
+    "undetermined": false,
+    "position": 3,
+    "rank": 8,
+    "qualified": true
+   },
+   {
+    "group": "E",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "ECU",
+    "name": "Ecuador",
+    "drawnBy": {
+     "name": "JK",
+     "colour": "#46f0f0"
+    },
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "gf": 0,
+    "ga": 1,
     "gd": -1,
     "points": 0,
     "undetermined": false,
@@ -2667,6 +2651,17 @@
    "drawnBy": {
     "name": "Martin",
     "colour": "#ffe119"
+   },
+   "rank": 9
+  },
+  {
+   "playerName": "Marcus Rashford",
+   "teamId": "ENG",
+   "teamName": "England",
+   "goals": 1,
+   "drawnBy": {
+    "name": "MA",
+    "colour": "#4363d8"
    },
    "rank": 9
   },
