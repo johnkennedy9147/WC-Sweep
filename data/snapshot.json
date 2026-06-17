@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-17T00:37:27.045Z",
- "sourceLastUpdated": "2026-06-17T00:07:58Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-17T01:00:00Z",
+ "fetchedAt": "2026-06-17T01:07:15.999Z",
+ "sourceLastUpdated": "2026-06-17T01:06:13Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-17T04:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -769,14 +769,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 1,
      "status": "projected"
@@ -788,14 +788,14 @@
       "name": "Martin",
       "colour": "#ffe119"
      },
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 0,
      "ga": 0,
      "gd": 0,
-     "points": 0,
+     "points": 1,
      "undetermined": true,
      "position": 2,
      "status": "projected"
