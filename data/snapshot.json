@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-06-17T19:07:43.764Z",
+ "fetchedAt": "2026-06-17T19:17:40.341Z",
  "sourceLastUpdated": "2026-06-17T19:04:13Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-17T20:00:00Z",
@@ -63,7 +63,7 @@
      "points": 0,
      "undetermined": false,
      "position": 3,
-     "status": "alive"
+     "status": "thirds"
     },
     {
      "teamId": "RSA",
@@ -91,44 +91,6 @@
    "complete": false,
    "standings": [
     {
-     "teamId": "BIH",
-     "name": "Bosnia and Herzegovina",
-     "drawnBy": {
-      "name": "MA",
-      "colour": "#4363d8"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 1,
-     "ga": 1,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "CAN",
-     "name": "Canada",
-     "drawnBy": {
-      "name": "MA",
-      "colour": "#4363d8"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 1,
-     "ga": 1,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 2,
-     "status": "projected"
-    },
-    {
      "teamId": "QAT",
      "name": "Qatar",
      "drawnBy": {
@@ -144,8 +106,8 @@
      "gd": 0,
      "points": 1,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 1,
+     "status": "projected"
     },
     {
      "teamId": "SUI",
@@ -162,6 +124,44 @@
      "ga": 1,
      "gd": 0,
      "points": 1,
+     "undetermined": true,
+     "position": 2,
+     "status": "projected"
+    },
+    {
+     "teamId": "BIH",
+     "name": "Bosnia and Herzegovina",
+     "drawnBy": {
+      "name": "MA",
+      "colour": "#4363d8"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": true,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
+     "teamId": "CAN",
+     "name": "Canada",
+     "drawnBy": {
+      "name": "MA",
+      "colour": "#4363d8"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
      "undetermined": true,
      "position": 4,
      "status": "alive"
@@ -375,25 +375,6 @@
      "status": "projected"
     },
     {
-     "teamId": "CUW",
-     "name": "Curaçao",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 3,
-     "status": "thirds"
-    },
-    {
      "teamId": "ECU",
      "name": "Ecuador",
      "drawnBy": {
@@ -409,13 +390,16 @@
      "gd": -1,
      "points": 0,
      "undetermined": false,
-     "position": 4,
+     "position": 3,
      "status": "alive"
     },
     {
-     "teamId": "CUR",
+     "teamId": "CUW",
      "name": "Curaçao",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
+     },
      "played": 1,
      "won": 0,
      "drawn": 0,
@@ -425,7 +409,7 @@
      "gd": -6,
      "points": 0,
      "undetermined": false,
-     "position": 5,
+     "position": 4,
      "status": "alive"
     }
    ]
@@ -1047,29 +1031,6 @@
     "qualified": true
    },
    {
-    "group": "B",
-    "groupComplete": false,
-    "identityUndetermined": true,
-    "teamId": "QAT",
-    "name": "Qatar",
-    "drawnBy": {
-     "name": "Ollie",
-     "colour": "#bcf60c"
-    },
-    "played": 1,
-    "won": 0,
-    "drawn": 1,
-    "lost": 0,
-    "gf": 1,
-    "ga": 1,
-    "gd": 0,
-    "points": 1,
-    "undetermined": true,
-    "position": 3,
-    "rank": 2,
-    "qualified": true
-   },
-   {
     "group": "C",
     "groupComplete": false,
     "identityUndetermined": true,
@@ -1089,7 +1050,7 @@
     "points": 1,
     "undetermined": true,
     "position": 3,
-    "rank": 3,
+    "rank": 2,
     "qualified": true
    },
    {
@@ -1112,7 +1073,7 @@
     "points": 1,
     "undetermined": true,
     "position": 3,
-    "rank": 4,
+    "rank": 3,
     "qualified": true
    },
    {
@@ -1135,18 +1096,18 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 5,
+    "rank": 4,
     "qualified": true
    },
    {
-    "group": "E",
+    "group": "B",
     "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "CUW",
-    "name": "Curaçao",
+    "identityUndetermined": true,
+    "teamId": "BIH",
+    "name": "Bosnia and Herzegovina",
     "drawnBy": {
-     "name": "Martin",
-     "colour": "#ffe119"
+     "name": "MA",
+     "colour": "#4363d8"
     },
     "played": 0,
     "won": 0,
@@ -1158,7 +1119,7 @@
     "points": 0,
     "undetermined": true,
     "position": 3,
-    "rank": 6,
+    "rank": 5,
     "qualified": true
    },
    {
@@ -1181,7 +1142,7 @@
     "points": 0,
     "undetermined": true,
     "position": 3,
-    "rank": 7,
+    "rank": 6,
     "qualified": true
    },
    {
@@ -1204,7 +1165,7 @@
     "points": 0,
     "undetermined": true,
     "position": 3,
-    "rank": 8,
+    "rank": 7,
     "qualified": true
    },
    {
@@ -1223,6 +1184,29 @@
     "lost": 1,
     "gf": 1,
     "ga": 2,
+    "gd": -1,
+    "points": 0,
+    "undetermined": false,
+    "position": 3,
+    "rank": 8,
+    "qualified": true
+   },
+   {
+    "group": "E",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "ECU",
+    "name": "Ecuador",
+    "drawnBy": {
+     "name": "JK",
+     "colour": "#46f0f0"
+    },
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "gf": 0,
+    "ga": 1,
     "gd": -1,
     "points": 0,
     "undetermined": false,
