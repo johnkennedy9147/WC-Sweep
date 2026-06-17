@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-17T17:07:42.505Z",
- "sourceLastUpdated": "2026-06-17T17:05:58Z",
+ "fetchedAt": "2026-06-17T17:17:17.373Z",
+ "sourceLastUpdated": "2026-06-17T17:16:10Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-17T20:00:00Z",
  "groups": [
@@ -602,12 +602,9 @@
      "status": "projected"
     },
     {
-     "teamId": "URU",
+     "teamId": "URY",
      "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
+     "drawnBy": null,
      "played": 1,
      "won": 0,
      "drawn": 1,
@@ -656,6 +653,25 @@
      "points": 1,
      "undetermined": true,
      "position": 4,
+     "status": "alive"
+    },
+    {
+     "teamId": "URU",
+     "name": "Uruguay",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -829,25 +845,6 @@
    "complete": false,
    "standings": [
     {
-     "teamId": "COD",
-     "name": "DR Congo",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 1,
-     "status": "projected"
-    },
-    {
      "teamId": "POR",
      "name": "Portugal",
      "drawnBy": {
@@ -855,15 +852,15 @@
       "colour": "#3cb44b"
      },
      "played": 1,
-     "won": 0,
-     "drawn": 1,
+     "won": 1,
+     "drawn": 0,
      "lost": 0,
-     "gf": 0,
+     "gf": 1,
      "ga": 0,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
-     "position": 2,
+     "gd": 1,
+     "points": 3,
+     "undetermined": false,
+     "position": 1,
      "status": "projected"
     },
     {
@@ -882,8 +879,8 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
-     "position": 3,
-     "status": "thirds"
+     "position": 2,
+     "status": "projected"
     },
     {
      "teamId": "UZB",
@@ -901,6 +898,25 @@
      "gd": 0,
      "points": 0,
      "undetermined": true,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
+     "teamId": "COD",
+     "name": "DR Congo",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 0,
+     "lost": 1,
+     "gf": 0,
+     "ga": 1,
+     "gd": -1,
+     "points": 0,
+     "undetermined": false,
      "position": 4,
      "status": "alive"
     }
@@ -1110,11 +1126,11 @@
     "group": "K",
     "groupComplete": false,
     "identityUndetermined": true,
-    "teamId": "COL",
-    "name": "Colombia",
+    "teamId": "UZB",
+    "name": "Uzbekistan",
     "drawnBy": {
-     "name": "Ollie",
-     "colour": "#bcf60c"
+     "name": "LA",
+     "colour": "#911eb4"
     },
     "played": 0,
     "won": 0,
@@ -2525,6 +2541,17 @@
    "drawnBy": {
     "name": "JK",
     "colour": "#46f0f0"
+   },
+   "rank": 8
+  },
+  {
+   "playerName": "Joao Neves",
+   "teamId": "POR",
+   "teamName": "Portugal",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Nicola",
+    "colour": "#3cb44b"
    },
    "rank": 8
   },
