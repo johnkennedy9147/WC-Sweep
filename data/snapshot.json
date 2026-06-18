@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-06-18T21:17:18.199Z",
+ "fetchedAt": "2026-06-18T21:27:25.353Z",
  "sourceLastUpdated": "2026-06-18T21:10:00Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-18T22:00:00Z",
@@ -110,6 +110,25 @@
      "status": "projected"
     },
     {
+     "teamId": "CAN",
+     "name": "Canada",
+     "drawnBy": {
+      "name": "MA",
+      "colour": "#4363d8"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
+     "position": 2,
+     "status": "projected"
+    },
+    {
      "teamId": "QAT",
      "name": "Qatar",
      "drawnBy": {
@@ -124,26 +143,7 @@
      "ga": 1,
      "gd": 0,
      "points": 1,
-     "undetermined": false,
-     "position": 2,
-     "status": "projected"
-    },
-    {
-     "teamId": "CAN",
-     "name": "Canada",
-     "drawnBy": {
-      "name": "MA",
-      "colour": "#4363d8"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
+     "undetermined": true,
      "position": 3,
      "status": "thirds"
     },
@@ -154,14 +154,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 1,
+     "played": 2,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
-     "gf": 1,
-     "ga": 4,
+     "gf": 2,
+     "ga": 5,
      "gd": -3,
-     "points": 0,
+     "points": 1,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -1031,6 +1031,29 @@
     "qualified": true
    },
    {
+    "group": "B",
+    "groupComplete": false,
+    "identityUndetermined": true,
+    "teamId": "QAT",
+    "name": "Qatar",
+    "drawnBy": {
+     "name": "Ollie",
+     "colour": "#bcf60c"
+    },
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "gf": 1,
+    "ga": 1,
+    "gd": 0,
+    "points": 1,
+    "undetermined": true,
+    "position": 3,
+    "rank": 2,
+    "qualified": true
+   },
+   {
     "group": "C",
     "groupComplete": false,
     "identityUndetermined": true,
@@ -1050,7 +1073,7 @@
     "points": 1,
     "undetermined": true,
     "position": 3,
-    "rank": 2,
+    "rank": 3,
     "qualified": true
    },
    {
@@ -1073,7 +1096,7 @@
     "points": 1,
     "undetermined": true,
     "position": 3,
-    "rank": 3,
+    "rank": 4,
     "qualified": true
    },
    {
@@ -1096,7 +1119,7 @@
     "points": 1,
     "undetermined": true,
     "position": 3,
-    "rank": 4,
+    "rank": 5,
     "qualified": true
    },
    {
@@ -1119,7 +1142,7 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 5,
+    "rank": 6,
     "qualified": true
    },
    {
@@ -1140,29 +1163,6 @@
     "ga": 3,
     "gd": -1,
     "points": 1,
-    "undetermined": false,
-    "position": 3,
-    "rank": 6,
-    "qualified": true
-   },
-   {
-    "group": "B",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "CAN",
-    "name": "Canada",
-    "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
-    },
-    "played": 0,
-    "won": 0,
-    "drawn": 0,
-    "lost": 0,
-    "gf": 0,
-    "ga": 0,
-    "gd": 0,
-    "points": 0,
     "undetermined": false,
     "position": 3,
     "rank": 7,
