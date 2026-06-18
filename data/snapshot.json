@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-18T23:27:16.558Z",
- "sourceLastUpdated": "2026-06-18T23:26:45Z",
+ "fetchedAt": "2026-06-18T23:37:16.444Z",
+ "sourceLastUpdated": "2026-06-18T23:36:40Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-19T01:00:00Z",
  "groups": [
@@ -91,6 +91,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "CAN",
+     "name": "Canada",
+     "drawnBy": {
+      "name": "MA",
+      "colour": "#4363d8"
+     },
+     "played": 2,
+     "won": 1,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 5,
+     "ga": 1,
+     "gd": 4,
+     "points": 4,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "SUI",
      "name": "Switzerland",
      "drawnBy": {
@@ -103,25 +122,6 @@
      "lost": 0,
      "gf": 5,
      "ga": 2,
-     "gd": 3,
-     "points": 4,
-     "undetermined": false,
-     "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "CAN",
-     "name": "Canada",
-     "drawnBy": {
-      "name": "MA",
-      "colour": "#4363d8"
-     },
-     "played": 2,
-     "won": 1,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 4,
-     "ga": 1,
      "gd": 3,
      "points": 4,
      "undetermined": false,
@@ -159,8 +159,8 @@
      "drawn": 1,
      "lost": 1,
      "gf": 1,
-     "ga": 4,
-     "gd": -3,
+     "ga": 5,
+     "gd": -4,
      "points": 1,
      "undetermined": false,
      "position": 4,
