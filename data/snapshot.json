@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-18T23:47:22.046Z",
- "sourceLastUpdated": "2026-06-18T23:46:27Z",
+ "fetchedAt": "2026-06-18T23:57:42.662Z",
+ "sourceLastUpdated": "2026-06-18T23:56:19Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-19T01:00:00Z",
  "groups": [
@@ -375,6 +375,25 @@
      "status": "projected"
     },
     {
+     "teamId": "CUW",
+     "name": "Curaçao",
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
      "teamId": "ECU",
      "name": "Ecuador",
      "drawnBy": {
@@ -390,16 +409,13 @@
      "gd": -1,
      "points": 0,
      "undetermined": false,
-     "position": 3,
-     "status": "thirds"
+     "position": 4,
+     "status": "alive"
     },
     {
-     "teamId": "CUW",
+     "teamId": "CUR",
      "name": "Curaçao",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
+     "drawnBy": null,
      "played": 1,
      "won": 0,
      "drawn": 0,
@@ -409,7 +425,7 @@
      "gd": -6,
      "points": 0,
      "undetermined": false,
-     "position": 4,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -1172,21 +1188,21 @@
     "group": "E",
     "groupComplete": false,
     "identityUndetermined": false,
-    "teamId": "ECU",
-    "name": "Ecuador",
+    "teamId": "CUW",
+    "name": "Curaçao",
     "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
+     "name": "Martin",
+     "colour": "#ffe119"
     },
-    "played": 1,
+    "played": 0,
     "won": 0,
     "drawn": 0,
-    "lost": 1,
+    "lost": 0,
     "gf": 0,
-    "ga": 1,
-    "gd": -1,
+    "ga": 0,
+    "gd": 0,
     "points": 0,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 8,
     "qualified": true
@@ -1209,7 +1225,7 @@
     "ga": 1,
     "gd": -1,
     "points": 0,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 9,
     "qualified": false
@@ -2237,6 +2253,17 @@
  ],
  "topScorers": [
   {
+   "playerName": "Jonathan David",
+   "teamId": "CAN",
+   "teamName": "Canada",
+   "goals": 3,
+   "drawnBy": {
+    "name": "MA",
+    "colour": "#4363d8"
+   },
+   "rank": 1
+  },
+  {
    "playerName": "Lionel Messi",
    "teamId": "ARG",
    "teamName": "Argentina",
@@ -2256,7 +2283,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Elijah Just",
@@ -2267,7 +2294,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Erling Haaland",
@@ -2278,7 +2305,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Folarin Balogun",
@@ -2289,7 +2316,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Harry Kane",
@@ -2300,7 +2327,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Johan Manzambi",
@@ -2311,18 +2338,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 2
-  },
-  {
-   "playerName": "Jonathan David",
-   "teamId": "CAN",
-   "teamName": "Canada",
-   "goals": 2,
-   "drawnBy": {
-    "name": "MA",
-    "colour": "#4363d8"
-   },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Kai Havertz",
@@ -2333,7 +2349,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Kylian Mbappé",
@@ -2344,7 +2360,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Yasin Ayari",
@@ -2355,7 +2371,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Abdulelah Al Amri",
@@ -2932,11 +2948,13 @@
   },
   "topScorer": {
    "amount": "£10",
-   "tie": false,
+   "tie": true,
    "leaders": [
+    "Jonathan David",
     "Lionel Messi"
    ],
    "holders": [
+    "MA",
     "Martin"
    ]
   }
