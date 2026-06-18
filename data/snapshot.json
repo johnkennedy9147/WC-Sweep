@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-18T16:17:36.425Z",
- "sourceLastUpdated": "2026-06-18T16:17:04Z",
+ "fetchedAt": "2026-06-18T16:27:35.257Z",
+ "sourceLastUpdated": "2026-06-18T16:27:16Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-18T19:00:00Z",
  "groups": [
@@ -375,6 +375,25 @@
      "status": "projected"
     },
     {
+     "teamId": "CUW",
+     "name": "Curaçao",
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
      "teamId": "ECU",
      "name": "Ecuador",
      "drawnBy": {
@@ -390,16 +409,13 @@
      "gd": -1,
      "points": 0,
      "undetermined": false,
-     "position": 3,
-     "status": "thirds"
+     "position": 4,
+     "status": "alive"
     },
     {
-     "teamId": "CUW",
+     "teamId": "CUR",
      "name": "Curaçao",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
+     "drawnBy": null,
      "played": 1,
      "won": 0,
      "drawn": 0,
@@ -409,7 +425,7 @@
      "gd": -6,
      "points": 0,
      "undetermined": false,
-     "position": 4,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -602,12 +618,9 @@
      "status": "projected"
     },
     {
-     "teamId": "URU",
+     "teamId": "URY",
      "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
+     "drawnBy": null,
      "played": 1,
      "won": 0,
      "drawn": 1,
@@ -656,6 +669,25 @@
      "points": 1,
      "undetermined": true,
      "position": 4,
+     "status": "alive"
+    },
+    {
+     "teamId": "URU",
+     "name": "Uruguay",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -1156,21 +1188,21 @@
     "group": "E",
     "groupComplete": false,
     "identityUndetermined": false,
-    "teamId": "ECU",
-    "name": "Ecuador",
+    "teamId": "CUW",
+    "name": "Curaçao",
     "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
+     "name": "Martin",
+     "colour": "#ffe119"
     },
-    "played": 1,
+    "played": 0,
     "won": 0,
     "drawn": 0,
-    "lost": 1,
+    "lost": 0,
     "gf": 0,
-    "ga": 1,
-    "gd": -1,
+    "ga": 0,
+    "gd": 0,
     "points": 0,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 8,
     "qualified": true
@@ -1193,7 +1225,7 @@
     "ga": 1,
     "gd": -1,
     "points": 0,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 9,
     "qualified": false
