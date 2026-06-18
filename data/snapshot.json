@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-18T03:17:17.966Z",
- "sourceLastUpdated": "2026-06-18T03:16:16Z",
+ "fetchedAt": "2026-06-18T03:27:35.336Z",
+ "sourceLastUpdated": "2026-06-18T03:27:04Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-18T16:00:00Z",
  "groups": [
@@ -852,14 +852,14 @@
       "colour": "#bcf60c"
      },
      "played": 1,
-     "won": 1,
-     "drawn": 0,
+     "won": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 1,
-     "ga": 0,
-     "gd": 1,
-     "points": 3,
-     "undetermined": false,
+     "ga": 1,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
      "position": 1,
      "status": "projected"
     },
@@ -910,13 +910,13 @@
      },
      "played": 1,
      "won": 0,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 0,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 1,
      "ga": 1,
-     "gd": -1,
-     "points": 0,
-     "undetermined": false,
+     "gd": 0,
+     "points": 1,
+     "undetermined": true,
      "position": 4,
      "status": "alive"
     }
@@ -2323,6 +2323,17 @@
     "colour": "#e6194b"
    },
    "rank": 2
+  },
+  {
+   "playerName": "Abbosbek Fayzullaev",
+   "teamId": "UZB",
+   "teamName": "Uzbekistan",
+   "goals": 1,
+   "drawnBy": {
+    "name": "LA",
+    "colour": "#911eb4"
+   },
+   "rank": 9
   },
   {
    "playerName": "Abdulelah Al Amri",
