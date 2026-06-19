@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-19T01:07:27.996Z",
- "sourceLastUpdated": "2026-06-19T01:07:26Z",
- "liveNow": true,
- "nextKickoffUtc": "2026-06-19T19:00:00Z",
+ "fetchedAt": "2026-06-19T01:17:30.328Z",
+ "sourceLastUpdated": "2026-06-19T02:38:23Z",
+ "liveNow": false,
+ "nextKickoffUtc": "2026-06-19T01:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -15,14 +15,14 @@
       "name": "Paolo",
       "colour": "#e6194b"
      },
-     "played": 2,
+     "played": 1,
      "won": 1,
-     "drawn": 1,
+     "drawn": 0,
      "lost": 0,
      "gf": 2,
      "ga": 0,
      "gd": 2,
-     "points": 4,
+     "points": 3,
      "undetermined": false,
      "position": 1,
      "status": "projected"
@@ -34,14 +34,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
+     "played": 1,
      "won": 1,
-     "drawn": 1,
+     "drawn": 0,
      "lost": 0,
      "gf": 2,
      "ga": 1,
      "gd": 1,
-     "points": 4,
+     "points": 3,
      "undetermined": false,
      "position": 2,
      "status": "projected"
