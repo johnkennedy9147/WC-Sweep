@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-20T20:27:23.653Z",
- "sourceLastUpdated": "2026-06-20T20:26:46Z",
+ "fetchedAt": "2026-06-20T20:37:20.369Z",
+ "sourceLastUpdated": "2026-06-20T20:37:01Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-21T00:00:00Z",
  "groups": [
@@ -337,6 +337,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "CIV",
+     "name": "Côte d'Ivoire",
+     "drawnBy": {
+      "name": "Neil",
+      "colour": "#f58231"
+     },
+     "played": 2,
+     "won": 2,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 2,
+     "ga": 0,
+     "gd": 2,
+     "points": 6,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "GER",
      "name": "Germany",
      "drawnBy": {
@@ -345,31 +364,12 @@
      },
      "played": 2,
      "won": 1,
-     "drawn": 1,
-     "lost": 0,
+     "drawn": 0,
+     "lost": 1,
      "gf": 7,
-     "ga": 1,
-     "gd": 6,
-     "points": 4,
-     "undetermined": false,
-     "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "CIV",
-     "name": "Côte d'Ivoire",
-     "drawnBy": {
-      "name": "Neil",
-      "colour": "#f58231"
-     },
-     "played": 2,
-     "won": 1,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 1,
-     "ga": 0,
-     "gd": 1,
-     "points": 4,
+     "ga": 2,
+     "gd": 5,
+     "points": 3,
      "undetermined": false,
      "position": 2,
      "status": "projected"
