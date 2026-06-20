@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-20T00:57:30.177Z",
- "sourceLastUpdated": "2026-06-20T00:56:58Z",
+ "fetchedAt": "2026-06-20T01:07:16.470Z",
+ "sourceLastUpdated": "2026-06-20T01:07:10Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-20T03:00:00Z",
  "groups": [
@@ -173,6 +173,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "BRA",
+     "name": "Brazil",
+     "drawnBy": {
+      "name": "Adam",
+      "colour": "#f032e6"
+     },
+     "played": 2,
+     "won": 1,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 2,
+     "ga": 1,
+     "gd": 1,
+     "points": 4,
+     "undetermined": true,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "MAR",
      "name": "Morocco",
      "drawnBy": {
@@ -187,8 +206,8 @@
      "ga": 1,
      "gd": 1,
      "points": 4,
-     "undetermined": false,
-     "position": 1,
+     "undetermined": true,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -207,25 +226,6 @@
      "gd": 0,
      "points": 3,
      "undetermined": false,
-     "position": 2,
-     "status": "projected"
-    },
-    {
-     "teamId": "BRA",
-     "name": "Brazil",
-     "drawnBy": {
-      "name": "Adam",
-      "colour": "#f032e6"
-     },
-     "played": 2,
-     "won": 0,
-     "drawn": 2,
-     "lost": 0,
-     "gf": 1,
-     "ga": 1,
-     "gd": 0,
-     "points": 2,
-     "undetermined": false,
      "position": 3,
      "status": "thirds"
     },
@@ -238,12 +238,12 @@
      },
      "played": 2,
      "won": 0,
-     "drawn": 1,
-     "lost": 1,
+     "drawn": 0,
+     "lost": 2,
      "gf": 0,
-     "ga": 1,
-     "gd": -1,
-     "points": 1,
+     "ga": 2,
+     "gd": -2,
+     "points": 0,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -602,9 +602,12 @@
      "status": "projected"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 1,
      "won": 0,
      "drawn": 1,
@@ -653,25 +656,6 @@
      "points": 1,
      "undetermined": true,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -1011,20 +995,20 @@
     "group": "C",
     "groupComplete": false,
     "identityUndetermined": false,
-    "teamId": "BRA",
-    "name": "Brazil",
+    "teamId": "SCO",
+    "name": "Scotland",
     "drawnBy": {
-     "name": "Adam",
-     "colour": "#f032e6"
+     "name": "Martin",
+     "colour": "#ffe119"
     },
     "played": 2,
-    "won": 0,
-    "drawn": 2,
-    "lost": 0,
+    "won": 1,
+    "drawn": 0,
+    "lost": 1,
     "gf": 1,
     "ga": 1,
     "gd": 0,
-    "points": 2,
+    "points": 3,
     "undetermined": false,
     "position": 3,
     "rank": 1,
