@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-20T16:57:25.940Z",
- "sourceLastUpdated": "2026-06-20T08:25:01Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-20T17:00:00Z",
+ "fetchedAt": "2026-06-20T17:07:26.341Z",
+ "sourceLastUpdated": "2026-06-20T17:07:16Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-20T20:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -425,16 +425,35 @@
       "name": "Paolo",
       "colour": "#e6194b"
      },
-     "played": 1,
+     "played": 2,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 5,
      "ga": 1,
      "gd": 4,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 1,
+     "status": "projected"
+    },
+    {
+     "teamId": "NED",
+     "name": "Netherlands",
+     "drawnBy": {
+      "name": "LA",
+      "colour": "#911eb4"
+     },
+     "played": 2,
+     "won": 0,
+     "drawn": 2,
+     "lost": 0,
+     "gf": 2,
+     "ga": 2,
+     "gd": 0,
+     "points": 2,
+     "undetermined": false,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -452,26 +471,7 @@
      "ga": 2,
      "gd": 0,
      "points": 1,
-     "undetermined": true,
-     "position": 2,
-     "status": "projected"
-    },
-    {
-     "teamId": "NED",
-     "name": "Netherlands",
-     "drawnBy": {
-      "name": "LA",
-      "colour": "#911eb4"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 2,
-     "ga": 2,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
+     "undetermined": false,
      "position": 3,
      "status": "thirds"
     },
@@ -602,9 +602,12 @@
      "status": "projected"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 1,
      "won": 0,
      "drawn": 1,
@@ -653,25 +656,6 @@
      "points": 1,
      "undetermined": true,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -1056,12 +1040,12 @@
    {
     "group": "F",
     "groupComplete": false,
-    "identityUndetermined": true,
-    "teamId": "NED",
-    "name": "Netherlands",
+    "identityUndetermined": false,
+    "teamId": "JPN",
+    "name": "Japan",
     "drawnBy": {
-     "name": "LA",
-     "colour": "#911eb4"
+     "name": "Paolo",
+     "colour": "#e6194b"
     },
     "played": 1,
     "won": 0,
