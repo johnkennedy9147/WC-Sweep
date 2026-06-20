@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-20T21:57:19.919Z",
- "sourceLastUpdated": "2026-06-20T21:56:19Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-20T22:07:25.739Z",
+ "sourceLastUpdated": "2026-06-20T22:05:03Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-21T00:00:00Z",
  "groups": [
   {
@@ -344,13 +344,13 @@
       "colour": "#46f0f0"
      },
      "played": 2,
-     "won": 1,
-     "drawn": 1,
+     "won": 2,
+     "drawn": 0,
      "lost": 0,
-     "gf": 8,
+     "gf": 9,
      "ga": 2,
-     "gd": 6,
-     "points": 4,
+     "gd": 7,
+     "points": 6,
      "undetermined": false,
      "position": 1,
      "status": "projected"
@@ -364,12 +364,12 @@
      },
      "played": 2,
      "won": 1,
-     "drawn": 1,
-     "lost": 0,
+     "drawn": 0,
+     "lost": 1,
      "gf": 2,
-     "ga": 1,
-     "gd": 1,
-     "points": 4,
+     "ga": 2,
+     "gd": 0,
+     "points": 3,
      "undetermined": false,
      "position": 2,
      "status": "projected"
@@ -2237,6 +2237,17 @@
  ],
  "topScorers": [
   {
+   "playerName": "Deniz Undav",
+   "teamId": "GER",
+   "teamName": "Germany",
+   "goals": 3,
+   "drawnBy": {
+    "name": "JK",
+    "colour": "#46f0f0"
+   },
+   "rank": 1
+  },
+  {
    "playerName": "Jonathan David",
    "teamId": "CAN",
    "teamName": "Canada",
@@ -2267,7 +2278,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Cody Gakpo",
@@ -2278,7 +2289,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Cyle Larin",
@@ -2289,18 +2300,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 3
-  },
-  {
-   "playerName": "Deniz Undav",
-   "teamId": "GER",
-   "teamName": "Germany",
-   "goals": 2,
-   "drawnBy": {
-    "name": "JK",
-    "colour": "#46f0f0"
-   },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Elijah Just",
@@ -2311,7 +2311,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Erling Haaland",
@@ -2322,7 +2322,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Folarin Balogun",
@@ -2333,7 +2333,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Harry Kane",
@@ -2344,7 +2344,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Ismael Saibari",
@@ -2355,7 +2355,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Johan Manzambi",
@@ -2366,7 +2366,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Kai Havertz",
@@ -2377,7 +2377,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Kylian Mbappé",
@@ -2388,7 +2388,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Matheus Cunha",
@@ -2399,7 +2399,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Vinicius Junior",
@@ -2410,7 +2410,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Yasin Ayari",
@@ -2421,7 +2421,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Abdulelah Al Amri",
@@ -2934,10 +2934,12 @@
    "amount": "£10",
    "tie": true,
    "leaders": [
+    "Deniz Undav",
     "Jonathan David",
     "Lionel Messi"
    ],
    "holders": [
+    "JK",
     "MA",
     "Martin"
    ]
