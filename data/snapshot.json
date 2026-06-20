@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-20T04:47:28.705Z",
- "sourceLastUpdated": "2026-06-20T04:47:16Z",
+ "fetchedAt": "2026-06-20T04:57:20.461Z",
+ "sourceLastUpdated": "2026-06-20T04:56:16Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-20T17:00:00Z",
  "groups": [
@@ -375,6 +375,25 @@
      "status": "projected"
     },
     {
+     "teamId": "CUW",
+     "name": "Curaçao",
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 3,
+     "status": "alive"
+    },
+    {
      "teamId": "ECU",
      "name": "Ecuador",
      "drawnBy": {
@@ -390,16 +409,13 @@
      "gd": -1,
      "points": 0,
      "undetermined": false,
-     "position": 3,
+     "position": 4,
      "status": "alive"
     },
     {
-     "teamId": "CUW",
+     "teamId": "CUR",
      "name": "Curaçao",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
+     "drawnBy": null,
      "played": 1,
      "won": 0,
      "drawn": 0,
@@ -409,7 +425,7 @@
      "gd": -6,
      "points": 0,
      "undetermined": false,
-     "position": 4,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -1195,21 +1211,21 @@
     "group": "E",
     "groupComplete": false,
     "identityUndetermined": false,
-    "teamId": "ECU",
-    "name": "Ecuador",
+    "teamId": "CUW",
+    "name": "Curaçao",
     "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
+     "name": "Martin",
+     "colour": "#ffe119"
     },
-    "played": 1,
+    "played": 0,
     "won": 0,
     "drawn": 0,
-    "lost": 1,
+    "lost": 0,
     "gf": 0,
-    "ga": 1,
-    "gd": -1,
+    "ga": 0,
+    "gd": 0,
     "points": 0,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 9,
     "qualified": false
@@ -1232,7 +1248,7 @@
     "ga": 1,
     "gd": -1,
     "points": 0,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 10,
     "qualified": false
