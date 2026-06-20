@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-20T18:17:16.239Z",
- "sourceLastUpdated": "2026-06-20T18:17:07Z",
+ "fetchedAt": "2026-06-20T18:37:17.938Z",
+ "sourceLastUpdated": "2026-06-20T18:37:07Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-20T20:00:00Z",
  "groups": [
@@ -429,8 +429,8 @@
      "won": 1,
      "drawn": 1,
      "lost": 0,
-     "gf": 5,
-     "ga": 2,
+     "gf": 6,
+     "ga": 3,
      "gd": 3,
      "points": 4,
      "undetermined": false,
@@ -448,8 +448,8 @@
      "won": 1,
      "drawn": 0,
      "lost": 1,
-     "gf": 5,
-     "ga": 4,
+     "gf": 6,
+     "ga": 5,
      "gd": 1,
      "points": 3,
      "undetermined": false,
@@ -602,9 +602,12 @@
      "status": "projected"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 1,
      "won": 0,
      "drawn": 1,
@@ -653,25 +656,6 @@
      "points": 1,
      "undetermined": true,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -2270,6 +2254,17 @@
    "rank": 3
   },
   {
+   "playerName": "Cody Gakpo",
+   "teamId": "NED",
+   "teamName": "Netherlands",
+   "goals": 2,
+   "drawnBy": {
+    "name": "LA",
+    "colour": "#911eb4"
+   },
+   "rank": 3
+  },
+  {
    "playerName": "Cyle Larin",
    "teamId": "CAN",
    "teamName": "Canada",
@@ -2410,7 +2405,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Alexander Isak",
@@ -2421,7 +2416,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Ali Olwan",
@@ -2432,7 +2427,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Amad Diallo",
@@ -2443,7 +2438,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Aymen Hussein",
@@ -2454,7 +2449,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Boualem Khoukhi",
@@ -2465,7 +2460,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Bradley Barcola",
@@ -2476,7 +2471,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Breel Embolo",
@@ -2487,7 +2482,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Connor Metcalfe",
@@ -2498,7 +2493,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Crysencio Summerville",
@@ -2509,7 +2504,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Daichi Kamada",
@@ -2520,7 +2515,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Deniz Undav",
@@ -2531,7 +2526,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Emam Ashour",
@@ -2542,7 +2537,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Felix Kalu Nmecha",
@@ -2553,7 +2548,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Gio Reyna",
@@ -2564,7 +2559,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Hyun-Gyu Oh",
@@ -2575,7 +2570,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Ibrahim M'Baye",
@@ -2586,7 +2581,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "In-beom Hwang",
@@ -2597,7 +2592,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Jamal Musiala",
@@ -2608,7 +2603,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Joao Neves",
@@ -2619,7 +2614,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "John McGinn",
@@ -2630,7 +2625,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Jovo Lukić",
@@ -2641,18 +2636,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 16
-  },
-  {
-   "playerName": "Jude Bellingham",
-   "teamId": "ENG",
-   "teamName": "England",
-   "goals": 1,
-   "drawnBy": {
-    "name": "MA",
-    "colour": "#4363d8"
-   },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Julián Quiñones",
@@ -2663,7 +2647,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Keito Nakamura",
@@ -2674,7 +2658,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Ladislav Krejčí",
@@ -2685,7 +2669,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Leo Østigård",
@@ -2696,7 +2680,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Livano Comenencia",
@@ -2707,7 +2691,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Marko Arnautovic",
@@ -2718,7 +2702,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Martin Baturina",
@@ -2729,7 +2713,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Mattias Svanberg",
@@ -2740,7 +2724,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Mauricio",
@@ -2751,7 +2735,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Maximiliano Araújo",
@@ -2762,7 +2746,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Mohammad Mohebi",
@@ -2773,7 +2757,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Nathaniel Brown",
@@ -2784,7 +2768,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Nestor Irankunda",
@@ -2795,7 +2779,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Nico Schlotterbeck",
@@ -2806,7 +2790,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Omar Rekik",
@@ -2817,7 +2801,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Petar Musa",
@@ -2828,7 +2812,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Ramin Rezaeian",
@@ -2839,7 +2823,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Raúl Jiménez",
@@ -2850,7 +2834,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Romano Schmid",
@@ -2861,7 +2845,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Viktor Gyökeres",
@@ -2872,7 +2856,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Virgil van Dijk",
@@ -2883,7 +2867,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 16
+   "rank": 17
   },
   {
    "playerName": "Yoane Wissa",
@@ -2894,7 +2878,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 16
+   "rank": 17
   }
  ],
  "prizes": {
