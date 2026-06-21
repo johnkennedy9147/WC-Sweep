@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-21T19:27:20.061Z",
- "sourceLastUpdated": "2026-06-21T19:26:25Z",
+ "fetchedAt": "2026-06-21T19:37:32.926Z",
+ "sourceLastUpdated": "2026-06-21T19:36:37Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-21T22:00:00Z",
  "groups": [
@@ -508,34 +508,15 @@
       "colour": "#f032e6"
      },
      "played": 2,
-     "won": 0,
-     "drawn": 2,
+     "won": 1,
+     "drawn": 1,
      "lost": 0,
-     "gf": 2,
+     "gf": 3,
      "ga": 2,
-     "gd": 0,
-     "points": 2,
+     "gd": 1,
+     "points": 4,
      "undetermined": false,
      "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "BEL",
-     "name": "Belgium",
-     "drawnBy": {
-      "name": "Ollie",
-      "colour": "#bcf60c"
-     },
-     "played": 2,
-     "won": 0,
-     "drawn": 2,
-     "lost": 0,
-     "gf": 1,
-     "ga": 1,
-     "gd": 0,
-     "points": 2,
-     "undetermined": false,
-     "position": 2,
      "status": "projected"
     },
     {
@@ -554,8 +535,8 @@
      "gd": 0,
      "points": 1,
      "undetermined": false,
-     "position": 3,
-     "status": "thirds"
+     "position": 2,
+     "status": "projected"
     },
     {
      "teamId": "EGY",
@@ -571,6 +552,25 @@
      "gf": 1,
      "ga": 1,
      "gd": 0,
+     "points": 1,
+     "undetermined": false,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
+     "teamId": "BEL",
+     "name": "Belgium",
+     "drawnBy": {
+      "name": "Ollie",
+      "colour": "#bcf60c"
+     },
+     "played": 2,
+     "won": 0,
+     "drawn": 1,
+     "lost": 1,
+     "gf": 1,
+     "ga": 2,
+     "gd": -1,
      "points": 1,
      "undetermined": false,
      "position": 4,
@@ -1064,21 +1064,21 @@
     "group": "G",
     "groupComplete": false,
     "identityUndetermined": false,
-    "teamId": "NZL",
-    "name": "New Zealand",
+    "teamId": "EGY",
+    "name": "Egypt",
     "drawnBy": {
-     "name": "Adam",
-     "colour": "#f032e6"
+     "name": "MA",
+     "colour": "#4363d8"
     },
     "played": 1,
     "won": 0,
     "drawn": 1,
     "lost": 0,
-    "gf": 2,
-    "ga": 2,
+    "gf": 1,
+    "ga": 1,
     "gd": 0,
     "points": 1,
-    "undetermined": false,
+    "undetermined": true,
     "position": 3,
     "rank": 4,
     "qualified": true
@@ -1101,7 +1101,7 @@
     "ga": 1,
     "gd": 0,
     "points": 1,
-    "undetermined": false,
+    "undetermined": true,
     "position": 3,
     "rank": 5,
     "qualified": true
