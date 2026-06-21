@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-21T19:57:22.586Z",
- "sourceLastUpdated": "2026-06-21T19:56:25Z",
+ "fetchedAt": "2026-06-21T20:07:13.518Z",
+ "sourceLastUpdated": "2026-06-21T19:59:34Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-21T22:00:00Z",
  "groups": [
@@ -508,15 +508,34 @@
       "colour": "#f032e6"
      },
      "played": 2,
-     "won": 1,
-     "drawn": 1,
+     "won": 0,
+     "drawn": 2,
      "lost": 0,
-     "gf": 3,
+     "gf": 2,
      "ga": 2,
-     "gd": 1,
-     "points": 4,
+     "gd": 0,
+     "points": 2,
      "undetermined": false,
      "position": 1,
+     "status": "projected"
+    },
+    {
+     "teamId": "BEL",
+     "name": "Belgium",
+     "drawnBy": {
+      "name": "Ollie",
+      "colour": "#bcf60c"
+     },
+     "played": 2,
+     "won": 0,
+     "drawn": 2,
+     "lost": 0,
+     "gf": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 2,
+     "undetermined": false,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -535,8 +554,8 @@
      "gd": 0,
      "points": 1,
      "undetermined": false,
-     "position": 2,
-     "status": "projected"
+     "position": 3,
+     "status": "thirds"
     },
     {
      "teamId": "EGY",
@@ -552,25 +571,6 @@
      "gf": 1,
      "ga": 1,
      "gd": 0,
-     "points": 1,
-     "undetermined": false,
-     "position": 3,
-     "status": "thirds"
-    },
-    {
-     "teamId": "BEL",
-     "name": "Belgium",
-     "drawnBy": {
-      "name": "Ollie",
-      "colour": "#bcf60c"
-     },
-     "played": 2,
-     "won": 0,
-     "drawn": 1,
-     "lost": 1,
-     "gf": 1,
-     "ga": 2,
-     "gd": -1,
      "points": 1,
      "undetermined": false,
      "position": 4,
@@ -602,9 +602,12 @@
      "status": "projected"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 1,
      "won": 0,
      "drawn": 1,
@@ -653,25 +656,6 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -1080,21 +1064,21 @@
     "group": "G",
     "groupComplete": false,
     "identityUndetermined": false,
-    "teamId": "EGY",
-    "name": "Egypt",
+    "teamId": "NZL",
+    "name": "New Zealand",
     "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
+     "name": "Adam",
+     "colour": "#f032e6"
     },
     "played": 1,
     "won": 0,
     "drawn": 1,
     "lost": 0,
-    "gf": 1,
-    "ga": 1,
+    "gf": 2,
+    "ga": 2,
     "gd": 0,
     "points": 1,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 4,
     "qualified": true
@@ -1117,7 +1101,7 @@
     "ga": 1,
     "gd": 0,
     "points": 1,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 5,
     "qualified": true
