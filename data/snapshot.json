@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-06-21T02:47:23.163Z",
+ "fetchedAt": "2026-06-21T02:57:39.379Z",
  "sourceLastUpdated": "2026-06-21T02:00:28Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-21T04:00:00Z",
@@ -91,6 +91,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "CAN",
+     "name": "Canada",
+     "drawnBy": {
+      "name": "MA",
+      "colour": "#4363d8"
+     },
+     "played": 2,
+     "won": 1,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 7,
+     "ga": 1,
+     "gd": 6,
+     "points": 4,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "SUI",
      "name": "Switzerland",
      "drawnBy": {
@@ -106,27 +125,27 @@
      "gd": 3,
      "points": 4,
      "undetermined": false,
-     "position": 1,
+     "position": 2,
      "status": "projected"
     },
     {
-     "teamId": "CAN",
-     "name": "Canada",
+     "teamId": "BIH",
+     "name": "Bosnia and Herzegovina",
      "drawnBy": {
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 1,
-     "won": 1,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 6,
-     "ga": 0,
-     "gd": 6,
-     "points": 3,
+     "played": 2,
+     "won": 0,
+     "drawn": 1,
+     "lost": 1,
+     "gf": 2,
+     "ga": 5,
+     "gd": -3,
+     "points": 1,
      "undetermined": false,
-     "position": 2,
-     "status": "projected"
+     "position": 3,
+     "status": "alive"
     },
     {
      "teamId": "QAT",
@@ -143,25 +162,6 @@
      "ga": 7,
      "gd": -6,
      "points": 1,
-     "undetermined": false,
-     "position": 3,
-     "status": "alive"
-    },
-    {
-     "teamId": "BIH",
-     "name": "Bosnia and Herzegovina",
-     "drawnBy": {
-      "name": "MA",
-      "colour": "#4363d8"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 1,
-     "ga": 4,
-     "gd": -3,
-     "points": 0,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -1195,19 +1195,19 @@
     "group": "B",
     "groupComplete": false,
     "identityUndetermined": false,
-    "teamId": "QAT",
-    "name": "Qatar",
+    "teamId": "BIH",
+    "name": "Bosnia and Herzegovina",
     "drawnBy": {
-     "name": "Ollie",
-     "colour": "#bcf60c"
+     "name": "MA",
+     "colour": "#4363d8"
     },
     "played": 2,
     "won": 0,
     "drawn": 1,
     "lost": 1,
-    "gf": 1,
-    "ga": 7,
-    "gd": -6,
+    "gf": 2,
+    "ga": 5,
+    "gd": -3,
     "points": 1,
     "undetermined": false,
     "position": 3,
