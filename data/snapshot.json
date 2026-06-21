@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-20T23:37:26.033Z",
- "sourceLastUpdated": "2026-06-20T22:05:03Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-21T00:00:00Z",
+ "fetchedAt": "2026-06-21T00:07:18.684Z",
+ "sourceLastUpdated": "2026-06-21T00:05:27Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-21T04:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -145,7 +145,7 @@
      "points": 1,
      "undetermined": false,
      "position": 3,
-     "status": "thirds"
+     "status": "alive"
     },
     {
      "teamId": "QAT",
@@ -381,17 +381,17 @@
       "name": "JK",
       "colour": "#46f0f0"
      },
-     "played": 1,
+     "played": 2,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
      "gf": 0,
      "ga": 1,
      "gd": -1,
-     "points": 0,
+     "points": 1,
      "undetermined": false,
      "position": 3,
-     "status": "alive"
+     "status": "thirds"
     },
     {
      "teamId": "CUW",
@@ -400,14 +400,14 @@
       "name": "Martin",
       "colour": "#ffe119"
      },
-     "played": 1,
+     "played": 2,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
      "gf": 1,
      "ga": 7,
      "gd": -6,
-     "points": 0,
+     "points": 1,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -1153,6 +1153,29 @@
     "qualified": true
    },
    {
+    "group": "E",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "ECU",
+    "name": "Ecuador",
+    "drawnBy": {
+     "name": "JK",
+     "colour": "#46f0f0"
+    },
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 0,
+    "ga": 1,
+    "gd": -1,
+    "points": 1,
+    "undetermined": false,
+    "position": 3,
+    "rank": 8,
+    "qualified": true
+   },
+   {
     "group": "B",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1171,29 +1194,6 @@
     "gd": -3,
     "points": 1,
     "undetermined": false,
-    "position": 3,
-    "rank": 8,
-    "qualified": true
-   },
-   {
-    "group": "E",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "ECU",
-    "name": "Ecuador",
-    "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
-    },
-    "played": 1,
-    "won": 0,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 0,
-    "ga": 1,
-    "gd": -1,
-    "points": 0,
-    "undetermined": true,
     "position": 3,
     "rank": 9,
     "qualified": false
@@ -1216,7 +1216,7 @@
     "ga": 1,
     "gd": -1,
     "points": 0,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 10,
     "qualified": false
