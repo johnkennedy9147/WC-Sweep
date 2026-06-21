@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-21T22:57:29.454Z",
- "sourceLastUpdated": "2026-06-21T22:57:28Z",
+ "fetchedAt": "2026-06-21T23:07:36.359Z",
+ "sourceLastUpdated": "2026-06-21T22:59:52Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-22T01:00:00Z",
  "groups": [
@@ -609,13 +609,13 @@
       "colour": "#3cb44b"
      },
      "played": 2,
-     "won": 0,
-     "drawn": 2,
+     "won": 1,
+     "drawn": 1,
      "lost": 0,
-     "gf": 2,
+     "gf": 3,
      "ga": 2,
-     "gd": 0,
-     "points": 2,
+     "gd": 1,
+     "points": 4,
      "undetermined": false,
      "position": 2,
      "status": "projected"
@@ -629,12 +629,12 @@
      },
      "played": 2,
      "won": 0,
-     "drawn": 2,
-     "lost": 0,
+     "drawn": 1,
+     "lost": 1,
      "gf": 1,
-     "ga": 1,
-     "gd": 0,
-     "points": 2,
+     "ga": 2,
+     "gd": -1,
+     "points": 1,
      "undetermined": false,
      "position": 3,
      "status": "thirds"
@@ -1061,29 +1061,6 @@
     "qualified": true
    },
    {
-    "group": "H",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "CPV",
-    "name": "Cape Verde",
-    "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
-    },
-    "played": 2,
-    "won": 0,
-    "drawn": 2,
-    "lost": 0,
-    "gf": 1,
-    "ga": 1,
-    "gd": 0,
-    "points": 2,
-    "undetermined": false,
-    "position": 3,
-    "rank": 4,
-    "qualified": true
-   },
-   {
     "group": "G",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1103,7 +1080,7 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 5,
+    "rank": 4,
     "qualified": true
    },
    {
@@ -1126,7 +1103,7 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 6,
+    "rank": 5,
     "qualified": true
    },
    {
@@ -1145,6 +1122,29 @@
     "lost": 1,
     "gf": 2,
     "ga": 3,
+    "gd": -1,
+    "points": 1,
+    "undetermined": false,
+    "position": 3,
+    "rank": 6,
+    "qualified": true
+   },
+   {
+    "group": "H",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "CPV",
+    "name": "Cape Verde",
+    "drawnBy": {
+     "name": "JK",
+     "colour": "#46f0f0"
+    },
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 1,
+    "ga": 2,
     "gd": -1,
     "points": 1,
     "undetermined": false,
