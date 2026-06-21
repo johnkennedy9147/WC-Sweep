@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-21T04:07:15.025Z",
- "sourceLastUpdated": "2026-06-21T04:07:10Z",
+ "fetchedAt": "2026-06-21T04:17:36.368Z",
+ "sourceLastUpdated": "2026-06-21T04:16:49Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-21T16:00:00Z",
  "groups": [
@@ -438,6 +438,25 @@
      "status": "projected"
     },
     {
+     "teamId": "JPN",
+     "name": "Japan",
+     "drawnBy": {
+      "name": "Paolo",
+      "colour": "#e6194b"
+     },
+     "played": 2,
+     "won": 1,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 3,
+     "ga": 2,
+     "gd": 1,
+     "points": 4,
+     "undetermined": false,
+     "position": 2,
+     "status": "projected"
+    },
+    {
      "teamId": "SWE",
      "name": "Sweden",
      "drawnBy": {
@@ -453,25 +472,6 @@
      "gd": 0,
      "points": 3,
      "undetermined": false,
-     "position": 2,
-     "status": "projected"
-    },
-    {
-     "teamId": "JPN",
-     "name": "Japan",
-     "drawnBy": {
-      "name": "Paolo",
-      "colour": "#e6194b"
-     },
-     "played": 2,
-     "won": 0,
-     "drawn": 2,
-     "lost": 0,
-     "gf": 2,
-     "ga": 2,
-     "gd": 0,
-     "points": 2,
-     "undetermined": false,
      "position": 3,
      "status": "thirds"
     },
@@ -484,12 +484,12 @@
      },
      "played": 2,
      "won": 0,
-     "drawn": 1,
-     "lost": 1,
+     "drawn": 0,
+     "lost": 2,
      "gf": 1,
-     "ga": 5,
-     "gd": -4,
-     "points": 1,
+     "ga": 6,
+     "gd": -5,
+     "points": 0,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -992,6 +992,29 @@
  "thirdPlace": {
   "rows": [
    {
+    "group": "F",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "SWE",
+    "name": "Sweden",
+    "drawnBy": {
+     "name": "Paolo",
+     "colour": "#e6194b"
+    },
+    "played": 2,
+    "won": 1,
+    "drawn": 0,
+    "lost": 1,
+    "gf": 6,
+    "ga": 6,
+    "gd": 0,
+    "points": 3,
+    "undetermined": false,
+    "position": 3,
+    "rank": 1,
+    "qualified": true
+   },
+   {
     "group": "C",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1011,7 +1034,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 1,
+    "rank": 2,
     "qualified": true
    },
    {
@@ -1032,29 +1055,6 @@
     "ga": 4,
     "gd": -2,
     "points": 3,
-    "undetermined": false,
-    "position": 3,
-    "rank": 2,
-    "qualified": true
-   },
-   {
-    "group": "F",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "JPN",
-    "name": "Japan",
-    "drawnBy": {
-     "name": "Paolo",
-     "colour": "#e6194b"
-    },
-    "played": 2,
-    "won": 0,
-    "drawn": 2,
-    "lost": 0,
-    "gf": 2,
-    "ga": 2,
-    "gd": 0,
-    "points": 2,
     "undetermined": false,
     "position": 3,
     "rank": 3,
