@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-21T20:27:25.624Z",
- "sourceLastUpdated": "2026-06-21T20:27:01Z",
+ "fetchedAt": "2026-06-21T20:37:18.593Z",
+ "sourceLastUpdated": "2026-06-21T20:37:13Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-21T22:00:00Z",
  "groups": [
@@ -394,9 +394,12 @@
      "status": "thirds"
     },
     {
-     "teamId": "CUR",
+     "teamId": "CUW",
      "name": "Curaçao",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
+     },
      "played": 2,
      "won": 0,
      "drawn": 1,
@@ -407,25 +410,6 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "CUW",
-     "name": "Curaçao",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -609,18 +593,21 @@
      "won": 1,
      "drawn": 1,
      "lost": 0,
-     "gf": 5,
+     "gf": 4,
      "ga": 0,
-     "gd": 5,
+     "gd": 4,
      "points": 4,
      "undetermined": false,
      "position": 1,
      "status": "projected"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 1,
      "won": 0,
      "drawn": 1,
@@ -664,30 +651,11 @@
      "drawn": 1,
      "lost": 1,
      "gf": 1,
-     "ga": 6,
-     "gd": -5,
+     "ga": 5,
+     "gd": -4,
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
