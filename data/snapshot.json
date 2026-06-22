@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-22T00:47:27.026Z",
- "sourceLastUpdated": "2026-06-22T00:10:40Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-22T01:00:00Z",
+ "fetchedAt": "2026-06-22T01:07:26.708Z",
+ "sourceLastUpdated": "2026-06-22T01:06:46Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-22T17:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -515,8 +515,27 @@
      "ga": 2,
      "gd": 0,
      "points": 2,
-     "undetermined": false,
+     "undetermined": true,
      "position": 1,
+     "status": "projected"
+    },
+    {
+     "teamId": "NZL",
+     "name": "New Zealand",
+     "drawnBy": {
+      "name": "Adam",
+      "colour": "#f032e6"
+     },
+     "played": 2,
+     "won": 0,
+     "drawn": 2,
+     "lost": 0,
+     "gf": 2,
+     "ga": 2,
+     "gd": 0,
+     "points": 2,
+     "undetermined": true,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -534,26 +553,7 @@
      "ga": 1,
      "gd": 0,
      "points": 2,
-     "undetermined": false,
-     "position": 2,
-     "status": "projected"
-    },
-    {
-     "teamId": "NZL",
-     "name": "New Zealand",
-     "drawnBy": {
-      "name": "Adam",
-      "colour": "#f032e6"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 2,
-     "ga": 2,
-     "gd": 0,
-     "points": 1,
-     "undetermined": false,
+     "undetermined": true,
      "position": 3,
      "status": "thirds"
     },
@@ -564,15 +564,15 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 1,
+     "played": 2,
      "won": 0,
-     "drawn": 1,
+     "drawn": 2,
      "lost": 0,
      "gf": 1,
      "ga": 1,
      "gd": 0,
-     "points": 1,
-     "undetermined": false,
+     "points": 2,
+     "undetermined": true,
      "position": 4,
      "status": "alive"
     }
@@ -1086,21 +1086,21 @@
    {
     "group": "G",
     "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "NZL",
-    "name": "New Zealand",
+    "identityUndetermined": true,
+    "teamId": "BEL",
+    "name": "Belgium",
     "drawnBy": {
-     "name": "Adam",
-     "colour": "#f032e6"
+     "name": "Ollie",
+     "colour": "#bcf60c"
     },
-    "played": 1,
+    "played": 2,
     "won": 0,
-    "drawn": 1,
+    "drawn": 2,
     "lost": 0,
-    "gf": 2,
-    "ga": 2,
+    "gf": 1,
+    "ga": 1,
     "gd": 0,
-    "points": 1,
+    "points": 2,
     "undetermined": false,
     "position": 3,
     "rank": 5,
