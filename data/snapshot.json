@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-22T21:07:37.952Z",
- "sourceLastUpdated": "2026-06-22T21:07:04Z",
+ "fetchedAt": "2026-06-22T21:17:29.110Z",
+ "sourceLastUpdated": "2026-06-22T21:17:19Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-23T00:00:00Z",
  "groups": [
@@ -602,12 +602,9 @@
      "status": "projected"
     },
     {
-     "teamId": "URU",
+     "teamId": "URY",
      "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
+     "drawnBy": null,
      "played": 2,
      "won": 0,
      "drawn": 2,
@@ -656,6 +653,25 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
+     "status": "alive"
+    },
+    {
+     "teamId": "URU",
+     "name": "Uruguay",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -2254,6 +2270,17 @@
    "rank": 2
   },
   {
+   "playerName": "Kylian Mbappé",
+   "teamId": "FRA",
+   "teamName": "France",
+   "goals": 3,
+   "drawnBy": {
+    "name": "Neil",
+    "colour": "#f58231"
+   },
+   "rank": 2
+  },
+  {
    "playerName": "Ayase Ueda",
    "teamId": "JPN",
    "teamName": "Japan",
@@ -2262,7 +2289,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Brian Brobbey",
@@ -2273,7 +2300,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Cody Gakpo",
@@ -2284,7 +2311,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Cyle Larin",
@@ -2295,7 +2322,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Daichi Kamada",
@@ -2306,7 +2333,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Elijah Just",
@@ -2317,7 +2344,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Erling Haaland",
@@ -2328,7 +2355,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Folarin Balogun",
@@ -2339,7 +2366,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Harry Kane",
@@ -2350,7 +2377,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Ismael Saibari",
@@ -2361,7 +2388,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Johan Manzambi",
@@ -2372,7 +2399,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Kai Havertz",
@@ -2383,18 +2410,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 4
-  },
-  {
-   "playerName": "Kylian Mbappé",
-   "teamId": "FRA",
-   "teamName": "France",
-   "goals": 2,
-   "drawnBy": {
-    "name": "Neil",
-    "colour": "#f58231"
-   },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Matheus Cunha",
@@ -2405,7 +2421,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Maximiliano Araújo",
@@ -2416,7 +2432,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Mikel Oyarzabal",
@@ -2427,7 +2443,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Vinicius Junior",
@@ -2438,7 +2454,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Yasin Ayari",
@@ -2449,7 +2465,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Abdulelah Al Amri",
