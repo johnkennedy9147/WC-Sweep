@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-23T02:57:15.903Z",
- "sourceLastUpdated": "2026-06-23T02:06:01Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-23T03:00:00Z",
+ "fetchedAt": "2026-06-23T03:07:13.562Z",
+ "sourceLastUpdated": "2026-06-23T03:06:01Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-23T17:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -791,14 +791,14 @@
       "name": "LA",
       "colour": "#911eb4"
      },
-     "played": 1,
+     "played": 2,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
      "gf": 1,
      "ga": 3,
      "gd": -2,
-     "points": 0,
+     "points": 1,
      "undetermined": false,
      "position": 3,
      "status": "alive"
@@ -810,14 +810,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 1,
+     "played": 2,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
      "gf": 0,
      "ga": 3,
      "gd": -3,
-     "points": 0,
+     "points": 1,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -1176,6 +1176,29 @@
     "qualified": true
    },
    {
+    "group": "J",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "JOR",
+    "name": "Jordan",
+    "drawnBy": {
+     "name": "LA",
+     "colour": "#911eb4"
+    },
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 1,
+    "ga": 3,
+    "gd": -2,
+    "points": 1,
+    "undetermined": false,
+    "position": 3,
+    "rank": 9,
+    "qualified": false
+   },
+   {
     "group": "B",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1195,7 +1218,7 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 9,
+    "rank": 10,
     "qualified": false
    },
    {
@@ -1215,29 +1238,6 @@
     "gf": 0,
     "ga": 1,
     "gd": -1,
-    "points": 0,
-    "undetermined": false,
-    "position": 3,
-    "rank": 10,
-    "qualified": false
-   },
-   {
-    "group": "J",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "JOR",
-    "name": "Jordan",
-    "drawnBy": {
-     "name": "LA",
-     "colour": "#911eb4"
-    },
-    "played": 1,
-    "won": 0,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 1,
-    "ga": 3,
-    "gd": -2,
     "points": 0,
     "undetermined": false,
     "position": 3,
