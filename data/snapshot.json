@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-23T16:57:38.284Z",
- "sourceLastUpdated": "2026-06-23T13:25:01Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-23T17:00:00Z",
+ "fetchedAt": "2026-06-23T17:07:16.864Z",
+ "sourceLastUpdated": "2026-06-23T17:06:54Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-23T20:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -602,9 +602,12 @@
      "status": "projected"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 2,
      "won": 0,
      "drawn": 2,
@@ -653,25 +656,6 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -864,6 +848,25 @@
      "status": "projected"
     },
     {
+     "teamId": "POR",
+     "name": "Portugal",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 2,
+     "won": 0,
+     "drawn": 2,
+     "lost": 0,
+     "gf": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 2,
+     "undetermined": false,
+     "position": 2,
+     "status": "projected"
+    },
+    {
      "teamId": "COD",
      "name": "DR Congo",
      "drawnBy": {
@@ -878,26 +881,7 @@
      "ga": 1,
      "gd": 0,
      "points": 1,
-     "undetermined": true,
-     "position": 2,
-     "status": "projected"
-    },
-    {
-     "teamId": "POR",
-     "name": "Portugal",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 1,
-     "ga": 1,
-     "gd": 0,
-     "points": 1,
-     "undetermined": true,
+     "undetermined": false,
      "position": 3,
      "status": "thirds"
     },
@@ -908,14 +892,14 @@
       "name": "LA",
       "colour": "#911eb4"
      },
-     "played": 1,
+     "played": 2,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
      "gf": 1,
      "ga": 3,
      "gd": -2,
-     "points": 0,
+     "points": 1,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -1148,9 +1132,9 @@
    {
     "group": "K",
     "groupComplete": false,
-    "identityUndetermined": true,
-    "teamId": "POR",
-    "name": "Portugal",
+    "identityUndetermined": false,
+    "teamId": "COD",
+    "name": "DR Congo",
     "drawnBy": {
      "name": "Nicola",
      "colour": "#3cb44b"
@@ -1327,7 +1311,12 @@
       "status": "TIMED",
       "utcDate": "2026-06-29T20:30:00Z",
       "home": {
-       "label": "Winner Group F"
+       "teamId": "GER",
+       "name": "Germany",
+       "drawnBy": {
+        "name": "JK",
+        "colour": "#46f0f0"
+       }
       },
       "away": {
        "label": "Runner-up Group C"
@@ -1387,7 +1376,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-01T01:00:00Z",
       "home": {
-       "label": "Winner Group A"
+       "teamId": "MEX",
+       "name": "Mexico",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
        "label": "Best 3rd place C/E/F/H/I"
@@ -1432,7 +1426,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-02T00:00:00Z",
       "home": {
-       "label": "Winner Group G"
+       "teamId": "USA",
+       "name": "USA",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
        "label": "Best 3rd place A/E/H/I/J"
