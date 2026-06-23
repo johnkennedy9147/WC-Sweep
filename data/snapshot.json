@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-06-23T15:27:45.219Z",
+ "fetchedAt": "2026-06-23T15:37:18.391Z",
  "sourceLastUpdated": "2026-06-23T13:25:01Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-23T17:00:00Z",
@@ -394,9 +394,12 @@
      "status": "alive"
     },
     {
-     "teamId": "CUR",
+     "teamId": "CUW",
      "name": "Curaçao",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
+     },
      "played": 2,
      "won": 0,
      "drawn": 1,
@@ -407,25 +410,6 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "CUW",
-     "name": "Curaçao",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
