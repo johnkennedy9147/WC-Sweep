@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-23T17:07:16.864Z",
- "sourceLastUpdated": "2026-06-23T17:06:54Z",
+ "fetchedAt": "2026-06-23T17:17:32.595Z",
+ "sourceLastUpdated": "2026-06-23T17:16:36Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-23T20:00:00Z",
  "groups": [
@@ -829,6 +829,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "POR",
+     "name": "Portugal",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 2,
+     "won": 1,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 2,
+     "ga": 1,
+     "gd": 1,
+     "points": 4,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "COL",
      "name": "Colombia",
      "drawnBy": {
@@ -843,25 +862,6 @@
      "ga": 1,
      "gd": 2,
      "points": 3,
-     "undetermined": false,
-     "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "POR",
-     "name": "Portugal",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 2,
-     "won": 0,
-     "drawn": 2,
-     "lost": 0,
-     "gf": 1,
-     "ga": 1,
-     "gd": 0,
-     "points": 2,
      "undetermined": false,
      "position": 2,
      "status": "projected"
@@ -894,12 +894,12 @@
      },
      "played": 2,
      "won": 0,
-     "drawn": 1,
-     "lost": 1,
+     "drawn": 0,
+     "lost": 2,
      "gf": 1,
-     "ga": 3,
-     "gd": -2,
-     "points": 1,
+     "ga": 4,
+     "gd": -3,
+     "points": 0,
      "undetermined": false,
      "position": 4,
      "status": "alive"
