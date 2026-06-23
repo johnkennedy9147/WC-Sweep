@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-23T18:57:42.411Z",
- "sourceLastUpdated": "2026-06-23T18:57:15Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-23T19:07:30.370Z",
+ "sourceLastUpdated": "2026-06-23T19:04:30Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-23T20:00:00Z",
  "groups": [
   {
@@ -91,25 +91,6 @@
    "complete": false,
    "standings": [
     {
-     "teamId": "CAN",
-     "name": "Canada",
-     "drawnBy": {
-      "name": "MA",
-      "colour": "#4363d8"
-     },
-     "played": 2,
-     "won": 1,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 7,
-     "ga": 1,
-     "gd": 6,
-     "points": 4,
-     "undetermined": false,
-     "position": 1,
-     "status": "projected"
-    },
-    {
      "teamId": "SUI",
      "name": "Switzerland",
      "drawnBy": {
@@ -125,27 +106,27 @@
      "gd": 3,
      "points": 4,
      "undetermined": false,
-     "position": 2,
+     "position": 1,
      "status": "projected"
     },
     {
-     "teamId": "BIH",
-     "name": "Bosnia and Herzegovina",
+     "teamId": "CAN",
+     "name": "Canada",
      "drawnBy": {
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
-     "won": 0,
-     "drawn": 1,
-     "lost": 1,
-     "gf": 2,
-     "ga": 5,
-     "gd": -3,
-     "points": 1,
+     "played": 1,
+     "won": 1,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 6,
+     "ga": 0,
+     "gd": 6,
+     "points": 3,
      "undetermined": false,
-     "position": 3,
-     "status": "alive"
+     "position": 2,
+     "status": "projected"
     },
     {
      "teamId": "QAT",
@@ -162,6 +143,25 @@
      "ga": 7,
      "gd": -6,
      "points": 1,
+     "undetermined": false,
+     "position": 3,
+     "status": "alive"
+    },
+    {
+     "teamId": "BIH",
+     "name": "Bosnia and Herzegovina",
+     "drawnBy": {
+      "name": "MA",
+      "colour": "#4363d8"
+     },
+     "played": 1,
+     "won": 0,
+     "drawn": 0,
+     "lost": 1,
+     "gf": 1,
+     "ga": 4,
+     "gd": -3,
+     "points": 0,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -394,9 +394,12 @@
      "status": "alive"
     },
     {
-     "teamId": "CUR",
+     "teamId": "CUW",
      "name": "Curaçao",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
+     },
      "played": 2,
      "won": 0,
      "drawn": 1,
@@ -407,25 +410,6 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "CUW",
-     "name": "Curaçao",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -1234,19 +1218,19 @@
     "group": "B",
     "groupComplete": false,
     "identityUndetermined": false,
-    "teamId": "BIH",
-    "name": "Bosnia and Herzegovina",
+    "teamId": "QAT",
+    "name": "Qatar",
     "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
+     "name": "Ollie",
+     "colour": "#bcf60c"
     },
     "played": 2,
     "won": 0,
     "drawn": 1,
     "lost": 1,
-    "gf": 2,
-    "ga": 5,
-    "gd": -3,
+    "gf": 1,
+    "ga": 7,
+    "gd": -6,
     "points": 1,
     "undetermined": false,
     "position": 3,
@@ -2341,17 +2325,6 @@
    "rank": 6
   },
   {
-   "playerName": "Cristiano Ronaldo",
-   "teamId": "POR",
-   "teamName": "Portugal",
-   "goals": 2,
-   "drawnBy": {
-    "name": "Nicola",
-    "colour": "#3cb44b"
-   },
-   "rank": 6
-  },
-  {
    "playerName": "Crysencio Summerville",
    "teamId": "NED",
    "teamName": "Netherlands",
@@ -2525,7 +2498,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Alexander Isak",
@@ -2536,7 +2509,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Ali Olwan",
@@ -2547,7 +2520,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Amad Diallo",
@@ -2558,7 +2531,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Aymen Hussein",
@@ -2569,7 +2542,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Boualem Khoukhi",
@@ -2580,7 +2553,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Bradley Barcola",
@@ -2591,7 +2564,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Breel Embolo",
@@ -2602,7 +2575,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Connor Metcalfe",
@@ -2613,7 +2586,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Emam Ashour",
@@ -2624,7 +2597,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Felix Kalu Nmecha",
@@ -2635,7 +2608,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Gio Reyna",
@@ -2646,7 +2619,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Hyun-Gyu Oh",
@@ -2657,7 +2630,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Ibrahim M'Baye",
@@ -2668,7 +2641,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "In-beom Hwang",
@@ -2679,7 +2652,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Jamal Musiala",
@@ -2690,7 +2663,18 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 25
+   "rank": 24
+  },
+  {
+   "playerName": "Joao Neves",
+   "teamId": "POR",
+   "teamName": "Portugal",
+   "goals": 1,
+   "drawnBy": {
+    "name": "Nicola",
+    "colour": "#3cb44b"
+   },
+   "rank": 24
   },
   {
    "playerName": "John McGinn",
@@ -2701,7 +2685,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Jovo Lukić",
@@ -2712,7 +2696,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Julián Quiñones",
@@ -2723,7 +2707,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Keito Nakamura",
@@ -2734,7 +2718,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Ladislav Krejčí",
@@ -2745,7 +2729,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Leo Østigård",
@@ -2756,7 +2740,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Livano Comenencia",
@@ -2767,7 +2751,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Marko Arnautovic",
@@ -2778,7 +2762,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Mattias Svanberg",
@@ -2789,7 +2773,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Mauricio",
@@ -2800,7 +2784,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Mohammad Mohebi",
@@ -2811,7 +2795,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Nathaniel Brown",
@@ -2822,7 +2806,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Nestor Irankunda",
@@ -2833,7 +2817,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Nico Schlotterbeck",
@@ -2844,7 +2828,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Omar Rekik",
@@ -2855,7 +2839,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Ramin Rezaeian",
@@ -2866,7 +2850,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Raúl Jiménez",
@@ -2877,7 +2861,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Romano Schmid",
@@ -2888,7 +2872,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Viktor Gyökeres",
@@ -2899,7 +2883,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 25
+   "rank": 24
   },
   {
    "playerName": "Virgil van Dijk",
@@ -2910,7 +2894,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 25
+   "rank": 24
   }
  ],
  "prizes": {
