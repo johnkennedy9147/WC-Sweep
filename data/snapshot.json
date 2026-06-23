@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-22T23:47:20.236Z",
- "sourceLastUpdated": "2026-06-22T21:55:07Z",
+ "fetchedAt": "2026-06-23T00:07:14.417Z",
+ "sourceLastUpdated": "2026-06-23T00:07:07Z",
  "liveNow": true,
- "nextKickoffUtc": "2026-06-23T00:00:00Z",
+ "nextKickoffUtc": "2026-06-23T03:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -706,14 +706,14 @@
       "name": "Paolo",
       "colour": "#e6194b"
      },
-     "played": 1,
+     "played": 2,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 4,
      "ga": 1,
      "gd": 3,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 2,
      "status": "projected"
@@ -725,14 +725,14 @@
       "name": "JK",
       "colour": "#46f0f0"
      },
-     "played": 1,
+     "played": 2,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
      "gf": 1,
      "ga": 3,
      "gd": -2,
-     "points": 0,
+     "points": 1,
      "undetermined": false,
      "position": 3,
      "status": "alive"
@@ -1192,6 +1192,29 @@
     "qualified": true
    },
    {
+    "group": "I",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "SEN",
+    "name": "Senegal",
+    "drawnBy": {
+     "name": "JK",
+     "colour": "#46f0f0"
+    },
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 1,
+    "ga": 3,
+    "gd": -2,
+    "points": 1,
+    "undetermined": false,
+    "position": 3,
+    "rank": 9,
+    "qualified": false
+   },
+   {
     "group": "B",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1211,7 +1234,7 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 9,
+    "rank": 10,
     "qualified": false
    },
    {
@@ -1234,29 +1257,6 @@
     "points": 0,
     "undetermined": false,
     "position": 3,
-    "rank": 10,
-    "qualified": false
-   },
-   {
-    "group": "I",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "SEN",
-    "name": "Senegal",
-    "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
-    },
-    "played": 1,
-    "won": 0,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 1,
-    "ga": 3,
-    "gd": -2,
-    "points": 0,
-    "undetermined": true,
-    "position": 3,
     "rank": 11,
     "qualified": false
    },
@@ -1278,7 +1278,7 @@
     "ga": 3,
     "gd": -2,
     "points": 0,
-    "undetermined": true,
+    "undetermined": false,
     "position": 3,
     "rank": 12,
     "qualified": false
