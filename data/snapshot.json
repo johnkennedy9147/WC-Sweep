@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-23T23:07:16.487Z",
- "sourceLastUpdated": "2026-06-23T23:07:08Z",
+ "fetchedAt": "2026-06-23T23:17:26.208Z",
+ "sourceLastUpdated": "2026-06-23T23:17:08Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-23T23:00:00Z",
  "groups": [
@@ -602,12 +602,9 @@
      "status": "projected"
     },
     {
-     "teamId": "URU",
+     "teamId": "URY",
      "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
+     "drawnBy": null,
      "played": 2,
      "won": 0,
      "drawn": 2,
@@ -656,6 +653,25 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
+     "status": "alive"
+    },
+    {
+     "teamId": "URU",
+     "name": "Uruguay",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 5,
      "status": "alive"
     }
    ]
