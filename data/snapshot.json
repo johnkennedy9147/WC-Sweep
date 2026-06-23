@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-23T03:37:17.686Z",
- "sourceLastUpdated": "2026-06-23T03:37:13Z",
+ "fetchedAt": "2026-06-23T03:47:19.392Z",
+ "sourceLastUpdated": "2026-06-23T03:47:00Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-23T17:00:00Z",
  "groups": [
@@ -391,15 +391,12 @@
      "points": 1,
      "undetermined": false,
      "position": 3,
-     "status": "thirds"
+     "status": "alive"
     },
     {
-     "teamId": "CUW",
+     "teamId": "CUR",
      "name": "Curaçao",
-     "drawnBy": {
-      "name": "Martin",
-      "colour": "#ffe119"
-     },
+     "drawnBy": null,
      "played": 2,
      "won": 0,
      "drawn": 1,
@@ -410,6 +407,25 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
+     "status": "alive"
+    },
+    {
+     "teamId": "CUW",
+     "name": "Curaçao",
+     "drawnBy": {
+      "name": "Martin",
+      "colour": "#ffe119"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -808,16 +824,16 @@
       "colour": "#911eb4"
      },
      "played": 2,
-     "won": 0,
-     "drawn": 1,
+     "won": 1,
+     "drawn": 0,
      "lost": 1,
-     "gf": 1,
+     "gf": 2,
      "ga": 3,
-     "gd": -2,
-     "points": 1,
+     "gd": -1,
+     "points": 3,
      "undetermined": false,
      "position": 3,
-     "status": "alive"
+     "status": "thirds"
     },
     {
      "teamId": "ALG",
@@ -828,12 +844,12 @@
      },
      "played": 2,
      "won": 0,
-     "drawn": 1,
-     "lost": 1,
+     "drawn": 0,
+     "lost": 2,
      "gf": 0,
-     "ga": 3,
-     "gd": -3,
-     "points": 1,
+     "ga": 4,
+     "gd": -4,
+     "points": 0,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -1054,6 +1070,29 @@
     "qualified": true
    },
    {
+    "group": "J",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "JOR",
+    "name": "Jordan",
+    "drawnBy": {
+     "name": "LA",
+     "colour": "#911eb4"
+    },
+    "played": 2,
+    "won": 1,
+    "drawn": 0,
+    "lost": 1,
+    "gf": 2,
+    "ga": 3,
+    "gd": -1,
+    "points": 3,
+    "undetermined": false,
+    "position": 3,
+    "rank": 3,
+    "qualified": true
+   },
+   {
     "group": "D",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1073,7 +1112,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 3,
+    "rank": 4,
     "qualified": true
    },
    {
@@ -1096,7 +1135,7 @@
     "points": 2,
     "undetermined": false,
     "position": 3,
-    "rank": 4,
+    "rank": 5,
     "qualified": true
    },
    {
@@ -1119,7 +1158,7 @@
     "points": 2,
     "undetermined": false,
     "position": 3,
-    "rank": 5,
+    "rank": 6,
     "qualified": true
    },
    {
@@ -1142,7 +1181,7 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 6,
+    "rank": 7,
     "qualified": true
    },
    {
@@ -1165,7 +1204,7 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 7,
+    "rank": 8,
     "qualified": true
    },
    {
@@ -1185,29 +1224,6 @@
     "gf": 0,
     "ga": 1,
     "gd": -1,
-    "points": 1,
-    "undetermined": false,
-    "position": 3,
-    "rank": 8,
-    "qualified": true
-   },
-   {
-    "group": "J",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "JOR",
-    "name": "Jordan",
-    "drawnBy": {
-     "name": "LA",
-     "colour": "#911eb4"
-    },
-    "played": 2,
-    "won": 0,
-    "drawn": 1,
-    "lost": 1,
-    "gf": 1,
-    "ga": 3,
-    "gd": -2,
     "points": 1,
     "undetermined": false,
     "position": 3,
