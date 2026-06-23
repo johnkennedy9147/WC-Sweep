@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-23T23:47:33.985Z",
- "sourceLastUpdated": "2026-06-23T23:47:09Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-23T23:00:00Z",
+ "fetchedAt": "2026-06-23T23:57:11.498Z",
+ "sourceLastUpdated": "2026-06-23T23:53:18Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-24T02:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -955,14 +955,14 @@
       "name": "Nicola",
       "colour": "#3cb44b"
      },
-     "played": 1,
+     "played": 2,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
      "gf": 0,
      "ga": 1,
      "gd": -1,
-     "points": 0,
+     "points": 1,
      "undetermined": false,
      "position": 3,
      "status": "alive"
@@ -974,14 +974,14 @@
       "name": "Ollie",
       "colour": "#bcf60c"
      },
-     "played": 1,
+     "played": 2,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
      "gf": 2,
      "ga": 4,
      "gd": -2,
-     "points": 0,
+     "points": 1,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -1193,9 +1193,32 @@
     "ga": 1,
     "gd": -1,
     "points": 1,
-    "undetermined": false,
+    "undetermined": true,
     "position": 3,
     "rank": 9,
+    "qualified": false
+   },
+   {
+    "group": "L",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "PAN",
+    "name": "Panama",
+    "drawnBy": {
+     "name": "Nicola",
+     "colour": "#3cb44b"
+    },
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 0,
+    "ga": 1,
+    "gd": -1,
+    "points": 1,
+    "undetermined": true,
+    "position": 3,
+    "rank": 10,
     "qualified": false
    },
    {
@@ -1216,29 +1239,6 @@
     "ga": 5,
     "gd": -3,
     "points": 1,
-    "undetermined": false,
-    "position": 3,
-    "rank": 10,
-    "qualified": false
-   },
-   {
-    "group": "L",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "PAN",
-    "name": "Panama",
-    "drawnBy": {
-     "name": "Nicola",
-     "colour": "#3cb44b"
-    },
-    "played": 1,
-    "won": 0,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 0,
-    "ga": 1,
-    "gd": -1,
-    "points": 0,
     "undetermined": false,
     "position": 3,
     "rank": 11,
@@ -1311,12 +1311,7 @@
       "status": "TIMED",
       "utcDate": "2026-06-29T20:30:00Z",
       "home": {
-       "teamId": "GER",
-       "name": "Germany",
-       "drawnBy": {
-        "name": "JK",
-        "colour": "#46f0f0"
-       }
+       "label": "Winner Group F"
       },
       "away": {
        "label": "Runner-up Group C"
@@ -1376,12 +1371,7 @@
       "status": "TIMED",
       "utcDate": "2026-07-01T01:00:00Z",
       "home": {
-       "teamId": "MEX",
-       "name": "Mexico",
-       "drawnBy": {
-        "name": "Paolo",
-        "colour": "#e6194b"
-       }
+       "label": "Winner Group A"
       },
       "away": {
        "label": "Best 3rd place C/E/F/H/I"
@@ -1426,12 +1416,7 @@
       "status": "TIMED",
       "utcDate": "2026-07-02T00:00:00Z",
       "home": {
-       "teamId": "USA",
-       "name": "USA",
-       "drawnBy": {
-        "name": "Paolo",
-        "colour": "#e6194b"
-       }
+       "label": "Winner Group G"
       },
       "away": {
        "label": "Best 3rd place A/E/H/I/J"
