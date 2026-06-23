@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-23T01:17:16.826Z",
- "sourceLastUpdated": "2026-06-23T01:16:07Z",
+ "fetchedAt": "2026-06-23T01:27:31.980Z",
+ "sourceLastUpdated": "2026-06-23T03:00:01Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-23T03:00:00Z",
  "groups": [
@@ -665,6 +665,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "NOR",
+     "name": "Norway",
+     "drawnBy": {
+      "name": "Paolo",
+      "colour": "#e6194b"
+     },
+     "played": 2,
+     "won": 2,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 7,
+     "ga": 2,
+     "gd": 5,
+     "points": 6,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "FRA",
      "name": "France",
      "drawnBy": {
@@ -679,26 +698,7 @@
      "ga": 1,
      "gd": 5,
      "points": 6,
-     "undetermined": true,
-     "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "NOR",
-     "name": "Norway",
-     "drawnBy": {
-      "name": "Paolo",
-      "colour": "#e6194b"
-     },
-     "played": 2,
-     "won": 2,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 6,
-     "ga": 1,
-     "gd": 5,
-     "points": 6,
-     "undetermined": true,
+     "undetermined": false,
      "position": 2,
      "status": "projected"
     },
@@ -713,8 +713,8 @@
      "won": 0,
      "drawn": 0,
      "lost": 2,
-     "gf": 1,
-     "ga": 5,
+     "gf": 2,
+     "ga": 6,
      "gd": -4,
      "points": 0,
      "undetermined": false,
@@ -1258,8 +1258,8 @@
     "won": 0,
     "drawn": 0,
     "lost": 2,
-    "gf": 1,
-    "ga": 5,
+    "gf": 2,
+    "ga": 6,
     "gd": -4,
     "points": 0,
     "undetermined": false,
@@ -1311,7 +1311,12 @@
       "status": "TIMED",
       "utcDate": "2026-06-29T20:30:00Z",
       "home": {
-       "label": "Winner Group F"
+       "teamId": "GER",
+       "name": "Germany",
+       "drawnBy": {
+        "name": "JK",
+        "colour": "#46f0f0"
+       }
       },
       "away": {
        "label": "Runner-up Group C"
@@ -1371,7 +1376,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-01T01:00:00Z",
       "home": {
-       "label": "Winner Group A"
+       "teamId": "MEX",
+       "name": "Mexico",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
        "label": "Best 3rd place C/E/F/H/I"
@@ -1416,7 +1426,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-02T00:00:00Z",
       "home": {
-       "label": "Winner Group G"
+       "teamId": "USA",
+       "name": "USA",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
        "label": "Best 3rd place A/E/H/I/J"
@@ -2232,6 +2247,17 @@
    "rank": 1
   },
   {
+   "playerName": "Erling Haaland",
+   "teamId": "NOR",
+   "teamName": "Norway",
+   "goals": 4,
+   "drawnBy": {
+    "name": "Paolo",
+    "colour": "#e6194b"
+   },
+   "rank": 2
+  },
+  {
    "playerName": "Kylian Mbappé",
    "teamId": "FRA",
    "teamName": "France",
@@ -2251,18 +2277,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 3
-  },
-  {
-   "playerName": "Erling Haaland",
-   "teamId": "NOR",
-   "teamName": "Norway",
-   "goals": 3,
-   "drawnBy": {
-    "name": "Paolo",
-    "colour": "#e6194b"
-   },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Jonathan David",
@@ -2273,7 +2288,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Ayase Ueda",
