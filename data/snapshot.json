@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-24T18:37:29.443Z",
- "sourceLastUpdated": "2026-06-24T04:02:41Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-24T19:00:00Z",
+ "fetchedAt": "2026-06-24T19:07:31.709Z",
+ "sourceLastUpdated": "2026-06-24T19:07:23Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-24T22:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -63,7 +63,7 @@
      "points": 1,
      "undetermined": false,
      "position": 3,
-     "status": "thirds"
+     "status": "alive"
     },
     {
      "teamId": "RSA",
@@ -97,14 +97,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 1,
+     "drawn": 2,
      "lost": 0,
      "gf": 7,
      "ga": 1,
      "gd": 6,
-     "points": 4,
+     "points": 5,
      "undetermined": false,
      "position": 1,
      "status": "projected"
@@ -116,14 +116,14 @@
       "name": "Adam",
       "colour": "#f032e6"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 1,
+     "drawn": 2,
      "lost": 0,
      "gf": 5,
      "ga": 2,
      "gd": 3,
-     "points": 4,
+     "points": 5,
      "undetermined": false,
      "position": 2,
      "status": "projected"
@@ -135,17 +135,17 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
+     "played": 3,
      "won": 0,
-     "drawn": 1,
+     "drawn": 2,
      "lost": 1,
      "gf": 2,
      "ga": 5,
      "gd": -3,
-     "points": 1,
+     "points": 2,
      "undetermined": false,
      "position": 3,
-     "status": "alive"
+     "status": "thirds"
     },
     {
      "teamId": "QAT",
@@ -154,14 +154,14 @@
       "name": "Ollie",
       "colour": "#bcf60c"
      },
-     "played": 2,
+     "played": 3,
      "won": 0,
-     "drawn": 1,
+     "drawn": 2,
      "lost": 1,
      "gf": 1,
      "ga": 7,
      "gd": -6,
-     "points": 1,
+     "points": 2,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -1153,6 +1153,29 @@
     "qualified": true
    },
    {
+    "group": "B",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "drawnBy": {
+     "name": "MA",
+     "colour": "#4363d8"
+    },
+    "played": 3,
+    "won": 0,
+    "drawn": 2,
+    "lost": 1,
+    "gf": 2,
+    "ga": 5,
+    "gd": -3,
+    "points": 2,
+    "undetermined": false,
+    "position": 3,
+    "rank": 8,
+    "qualified": true
+   },
+   {
     "group": "A",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1172,8 +1195,8 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 8,
-    "qualified": true
+    "rank": 9,
+    "qualified": false
    },
    {
     "group": "K",
@@ -1195,7 +1218,7 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 9,
+    "rank": 10,
     "qualified": false
    },
    {
@@ -1215,29 +1238,6 @@
     "gf": 0,
     "ga": 1,
     "gd": -1,
-    "points": 1,
-    "undetermined": false,
-    "position": 3,
-    "rank": 10,
-    "qualified": false
-   },
-   {
-    "group": "B",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "BIH",
-    "name": "Bosnia and Herzegovina",
-    "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
-    },
-    "played": 2,
-    "won": 0,
-    "drawn": 1,
-    "lost": 1,
-    "gf": 2,
-    "ga": 5,
-    "gd": -3,
     "points": 1,
     "undetermined": false,
     "position": 3,
@@ -1311,7 +1311,12 @@
       "status": "TIMED",
       "utcDate": "2026-06-29T20:30:00Z",
       "home": {
-       "label": "Winner Group F"
+       "teamId": "GER",
+       "name": "Germany",
+       "drawnBy": {
+        "name": "JK",
+        "colour": "#46f0f0"
+       }
       },
       "away": {
        "label": "Runner-up Group C"
@@ -1371,7 +1376,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-01T01:00:00Z",
       "home": {
-       "label": "Winner Group A"
+       "teamId": "MEX",
+       "name": "Mexico",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
        "label": "Best 3rd place C/E/F/H/I"
@@ -1416,7 +1426,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-02T00:00:00Z",
       "home": {
-       "label": "Winner Group G"
+       "teamId": "USA",
+       "name": "USA",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
        "label": "Best 3rd place A/E/H/I/J"
@@ -1491,7 +1506,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-03T22:00:00Z",
       "home": {
-       "label": "Winner Group K"
+       "teamId": "ARG",
+       "name": "Argentina",
+       "drawnBy": {
+        "name": "Martin",
+        "colour": "#ffe119"
+       }
       },
       "away": {
        "label": "Best 3rd place D/E/I/J/L"
