@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-24T23:17:25.609Z",
- "sourceLastUpdated": "2026-06-24T23:17:12Z",
+ "fetchedAt": "2026-06-24T23:27:28.673Z",
+ "sourceLastUpdated": "2026-06-24T23:27:12Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-25T01:00:00Z",
  "groups": [
@@ -602,9 +602,12 @@
      "status": "projected"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 2,
      "won": 0,
      "drawn": 2,
@@ -653,25 +656,6 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -2335,6 +2319,17 @@
    "rank": 5
   },
   {
+   "playerName": "Matheus Cunha",
+   "teamId": "BRA",
+   "teamName": "Brazil",
+   "goals": 3,
+   "drawnBy": {
+    "name": "Adam",
+    "colour": "#f032e6"
+   },
+   "rank": 5
+  },
+  {
    "playerName": "Ayase Ueda",
    "teamId": "JPN",
    "teamName": "Japan",
@@ -2343,7 +2338,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Brian Brobbey",
@@ -2354,7 +2349,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Cody Gakpo",
@@ -2365,7 +2360,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Cristiano Ronaldo",
@@ -2376,7 +2371,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Crysencio Summerville",
@@ -2387,7 +2382,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Cyle Larin",
@@ -2398,7 +2393,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Daichi Kamada",
@@ -2409,7 +2404,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Daniel Muñoz",
@@ -2420,7 +2415,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Elijah Just",
@@ -2431,7 +2426,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Ermin Mahmic",
@@ -2442,7 +2437,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Folarin Balogun",
@@ -2453,7 +2448,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Harry Kane",
@@ -2464,7 +2459,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Ismaïla Sarr",
@@ -2475,7 +2470,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Kai Havertz",
@@ -2486,18 +2481,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 9
-  },
-  {
-   "playerName": "Matheus Cunha",
-   "teamId": "BRA",
-   "teamName": "Brazil",
-   "goals": 2,
-   "drawnBy": {
-    "name": "Adam",
-    "colour": "#f032e6"
-   },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Maximiliano Araújo",
@@ -2508,7 +2492,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Mikel Oyarzabal",
@@ -2519,7 +2503,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Ruben Vargas",
@@ -2530,7 +2514,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Yasin Ayari",
@@ -2541,7 +2525,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 9
+   "rank": 10
   },
   {
    "playerName": "Abdulelah Al Amri",
