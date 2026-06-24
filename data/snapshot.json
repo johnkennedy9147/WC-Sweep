@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-24T00:57:42.841Z",
- "sourceLastUpdated": "2026-06-24T00:57:02Z",
+ "fetchedAt": "2026-06-24T01:07:24.351Z",
+ "sourceLastUpdated": "2026-06-24T01:04:18Z",
  "liveNow": false,
- "nextKickoffUtc": "2026-06-23T23:00:00Z",
+ "nextKickoffUtc": "2026-06-24T02:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -63,7 +63,7 @@
      "points": 1,
      "undetermined": false,
      "position": 3,
-     "status": "thirds"
+     "status": "alive"
     },
     {
      "teamId": "RSA",
@@ -949,37 +949,37 @@
      "status": "projected"
     },
     {
-     "teamId": "PAN",
-     "name": "Panama",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 1,
-     "won": 0,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 0,
-     "ga": 1,
-     "gd": -1,
-     "points": 0,
-     "undetermined": false,
-     "position": 3,
-     "status": "alive"
-    },
-    {
      "teamId": "CRO",
      "name": "Croatia",
      "drawnBy": {
       "name": "Ollie",
       "colour": "#bcf60c"
      },
-     "played": 1,
-     "won": 0,
+     "played": 2,
+     "won": 1,
      "drawn": 0,
      "lost": 1,
-     "gf": 2,
+     "gf": 3,
      "ga": 4,
+     "gd": -1,
+     "points": 3,
+     "undetermined": false,
+     "position": 3,
+     "status": "thirds"
+    },
+    {
+     "teamId": "PAN",
+     "name": "Panama",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 2,
+     "won": 0,
+     "drawn": 0,
+     "lost": 2,
+     "gf": 0,
+     "ga": 2,
      "gd": -2,
      "points": 0,
      "undetermined": false,
@@ -1038,6 +1038,29 @@
     "qualified": true
    },
    {
+    "group": "L",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "CRO",
+    "name": "Croatia",
+    "drawnBy": {
+     "name": "Ollie",
+     "colour": "#bcf60c"
+    },
+    "played": 2,
+    "won": 1,
+    "drawn": 0,
+    "lost": 1,
+    "gf": 3,
+    "ga": 4,
+    "gd": -1,
+    "points": 3,
+    "undetermined": false,
+    "position": 3,
+    "rank": 3,
+    "qualified": true
+   },
+   {
     "group": "D",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1057,7 +1080,7 @@
     "points": 3,
     "undetermined": true,
     "position": 3,
-    "rank": 3,
+    "rank": 4,
     "qualified": true
    },
    {
@@ -1080,7 +1103,7 @@
     "points": 3,
     "undetermined": true,
     "position": 3,
-    "rank": 4,
+    "rank": 5,
     "qualified": true
    },
    {
@@ -1103,7 +1126,7 @@
     "points": 2,
     "undetermined": false,
     "position": 3,
-    "rank": 5,
+    "rank": 6,
     "qualified": true
    },
    {
@@ -1126,7 +1149,7 @@
     "points": 2,
     "undetermined": false,
     "position": 3,
-    "rank": 6,
+    "rank": 7,
     "qualified": true
    },
    {
@@ -1149,7 +1172,7 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 7,
+    "rank": 8,
     "qualified": true
    },
    {
@@ -1172,8 +1195,8 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 8,
-    "qualified": true
+    "rank": 9,
+    "qualified": false
    },
    {
     "group": "E",
@@ -1195,7 +1218,7 @@
     "points": 1,
     "undetermined": false,
     "position": 3,
-    "rank": 9,
+    "rank": 10,
     "qualified": false
    },
    {
@@ -1216,29 +1239,6 @@
     "ga": 5,
     "gd": -3,
     "points": 1,
-    "undetermined": false,
-    "position": 3,
-    "rank": 10,
-    "qualified": false
-   },
-   {
-    "group": "L",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "PAN",
-    "name": "Panama",
-    "drawnBy": {
-     "name": "Nicola",
-     "colour": "#3cb44b"
-    },
-    "played": 1,
-    "won": 0,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 0,
-    "ga": 1,
-    "gd": -1,
-    "points": 0,
     "undetermined": false,
     "position": 3,
     "rank": 11,
