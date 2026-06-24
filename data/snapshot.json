@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-24T20:47:16.513Z",
- "sourceLastUpdated": "2026-06-24T20:47:11Z",
+ "fetchedAt": "2026-06-24T20:57:15.931Z",
+ "sourceLastUpdated": "2026-06-24T20:57:10Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-24T22:00:00Z",
  "groups": [
@@ -116,14 +116,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 3,
+     "played": 2,
      "won": 1,
-     "drawn": 1,
+     "drawn": 0,
      "lost": 1,
-     "gf": 8,
-     "ga": 3,
+     "gf": 7,
+     "ga": 2,
      "gd": 5,
-     "points": 4,
+     "points": 3,
      "undetermined": false,
      "position": 2,
      "status": "projected"
@@ -135,14 +135,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 3,
+     "played": 2,
      "won": 1,
-     "drawn": 1,
+     "drawn": 0,
      "lost": 1,
      "gf": 4,
-     "ga": 6,
-     "gd": -2,
-     "points": 4,
+     "ga": 5,
+     "gd": -1,
+     "points": 3,
      "undetermined": false,
      "position": 3,
      "status": "thirds"
@@ -159,8 +159,8 @@
      "drawn": 1,
      "lost": 2,
      "gf": 2,
-     "ga": 9,
-     "gd": -7,
+     "ga": 10,
+     "gd": -8,
      "points": 1,
      "undetermined": false,
      "position": 4,
@@ -1008,29 +1008,6 @@
  "thirdPlace": {
   "rows": [
    {
-    "group": "B",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "BIH",
-    "name": "Bosnia and Herzegovina",
-    "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
-    },
-    "played": 3,
-    "won": 1,
-    "drawn": 1,
-    "lost": 1,
-    "gf": 4,
-    "ga": 6,
-    "gd": -2,
-    "points": 4,
-    "undetermined": false,
-    "position": 3,
-    "rank": 1,
-    "qualified": true
-   },
-   {
     "group": "F",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1050,7 +1027,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 2,
+    "rank": 1,
     "qualified": true
    },
    {
@@ -1070,6 +1047,29 @@
     "gf": 1,
     "ga": 1,
     "gd": 0,
+    "points": 3,
+    "undetermined": false,
+    "position": 3,
+    "rank": 2,
+    "qualified": true
+   },
+   {
+    "group": "B",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "drawnBy": {
+     "name": "MA",
+     "colour": "#4363d8"
+    },
+    "played": 2,
+    "won": 1,
+    "drawn": 0,
+    "lost": 1,
+    "gf": 4,
+    "ga": 5,
+    "gd": -1,
     "points": 3,
     "undetermined": false,
     "position": 3,
