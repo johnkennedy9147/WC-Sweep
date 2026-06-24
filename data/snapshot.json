@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-24T22:57:22.854Z",
- "sourceLastUpdated": "2026-06-24T22:57:13Z",
+ "fetchedAt": "2026-06-24T23:07:16.254Z",
+ "sourceLastUpdated": "2026-06-24T22:59:20Z",
  "liveNow": true,
- "nextKickoffUtc": "2026-06-24T22:00:00Z",
+ "nextKickoffUtc": "2026-06-25T01:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -173,6 +173,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "BRA",
+     "name": "Brazil",
+     "drawnBy": {
+      "name": "Adam",
+      "colour": "#f032e6"
+     },
+     "played": 3,
+     "won": 2,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 6,
+     "ga": 1,
+     "gd": 5,
+     "points": 7,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "MAR",
      "name": "Morocco",
      "drawnBy": {
@@ -188,25 +207,6 @@
      "gd": 1,
      "points": 5,
      "undetermined": false,
-     "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "BRA",
-     "name": "Brazil",
-     "drawnBy": {
-      "name": "Adam",
-      "colour": "#f032e6"
-     },
-     "played": 2,
-     "won": 1,
-     "drawn": 1,
-     "lost": 0,
-     "gf": 4,
-     "ga": 1,
-     "gd": 3,
-     "points": 4,
-     "undetermined": false,
      "position": 2,
      "status": "projected"
     },
@@ -217,13 +217,13 @@
       "name": "Martin",
       "colour": "#ffe119"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
      "drawn": 0,
-     "lost": 1,
+     "lost": 2,
      "gf": 1,
-     "ga": 1,
-     "gd": 0,
+     "ga": 3,
+     "gd": -2,
      "points": 3,
      "undetermined": false,
      "position": 3,
@@ -1054,29 +1054,6 @@
     "qualified": true
    },
    {
-    "group": "C",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "SCO",
-    "name": "Scotland",
-    "drawnBy": {
-     "name": "Martin",
-     "colour": "#ffe119"
-    },
-    "played": 2,
-    "won": 1,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 1,
-    "ga": 1,
-    "gd": 0,
-    "points": 3,
-    "undetermined": false,
-    "position": 3,
-    "rank": 3,
-    "qualified": true
-   },
-   {
     "group": "L",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1096,7 +1073,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 4,
+    "rank": 3,
     "qualified": true
    },
    {
@@ -1119,7 +1096,7 @@
     "points": 3,
     "undetermined": true,
     "position": 3,
-    "rank": 5,
+    "rank": 4,
     "qualified": true
    },
    {
@@ -1141,6 +1118,29 @@
     "gd": -2,
     "points": 3,
     "undetermined": true,
+    "position": 3,
+    "rank": 5,
+    "qualified": true
+   },
+   {
+    "group": "C",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "SCO",
+    "name": "Scotland",
+    "drawnBy": {
+     "name": "Martin",
+     "colour": "#ffe119"
+    },
+    "played": 3,
+    "won": 1,
+    "drawn": 0,
+    "lost": 2,
+    "gf": 1,
+    "ga": 3,
+    "gd": -2,
+    "points": 3,
+    "undetermined": false,
     "position": 3,
     "rank": 6,
     "qualified": true
