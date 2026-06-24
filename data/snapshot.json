@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-24T20:57:15.931Z",
- "sourceLastUpdated": "2026-06-24T20:57:10Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-24T21:07:36.146Z",
+ "sourceLastUpdated": "2026-06-24T21:05:55Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-24T22:00:00Z",
  "groups": [
   {
@@ -88,7 +88,7 @@
   },
   {
    "id": "B",
-   "complete": false,
+   "complete": true,
    "standings": [
     {
      "teamId": "SUI",
@@ -107,7 +107,7 @@
      "points": 7,
      "undetermined": false,
      "position": 1,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "CAN",
@@ -116,17 +116,17 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
-     "gf": 7,
-     "ga": 2,
+     "gf": 8,
+     "ga": 3,
      "gd": 5,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 2,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "BIH",
@@ -135,14 +135,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
-     "gf": 4,
-     "ga": 5,
+     "gf": 5,
+     "ga": 6,
      "gd": -1,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 3,
      "status": "thirds"
@@ -164,7 +164,7 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
+     "status": "out"
     }
    ]
   },
@@ -1008,6 +1008,29 @@
  "thirdPlace": {
   "rows": [
    {
+    "group": "B",
+    "groupComplete": true,
+    "identityUndetermined": false,
+    "teamId": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "drawnBy": {
+     "name": "MA",
+     "colour": "#4363d8"
+    },
+    "played": 3,
+    "won": 1,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 5,
+    "ga": 6,
+    "gd": -1,
+    "points": 4,
+    "undetermined": false,
+    "position": 3,
+    "rank": 1,
+    "qualified": true
+   },
+   {
     "group": "F",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1027,7 +1050,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 1,
+    "rank": 2,
     "qualified": true
    },
    {
@@ -1047,29 +1070,6 @@
     "gf": 1,
     "ga": 1,
     "gd": 0,
-    "points": 3,
-    "undetermined": false,
-    "position": 3,
-    "rank": 2,
-    "qualified": true
-   },
-   {
-    "group": "B",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "BIH",
-    "name": "Bosnia and Herzegovina",
-    "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
-    },
-    "played": 2,
-    "won": 1,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 4,
-    "ga": 5,
-    "gd": -1,
     "points": 3,
     "undetermined": false,
     "position": 3,
@@ -1300,7 +1300,12 @@
        "label": "Runner-up Group A"
       },
       "away": {
-       "label": "Runner-up Group B"
+       "teamId": "CAN",
+       "name": "Canada",
+       "drawnBy": {
+        "name": "MA",
+        "colour": "#4363d8"
+       }
       },
       "score": {
        "home": null,
@@ -1477,7 +1482,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-03T03:00:00Z",
       "home": {
-       "label": "Winner Group B"
+       "teamId": "SUI",
+       "name": "Switzerland",
+       "drawnBy": {
+        "name": "Adam",
+        "colour": "#f032e6"
+       }
       },
       "away": {
        "label": "Best 3rd place E/F/G/I/J"
@@ -2217,8 +2227,8 @@
     {
      "teamId": "QAT",
      "name": "Qatar",
-     "alive": true,
-     "exit": null,
+     "alive": false,
+     "exit": "Group stage",
      "finish": null
     },
     {
@@ -2229,10 +2239,10 @@
      "finish": null
     }
    ],
-   "aliveCount": 5,
+   "aliveCount": 4,
    "total": 5,
    "bestFinish": 9,
-   "rank": 3
+   "rank": 9
   }
  ],
  "topScorers": [
