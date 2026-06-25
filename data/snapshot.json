@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-25T01:37:11.339Z",
+ "fetchedAt": "2026-06-25T01:47:20.344Z",
  "sourceLastUpdated": "2026-06-25T02:02:44Z",
- "liveNow": true,
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-25T01:00:00Z",
  "groups": [
   {
@@ -34,36 +34,17 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 3,
+     "played": 2,
      "won": 1,
-     "drawn": 1,
+     "drawn": 0,
      "lost": 1,
      "gf": 2,
      "ga": 2,
      "gd": 0,
-     "points": 4,
+     "points": 3,
      "undetermined": false,
      "position": 2,
      "status": "projected"
-    },
-    {
-     "teamId": "RSA",
-     "name": "South Africa",
-     "drawnBy": {
-      "name": "JK",
-      "colour": "#46f0f0"
-     },
-     "played": 3,
-     "won": 0,
-     "drawn": 2,
-     "lost": 1,
-     "gf": 1,
-     "ga": 3,
-     "gd": -2,
-     "points": 2,
-     "undetermined": false,
-     "position": 3,
-     "status": "alive"
     },
     {
      "teamId": "CZE",
@@ -79,6 +60,25 @@
      "gf": 2,
      "ga": 3,
      "gd": -1,
+     "points": 1,
+     "undetermined": false,
+     "position": 3,
+     "status": "alive"
+    },
+    {
+     "teamId": "RSA",
+     "name": "South Africa",
+     "drawnBy": {
+      "name": "JK",
+      "colour": "#46f0f0"
+     },
+     "played": 2,
+     "won": 0,
+     "drawn": 1,
+     "lost": 1,
+     "gf": 1,
+     "ga": 3,
+     "gd": -2,
      "points": 1,
      "undetermined": false,
      "position": 4,
@@ -1179,20 +1179,20 @@
     "group": "A",
     "groupComplete": false,
     "identityUndetermined": false,
-    "teamId": "RSA",
-    "name": "South Africa",
+    "teamId": "CZE",
+    "name": "Czech Republic",
     "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
+     "name": "Paolo",
+     "colour": "#e6194b"
     },
-    "played": 3,
+    "played": 2,
     "won": 0,
-    "drawn": 2,
+    "drawn": 1,
     "lost": 1,
-    "gf": 1,
+    "gf": 2,
     "ga": 3,
-    "gd": -2,
-    "points": 2,
+    "gd": -1,
+    "points": 1,
     "undetermined": false,
     "position": 3,
     "rank": 9,
