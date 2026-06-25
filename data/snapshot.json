@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-25T22:57:36.931Z",
- "sourceLastUpdated": "2026-06-25T22:08:03Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-25T23:00:00Z",
+ "fetchedAt": "2026-06-25T23:07:13.318Z",
+ "sourceLastUpdated": "2026-06-25T23:07:07Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-26T02:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -425,14 +425,14 @@
       "name": "LA",
       "colour": "#911eb4"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 1,
+     "drawn": 2,
      "lost": 0,
      "gf": 7,
      "ga": 3,
      "gd": 4,
-     "points": 4,
+     "points": 5,
      "undetermined": false,
      "position": 1,
      "status": "projected"
@@ -444,14 +444,14 @@
       "name": "Paolo",
       "colour": "#e6194b"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 1,
+     "drawn": 2,
      "lost": 0,
      "gf": 6,
      "ga": 2,
      "gd": 4,
-     "points": 4,
+     "points": 5,
      "undetermined": false,
      "position": 2,
      "status": "projected"
@@ -463,14 +463,14 @@
       "name": "Paolo",
       "colour": "#e6194b"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
      "gf": 6,
      "ga": 6,
      "gd": 0,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 3,
      "status": "thirds"
@@ -482,14 +482,14 @@
       "name": "Adam",
       "colour": "#f032e6"
      },
-     "played": 2,
+     "played": 3,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 2,
      "gf": 1,
      "ga": 9,
      "gd": -8,
-     "points": 0,
+     "points": 1,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -602,12 +602,9 @@
      "status": "projected"
     },
     {
-     "teamId": "URU",
+     "teamId": "URY",
      "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
+     "drawnBy": null,
      "played": 2,
      "won": 0,
      "drawn": 2,
@@ -656,6 +653,25 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
+     "status": "alive"
+    },
+    {
+     "teamId": "URU",
+     "name": "Uruguay",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 0,
+     "won": 0,
+     "drawn": 0,
+     "lost": 0,
+     "gf": 0,
+     "ga": 0,
+     "gd": 0,
+     "points": 0,
+     "undetermined": false,
+     "position": 5,
      "status": "alive"
     }
    ]
@@ -992,6 +1008,29 @@
  "thirdPlace": {
   "rows": [
    {
+    "group": "F",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "SWE",
+    "name": "Sweden",
+    "drawnBy": {
+     "name": "Paolo",
+     "colour": "#e6194b"
+    },
+    "played": 3,
+    "won": 1,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 6,
+    "ga": 6,
+    "gd": 0,
+    "points": 4,
+    "undetermined": false,
+    "position": 3,
+    "rank": 1,
+    "qualified": true
+   },
+   {
     "group": "E",
     "groupComplete": true,
     "identityUndetermined": false,
@@ -1011,7 +1050,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 1,
+    "rank": 2,
     "qualified": true
    },
    {
@@ -1032,29 +1071,6 @@
     "ga": 6,
     "gd": -1,
     "points": 4,
-    "undetermined": false,
-    "position": 3,
-    "rank": 2,
-    "qualified": true
-   },
-   {
-    "group": "F",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "SWE",
-    "name": "Sweden",
-    "drawnBy": {
-     "name": "Paolo",
-     "colour": "#e6194b"
-    },
-    "played": 2,
-    "won": 1,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 6,
-    "ga": 6,
-    "gd": 0,
-    "points": 3,
     "undetermined": false,
     "position": 3,
     "rank": 3,
@@ -1304,7 +1320,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T20:30:00Z",
+      "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "GER",
        "name": "Germany",
@@ -1324,7 +1340,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T17:00:00Z",
+      "utcDate": "2026-06-29T20:30:00Z",
       "home": {
        "label": "Winner Group F"
       },
@@ -1451,12 +1467,7 @@
       "status": "TIMED",
       "utcDate": "2026-07-02T00:00:00Z",
       "home": {
-       "teamId": "USA",
-       "name": "USA",
-       "drawnBy": {
-        "name": "Paolo",
-        "colour": "#e6194b"
-       }
+       "label": "Winner Group G"
       },
       "away": {
        "label": "Best 3rd place A/E/H/I/J"
@@ -1536,12 +1547,7 @@
       "status": "TIMED",
       "utcDate": "2026-07-03T22:00:00Z",
       "home": {
-       "teamId": "ARG",
-       "name": "Argentina",
-       "drawnBy": {
-        "name": "Martin",
-        "colour": "#ffe119"
-       }
+       "label": "Winner Group K"
       },
       "away": {
        "label": "Best 3rd place D/E/I/J/L"
