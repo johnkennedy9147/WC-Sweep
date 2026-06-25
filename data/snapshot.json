@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-25T06:47:34.510Z",
- "sourceLastUpdated": "2026-06-25T03:25:01Z",
+ "fetchedAt": "2026-06-25T15:07:22.103Z",
+ "sourceLastUpdated": "2026-06-25T13:25:01Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-25T20:00:00Z",
  "groups": [
@@ -116,14 +116,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
-     "gf": 7,
-     "ga": 2,
+     "gf": 8,
+     "ga": 3,
      "gd": 5,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 2,
      "status": "through"
@@ -135,14 +135,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
-     "gf": 4,
-     "ga": 5,
+     "gf": 5,
+     "ga": 6,
      "gd": -1,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 3,
      "status": "thirds"
@@ -1008,6 +1008,29 @@
  "thirdPlace": {
   "rows": [
    {
+    "group": "B",
+    "groupComplete": true,
+    "identityUndetermined": false,
+    "teamId": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "drawnBy": {
+     "name": "MA",
+     "colour": "#4363d8"
+    },
+    "played": 3,
+    "won": 1,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 5,
+    "ga": 6,
+    "gd": -1,
+    "points": 4,
+    "undetermined": false,
+    "position": 3,
+    "rank": 1,
+    "qualified": true
+   },
+   {
     "group": "F",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1024,29 +1047,6 @@
     "gf": 6,
     "ga": 6,
     "gd": 0,
-    "points": 3,
-    "undetermined": false,
-    "position": 3,
-    "rank": 1,
-    "qualified": true
-   },
-   {
-    "group": "B",
-    "groupComplete": true,
-    "identityUndetermined": false,
-    "teamId": "BIH",
-    "name": "Bosnia and Herzegovina",
-    "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
-    },
-    "played": 2,
-    "won": 1,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 4,
-    "ga": 5,
-    "gd": -1,
     "points": 3,
     "undetermined": false,
     "position": 3,
