@@ -1,12 +1,12 @@
 {
- "fetchedAt": "2026-06-25T02:57:34.602Z",
- "sourceLastUpdated": "2026-06-25T02:57:08Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-25T03:07:16.410Z",
+ "sourceLastUpdated": "2026-06-25T03:03:55Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-25T20:00:00Z",
  "groups": [
   {
    "id": "A",
-   "complete": false,
+   "complete": true,
    "standings": [
     {
      "teamId": "MEX",
@@ -19,13 +19,13 @@
      "won": 3,
      "drawn": 0,
      "lost": 0,
-     "gf": 5,
+     "gf": 6,
      "ga": 0,
-     "gd": 5,
+     "gd": 6,
      "points": 9,
      "undetermined": false,
      "position": 1,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "RSA",
@@ -44,7 +44,7 @@
      "points": 4,
      "undetermined": false,
      "position": 2,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "KOR",
@@ -77,12 +77,12 @@
      "drawn": 1,
      "lost": 2,
      "gf": 2,
-     "ga": 5,
-     "gd": -3,
+     "ga": 6,
+     "gd": -4,
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
+     "status": "out"
     }
    ]
   },
@@ -1078,7 +1078,7 @@
    },
    {
     "group": "A",
-    "groupComplete": false,
+    "groupComplete": true,
     "identityUndetermined": false,
     "teamId": "KOR",
     "name": "South Korea",
@@ -1297,7 +1297,12 @@
       "status": "TIMED",
       "utcDate": "2026-06-28T19:00:00Z",
       "home": {
-       "label": "Runner-up Group A"
+       "teamId": "RSA",
+       "name": "South Africa",
+       "drawnBy": {
+        "name": "JK",
+        "colour": "#46f0f0"
+       }
       },
       "away": {
        "teamId": "CAN",
@@ -1402,7 +1407,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-01T01:00:00Z",
       "home": {
-       "label": "Winner Group A"
+       "teamId": "MEX",
+       "name": "Mexico",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
        "label": "Best 3rd place C/E/F/H/I"
@@ -1829,65 +1839,6 @@
  },
  "leaderboard": [
   {
-   "name": "Paolo",
-   "colour": "#e6194b",
-   "teams": [
-    {
-     "teamId": "MEX",
-     "name": "Mexico",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "USA",
-     "name": "United States",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "ESP",
-     "name": "Spain",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "JPN",
-     "name": "Japan",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "NOR",
-     "name": "Norway",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "SWE",
-     "name": "Sweden",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "CZE",
-     "name": "Czech Republic",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    }
-   ],
-   "aliveCount": 7,
-   "total": 7,
-   "bestFinish": 9,
-   "rank": 1
-  },
-  {
    "name": "MA",
    "colour": "#4363d8",
    "teams": [
@@ -1937,7 +1888,66 @@
    "aliveCount": 6,
    "total": 6,
    "bestFinish": 9,
-   "rank": 2
+   "rank": 1
+  },
+  {
+   "name": "Paolo",
+   "colour": "#e6194b",
+   "teams": [
+    {
+     "teamId": "MEX",
+     "name": "Mexico",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "USA",
+     "name": "United States",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "ESP",
+     "name": "Spain",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "JPN",
+     "name": "Japan",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "NOR",
+     "name": "Norway",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "SWE",
+     "name": "Sweden",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "CZE",
+     "name": "Czech Republic",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 6,
+   "total": 7,
+   "bestFinish": 9,
+   "rank": 1
   },
   {
    "name": "Adam",
@@ -2923,8 +2933,8 @@
    "holder": null,
    "decided": false,
    "inTheRunning": [
-    "Paolo",
     "MA",
+    "Paolo",
     "Adam",
     "JK",
     "LA",
@@ -2939,8 +2949,8 @@
    "holder": null,
    "decided": false,
    "inTheRunning": [
-    "Paolo",
     "MA",
+    "Paolo",
     "Adam",
     "JK",
     "LA",
