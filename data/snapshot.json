@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-06-26T01:07:34.720Z",
+ "fetchedAt": "2026-06-26T01:17:37.486Z",
  "sourceLastUpdated": "2026-06-26T01:04:59Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-26T02:00:00Z",
@@ -116,14 +116,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
-     "gf": 7,
-     "ga": 2,
+     "gf": 8,
+     "ga": 3,
      "gd": 5,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 2,
      "status": "through"
@@ -135,14 +135,14 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
-     "gf": 4,
-     "ga": 5,
+     "gf": 5,
+     "ga": 6,
      "gd": -1,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 3,
      "status": "thirds"
@@ -602,9 +602,12 @@
      "status": "projected"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 2,
      "won": 0,
      "drawn": 2,
@@ -653,25 +656,6 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "alive"
     }
    ]
@@ -1063,14 +1047,14 @@
      "name": "MA",
      "colour": "#4363d8"
     },
-    "played": 2,
+    "played": 3,
     "won": 1,
-    "drawn": 0,
+    "drawn": 1,
     "lost": 1,
-    "gf": 4,
-    "ga": 5,
+    "gf": 5,
+    "ga": 6,
     "gd": -1,
-    "points": 3,
+    "points": 4,
     "undetermined": false,
     "position": 3,
     "rank": 3,
