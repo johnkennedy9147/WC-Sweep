@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-26T21:07:33.272Z",
- "sourceLastUpdated": "2026-06-26T21:07:23Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-26T21:17:23.012Z",
+ "sourceLastUpdated": "2026-06-26T21:10:58Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-27T00:00:00Z",
  "groups": [
   {
@@ -662,7 +662,7 @@
   },
   {
    "id": "I",
-   "complete": false,
+   "complete": true,
    "standings": [
     {
      "teamId": "FRA",
@@ -681,7 +681,7 @@
      "points": 9,
      "undetermined": false,
      "position": 1,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "NOR",
@@ -700,7 +700,7 @@
      "points": 6,
      "undetermined": false,
      "position": 2,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "SEN",
@@ -738,7 +738,7 @@
      "points": 0,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
+     "status": "out"
     }
    ]
   },
@@ -1085,7 +1085,7 @@
    },
    {
     "group": "I",
-    "groupComplete": false,
+    "groupComplete": true,
     "identityUndetermined": false,
     "teamId": "SEN",
     "name": "Senegal",
@@ -1304,7 +1304,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T20:30:00Z",
+      "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "GER",
        "name": "Germany",
@@ -1324,7 +1324,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-30T01:00:00Z",
+      "utcDate": "2026-06-29T20:30:00Z",
       "home": {
        "teamId": "NED",
        "name": "Netherlands",
@@ -1349,7 +1349,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T17:00:00Z",
+      "utcDate": "2026-06-30T01:00:00Z",
       "home": {
        "teamId": "BRA",
        "name": "Brazil",
@@ -1376,7 +1376,12 @@
       "status": "TIMED",
       "utcDate": "2026-06-30T17:00:00Z",
       "home": {
-       "label": "Winner Group I"
+       "teamId": "FRA",
+       "name": "France",
+       "drawnBy": {
+        "name": "Neil",
+        "colour": "#f58231"
+       }
       },
       "away": {
        "label": "Best 3rd place C/D/F/G/H"
@@ -1399,7 +1404,12 @@
        }
       },
       "away": {
-       "label": "Runner-up Group I"
+       "teamId": "NOR",
+       "name": "Norway",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "score": {
        "home": null,
@@ -1444,22 +1454,17 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-02T00:00:00Z",
+      "utcDate": "2026-07-01T20:00:00Z",
       "home": {
        "teamId": "USA",
-       "name": "USA",
+       "name": "United States",
        "drawnBy": {
         "name": "Paolo",
         "colour": "#e6194b"
        }
       },
       "away": {
-       "teamId": "BIH",
-       "name": "Bosnia-H.",
-       "drawnBy": {
-        "name": "MA",
-        "colour": "#4363d8"
-       }
+       "label": "Best 3rd place B/E/F/I/J"
       },
       "score": {
        "home": null,
@@ -1469,7 +1474,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-01T20:00:00Z",
+      "utcDate": "2026-07-02T00:00:00Z",
       "home": {
        "label": "Winner Group G"
       },
@@ -1534,14 +1539,9 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T22:00:00Z",
+      "utcDate": "2026-07-03T18:00:00Z",
       "home": {
-       "teamId": "ARG",
-       "name": "Argentina",
-       "drawnBy": {
-        "name": "Martin",
-        "colour": "#ffe119"
-       }
+       "label": "Winner Group J"
       },
       "away": {
        "label": "Runner-up Group H"
@@ -1554,7 +1554,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-04T01:30:00Z",
+      "utcDate": "2026-07-03T22:00:00Z",
       "home": {
        "label": "Winner Group K"
       },
@@ -1569,7 +1569,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T18:00:00Z",
+      "utcDate": "2026-07-04T01:30:00Z",
       "home": {
        "teamId": "AUS",
        "name": "Australia",
@@ -2199,51 +2199,6 @@
    "rank": 6
   },
   {
-   "name": "Ollie",
-   "colour": "#bcf60c",
-   "teams": [
-    {
-     "teamId": "BEL",
-     "name": "Belgium",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "COL",
-     "name": "Colombia",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "CRO",
-     "name": "Croatia",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "QAT",
-     "name": "Qatar",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "IRQ",
-     "name": "Iraq",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    }
-   ],
-   "aliveCount": 4,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 6
-  },
-  {
    "name": "Martin",
    "colour": "#ffe119",
    "teams": [
@@ -2286,7 +2241,52 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 9
+   "rank": 8
+  },
+  {
+   "name": "Ollie",
+   "colour": "#bcf60c",
+   "teams": [
+    {
+     "teamId": "BEL",
+     "name": "Belgium",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "COL",
+     "name": "Colombia",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "CRO",
+     "name": "Croatia",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "QAT",
+     "name": "Qatar",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "IRQ",
+     "name": "Iraq",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 3,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 8
   }
  ],
  "topScorers": [
@@ -2964,8 +2964,8 @@
     "Nicola",
     "Adam",
     "Neil",
-    "Ollie",
-    "Martin"
+    "Martin",
+    "Ollie"
    ]
   },
   "runnerUp": {
@@ -2980,8 +2980,8 @@
     "Nicola",
     "Adam",
     "Neil",
-    "Ollie",
-    "Martin"
+    "Martin",
+    "Ollie"
    ]
   },
   "topScorer": {
