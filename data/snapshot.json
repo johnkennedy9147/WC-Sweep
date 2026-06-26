@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-26T20:17:37.374Z",
- "sourceLastUpdated": "2026-06-26T20:17:06Z",
+ "fetchedAt": "2026-06-26T20:27:11.934Z",
+ "sourceLastUpdated": "2026-06-26T20:27:11Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-27T00:00:00Z",
  "groups": [
@@ -2379,6 +2379,17 @@
    "rank": 6
   },
   {
+   "playerName": "Ismaïla Sarr",
+   "teamId": "SEN",
+   "teamName": "Senegal",
+   "goals": 3,
+   "drawnBy": {
+    "name": "JK",
+    "colour": "#46f0f0"
+   },
+   "rank": 6
+  },
+  {
    "playerName": "Johan Manzambi",
    "teamId": "SUI",
    "teamName": "Switzerland",
@@ -2420,7 +2431,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Ayase Ueda",
@@ -2431,7 +2442,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Cody Gakpo",
@@ -2442,7 +2453,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Cristiano Ronaldo",
@@ -2453,7 +2464,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Crysencio Summerville",
@@ -2464,7 +2475,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Cyle Larin",
@@ -2475,7 +2486,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Daichi Kamada",
@@ -2486,7 +2497,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Daniel Muñoz",
@@ -2497,7 +2508,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Elijah Just",
@@ -2508,7 +2519,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Ermin Mahmic",
@@ -2519,7 +2530,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Folarin Balogun",
@@ -2530,7 +2541,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Harry Kane",
@@ -2541,18 +2552,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 12
-  },
-  {
-   "playerName": "Ismaïla Sarr",
-   "teamId": "SEN",
-   "teamName": "Senegal",
-   "goals": 2,
-   "drawnBy": {
-    "name": "JK",
-    "colour": "#46f0f0"
-   },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Julián Quiñones",
@@ -2563,7 +2563,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Kai Havertz",
@@ -2574,7 +2574,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Maximiliano Araújo",
@@ -2585,7 +2585,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Mikel Oyarzabal",
@@ -2596,7 +2596,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Nicolas Pépé",
@@ -2607,7 +2607,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Ruben Vargas",
@@ -2618,7 +2618,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Yasin Ayari",
@@ -2629,7 +2629,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 12
+   "rank": 13
   },
   {
    "playerName": "Abdulelah Al Amri",
