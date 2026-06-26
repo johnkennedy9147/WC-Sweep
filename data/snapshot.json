@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-26T20:27:11.934Z",
- "sourceLastUpdated": "2026-06-26T20:27:11Z",
+ "fetchedAt": "2026-06-26T20:37:19.486Z",
+ "sourceLastUpdated": "2026-06-26T20:37:07Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-27T00:00:00Z",
  "groups": [
@@ -713,9 +713,9 @@
      "won": 1,
      "drawn": 0,
      "lost": 2,
-     "gf": 4,
+     "gf": 6,
      "ga": 6,
-     "gd": -2,
+     "gd": 0,
      "points": 3,
      "undetermined": false,
      "position": 3,
@@ -733,8 +733,8 @@
      "drawn": 0,
      "lost": 3,
      "gf": 1,
-     "ga": 8,
-     "gd": -7,
+     "ga": 10,
+     "gd": -9,
      "points": 0,
      "undetermined": false,
      "position": 4,
@@ -1084,6 +1084,29 @@
     "qualified": true
    },
    {
+    "group": "I",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "SEN",
+    "name": "Senegal",
+    "drawnBy": {
+     "name": "JK",
+     "colour": "#46f0f0"
+    },
+    "played": 3,
+    "won": 1,
+    "drawn": 0,
+    "lost": 2,
+    "gf": 6,
+    "ga": 6,
+    "gd": 0,
+    "points": 3,
+    "undetermined": false,
+    "position": 3,
+    "rank": 5,
+    "qualified": true
+   },
+   {
     "group": "L",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1103,7 +1126,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 5,
+    "rank": 6,
     "qualified": true
    },
    {
@@ -1123,29 +1146,6 @@
     "gf": 2,
     "ga": 3,
     "gd": -1,
-    "points": 3,
-    "undetermined": false,
-    "position": 3,
-    "rank": 6,
-    "qualified": true
-   },
-   {
-    "group": "I",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "SEN",
-    "name": "Senegal",
-    "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
-    },
-    "played": 3,
-    "won": 1,
-    "drawn": 0,
-    "lost": 2,
-    "gf": 4,
-    "ga": 6,
-    "gd": -2,
     "points": 3,
     "undetermined": false,
     "position": 3,
@@ -1304,7 +1304,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T20:30:00Z",
+      "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "GER",
        "name": "Germany",
@@ -1324,7 +1324,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-30T01:00:00Z",
+      "utcDate": "2026-06-29T20:30:00Z",
       "home": {
        "teamId": "NED",
        "name": "Netherlands",
@@ -1349,7 +1349,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T17:00:00Z",
+      "utcDate": "2026-06-30T01:00:00Z",
       "home": {
        "teamId": "BRA",
        "name": "Brazil",
@@ -1444,22 +1444,17 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-02T00:00:00Z",
+      "utcDate": "2026-07-01T20:00:00Z",
       "home": {
        "teamId": "USA",
-       "name": "USA",
+       "name": "United States",
        "drawnBy": {
         "name": "Paolo",
         "colour": "#e6194b"
        }
       },
       "away": {
-       "teamId": "BIH",
-       "name": "Bosnia-H.",
-       "drawnBy": {
-        "name": "MA",
-        "colour": "#4363d8"
-       }
+       "label": "Best 3rd place B/E/F/I/J"
       },
       "score": {
        "home": null,
@@ -1469,7 +1464,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-01T20:00:00Z",
+      "utcDate": "2026-07-02T00:00:00Z",
       "home": {
        "label": "Winner Group G"
       },
@@ -1534,14 +1529,9 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T22:00:00Z",
+      "utcDate": "2026-07-03T18:00:00Z",
       "home": {
-       "teamId": "ARG",
-       "name": "Argentina",
-       "drawnBy": {
-        "name": "Martin",
-        "colour": "#ffe119"
-       }
+       "label": "Winner Group J"
       },
       "away": {
        "label": "Runner-up Group H"
@@ -1554,7 +1544,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-04T01:30:00Z",
+      "utcDate": "2026-07-03T22:00:00Z",
       "home": {
        "label": "Winner Group K"
       },
@@ -1569,7 +1559,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T18:00:00Z",
+      "utcDate": "2026-07-04T01:30:00Z",
       "home": {
        "teamId": "AUS",
        "name": "Australia",
