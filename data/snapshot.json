@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-06-26T21:17:23.012Z",
+ "fetchedAt": "2026-06-26T21:27:21.604Z",
  "sourceLastUpdated": "2026-06-26T21:10:58Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-27T00:00:00Z",
@@ -1304,7 +1304,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T17:00:00Z",
+      "utcDate": "2026-06-29T20:30:00Z",
       "home": {
        "teamId": "GER",
        "name": "Germany",
@@ -1324,7 +1324,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T20:30:00Z",
+      "utcDate": "2026-06-30T01:00:00Z",
       "home": {
        "teamId": "NED",
        "name": "Netherlands",
@@ -1349,7 +1349,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-30T01:00:00Z",
+      "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "BRA",
        "name": "Brazil",
@@ -1454,17 +1454,22 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-01T20:00:00Z",
+      "utcDate": "2026-07-02T00:00:00Z",
       "home": {
        "teamId": "USA",
-       "name": "United States",
+       "name": "USA",
        "drawnBy": {
         "name": "Paolo",
         "colour": "#e6194b"
        }
       },
       "away": {
-       "label": "Best 3rd place B/E/F/I/J"
+       "teamId": "BIH",
+       "name": "Bosnia-H.",
+       "drawnBy": {
+        "name": "MA",
+        "colour": "#4363d8"
+       }
       },
       "score": {
        "home": null,
@@ -1474,7 +1479,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-02T00:00:00Z",
+      "utcDate": "2026-07-01T20:00:00Z",
       "home": {
        "label": "Winner Group G"
       },
@@ -1539,9 +1544,14 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T18:00:00Z",
+      "utcDate": "2026-07-03T22:00:00Z",
       "home": {
-       "label": "Winner Group J"
+       "teamId": "ARG",
+       "name": "Argentina",
+       "drawnBy": {
+        "name": "Martin",
+        "colour": "#ffe119"
+       }
       },
       "away": {
        "label": "Runner-up Group H"
@@ -1554,7 +1564,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T22:00:00Z",
+      "utcDate": "2026-07-04T01:30:00Z",
       "home": {
        "label": "Winner Group K"
       },
@@ -1569,7 +1579,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-04T01:30:00Z",
+      "utcDate": "2026-07-03T18:00:00Z",
       "home": {
        "teamId": "AUS",
        "name": "Australia",
