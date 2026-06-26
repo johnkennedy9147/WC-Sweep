@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-26T03:07:30.448Z",
- "sourceLastUpdated": "2026-06-26T02:59:08Z",
+ "fetchedAt": "2026-06-26T03:17:24.981Z",
+ "sourceLastUpdated": "2026-06-26T03:17:10Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-26T19:00:00Z",
  "groups": [
@@ -263,12 +263,12 @@
      },
      "played": 3,
      "won": 2,
-     "drawn": 0,
-     "lost": 1,
-     "gf": 7,
+     "drawn": 1,
+     "lost": 0,
+     "gf": 8,
      "ga": 3,
-     "gd": 4,
-     "points": 6,
+     "gd": 5,
+     "points": 7,
      "undetermined": false,
      "position": 1,
      "status": "projected"
@@ -319,13 +319,13 @@
       "colour": "#f58231"
      },
      "played": 3,
-     "won": 1,
-     "drawn": 0,
+     "won": 0,
+     "drawn": 1,
      "lost": 2,
      "gf": 2,
-     "ga": 4,
-     "gd": -2,
-     "points": 3,
+     "ga": 5,
+     "gd": -3,
+     "points": 1,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -1304,7 +1304,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T17:00:00Z",
+      "utcDate": "2026-06-29T20:30:00Z",
       "home": {
        "teamId": "GER",
        "name": "Germany",
@@ -1324,7 +1324,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T20:30:00Z",
+      "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "NED",
        "name": "Netherlands",
@@ -1461,7 +1461,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-02T00:00:00Z",
       "home": {
-       "label": "Winner Group G"
+       "teamId": "USA",
+       "name": "USA",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
        "label": "Best 3rd place A/E/H/I/J"
@@ -1541,7 +1546,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-03T22:00:00Z",
       "home": {
-       "label": "Winner Group K"
+       "teamId": "ARG",
+       "name": "Argentina",
+       "drawnBy": {
+        "name": "Martin",
+        "colour": "#ffe119"
+       }
       },
       "away": {
        "label": "Best 3rd place D/E/I/J/L"
