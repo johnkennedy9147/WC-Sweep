@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-26T19:57:35.171Z",
- "sourceLastUpdated": "2026-06-26T19:57:22Z",
+ "fetchedAt": "2026-06-26T20:07:23.149Z",
+ "sourceLastUpdated": "2026-06-26T20:03:11Z",
  "liveNow": true,
- "nextKickoffUtc": "2026-06-26T19:00:00Z",
+ "nextKickoffUtc": "2026-06-27T00:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -227,7 +227,7 @@
      "points": 3,
      "undetermined": false,
      "position": 3,
-     "status": "thirds"
+     "status": "alive"
     },
     {
      "teamId": "HAI",
@@ -709,17 +709,17 @@
       "name": "JK",
       "colour": "#46f0f0"
      },
-     "played": 2,
-     "won": 0,
+     "played": 3,
+     "won": 1,
      "drawn": 0,
      "lost": 2,
-     "gf": 3,
+     "gf": 4,
      "ga": 6,
-     "gd": -3,
-     "points": 0,
+     "gd": -2,
+     "points": 3,
      "undetermined": false,
      "position": 3,
-     "status": "alive"
+     "status": "thirds"
     },
     {
      "teamId": "IRQ",
@@ -728,13 +728,13 @@
       "name": "Ollie",
       "colour": "#bcf60c"
      },
-     "played": 2,
+     "played": 3,
      "won": 0,
      "drawn": 0,
-     "lost": 2,
+     "lost": 3,
      "gf": 1,
-     "ga": 7,
-     "gd": -6,
+     "ga": 8,
+     "gd": -7,
      "points": 0,
      "undetermined": false,
      "position": 4,
@@ -1130,6 +1130,29 @@
     "qualified": true
    },
    {
+    "group": "I",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "SEN",
+    "name": "Senegal",
+    "drawnBy": {
+     "name": "JK",
+     "colour": "#46f0f0"
+    },
+    "played": 3,
+    "won": 1,
+    "drawn": 0,
+    "lost": 2,
+    "gf": 4,
+    "ga": 6,
+    "gd": -2,
+    "points": 3,
+    "undetermined": false,
+    "position": 3,
+    "rank": 7,
+    "qualified": true
+   },
+   {
     "group": "J",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1149,7 +1172,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 7,
+    "rank": 8,
     "qualified": true
    },
    {
@@ -1172,8 +1195,8 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 8,
-    "qualified": true
+    "rank": 9,
+    "qualified": false
    },
    {
     "group": "H",
@@ -1195,7 +1218,7 @@
     "points": 2,
     "undetermined": false,
     "position": 3,
-    "rank": 9,
+    "rank": 10,
     "qualified": false
    },
    {
@@ -1218,7 +1241,7 @@
     "points": 2,
     "undetermined": false,
     "position": 3,
-    "rank": 10,
+    "rank": 11,
     "qualified": false
    },
    {
@@ -1239,29 +1262,6 @@
     "ga": 2,
     "gd": -1,
     "points": 1,
-    "undetermined": false,
-    "position": 3,
-    "rank": 11,
-    "qualified": false
-   },
-   {
-    "group": "I",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "SEN",
-    "name": "Senegal",
-    "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
-    },
-    "played": 2,
-    "won": 0,
-    "drawn": 0,
-    "lost": 2,
-    "gf": 3,
-    "ga": 6,
-    "gd": -3,
-    "points": 0,
     "undetermined": false,
     "position": 3,
     "rank": 12,
