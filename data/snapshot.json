@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-27T05:47:18.670Z",
- "sourceLastUpdated": "2026-06-27T05:16:41Z",
+ "fetchedAt": "2026-06-27T06:07:19.392Z",
+ "sourceLastUpdated": "2026-06-27T07:04:41Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-27T21:00:00Z",
  "groups": [
@@ -1374,7 +1374,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-30T17:00:00Z",
+      "utcDate": "2026-06-30T21:00:00Z",
       "home": {
        "teamId": "FRA",
        "name": "France",
@@ -1394,10 +1394,10 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-30T21:00:00Z",
+      "utcDate": "2026-06-30T17:00:00Z",
       "home": {
        "teamId": "CIV",
-       "name": "Côte d'Ivoire",
+       "name": "Ivory Coast",
        "drawnBy": {
         "name": "Neil",
         "colour": "#f58231"
