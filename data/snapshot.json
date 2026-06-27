@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-27T21:47:20.478Z",
- "sourceLastUpdated": "2026-06-27T21:47:18Z",
+ "fetchedAt": "2026-06-27T21:57:30.613Z",
+ "sourceLastUpdated": "2026-06-27T21:56:24Z",
  "liveNow": true,
- "nextKickoffUtc": "2026-06-27T21:00:00Z",
+ "nextKickoffUtc": "2026-06-27T23:30:00Z",
  "groups": [
   {
    "id": "A",
@@ -911,6 +911,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "CRO",
+     "name": "Croatia",
+     "drawnBy": {
+      "name": "Ollie",
+      "colour": "#bcf60c"
+     },
+     "played": 3,
+     "won": 2,
+     "drawn": 0,
+     "lost": 1,
+     "gf": 4,
+     "ga": 4,
+     "gd": 0,
+     "points": 6,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "ENG",
      "name": "England",
      "drawnBy": {
@@ -926,7 +945,7 @@
      "gd": 2,
      "points": 5,
      "undetermined": false,
-     "position": 1,
+     "position": 2,
      "status": "projected"
     },
     {
@@ -936,33 +955,14 @@
       "name": "Nicola",
       "colour": "#3cb44b"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
      "drawn": 1,
-     "lost": 0,
-     "gf": 1,
-     "ga": 0,
-     "gd": 1,
-     "points": 4,
-     "undetermined": false,
-     "position": 2,
-     "status": "projected"
-    },
-    {
-     "teamId": "CRO",
-     "name": "Croatia",
-     "drawnBy": {
-      "name": "Ollie",
-      "colour": "#bcf60c"
-     },
-     "played": 2,
-     "won": 1,
-     "drawn": 0,
      "lost": 1,
-     "gf": 3,
-     "ga": 4,
-     "gd": -1,
-     "points": 3,
+     "gf": 1,
+     "ga": 1,
+     "gd": 0,
+     "points": 4,
      "undetermined": false,
      "position": 3,
      "status": "thirds"
@@ -1038,6 +1038,29 @@
     "qualified": true
    },
    {
+    "group": "L",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "GHA",
+    "name": "Ghana",
+    "drawnBy": {
+     "name": "Nicola",
+     "colour": "#3cb44b"
+    },
+    "played": 3,
+    "won": 1,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 1,
+    "ga": 1,
+    "gd": 0,
+    "points": 4,
+    "undetermined": false,
+    "position": 3,
+    "rank": 3,
+    "qualified": true
+   },
+   {
     "group": "B",
     "groupComplete": true,
     "identityUndetermined": false,
@@ -1057,7 +1080,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 3,
+    "rank": 4,
     "qualified": true
    },
    {
@@ -1080,7 +1103,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 4,
+    "rank": 5,
     "qualified": true
    },
    {
@@ -1103,7 +1126,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 5,
+    "rank": 6,
     "qualified": true
    },
    {
@@ -1123,29 +1146,6 @@
     "gf": 3,
     "ga": 3,
     "gd": 0,
-    "points": 3,
-    "undetermined": false,
-    "position": 3,
-    "rank": 6,
-    "qualified": true
-   },
-   {
-    "group": "L",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "CRO",
-    "name": "Croatia",
-    "drawnBy": {
-     "name": "Ollie",
-     "colour": "#bcf60c"
-    },
-    "played": 2,
-    "won": 1,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 3,
-    "ga": 4,
-    "gd": -1,
     "points": 3,
     "undetermined": false,
     "position": 3,
