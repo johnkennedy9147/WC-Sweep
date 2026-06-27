@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-27T22:57:37.497Z",
- "sourceLastUpdated": "2026-06-27T22:57:36Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-27T23:07:35.342Z",
+ "sourceLastUpdated": "2026-06-27T23:05:20Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-27T23:30:00Z",
  "groups": [
   {
@@ -908,7 +908,7 @@
   },
   {
    "id": "L",
-   "complete": false,
+   "complete": true,
    "standings": [
     {
      "teamId": "ENG",
@@ -927,7 +927,7 @@
      "points": 7,
      "undetermined": false,
      "position": 1,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "CRO",
@@ -946,7 +946,7 @@
      "points": 6,
      "undetermined": false,
      "position": 2,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "GHA",
@@ -984,7 +984,7 @@
      "points": 0,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
+     "status": "out"
     }
    ]
   }
@@ -1039,7 +1039,7 @@
    },
    {
     "group": "L",
-    "groupComplete": false,
+    "groupComplete": true,
     "identityUndetermined": false,
     "teamId": "GHA",
     "name": "Ghana",
@@ -1441,7 +1441,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-01T16:00:00Z",
       "home": {
-       "label": "Winner Group L"
+       "teamId": "ENG",
+       "name": "England",
+       "drawnBy": {
+        "name": "MA",
+        "colour": "#4363d8"
+       }
       },
       "away": {
        "label": "Best 3rd place E/H/I/J/K"
@@ -1504,7 +1509,12 @@
        "label": "Runner-up Group K"
       },
       "away": {
-       "label": "Runner-up Group L"
+       "teamId": "CRO",
+       "name": "Croatia",
+       "drawnBy": {
+        "name": "Ollie",
+        "colour": "#bcf60c"
+       }
       },
       "score": {
        "home": null,
@@ -2049,51 +2059,6 @@
    "rank": 3
   },
   {
-   "name": "Nicola",
-   "colour": "#3cb44b",
-   "teams": [
-    {
-     "teamId": "POR",
-     "name": "Portugal",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "PAN",
-     "name": "Panama",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "GHA",
-     "name": "Ghana",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "COD",
-     "name": "DR Congo",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    }
-   ],
-   "aliveCount": 5,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 3
-  },
-  {
    "name": "LA",
    "colour": "#911eb4",
    "teams": [
@@ -2136,7 +2101,7 @@
    "aliveCount": 4,
    "total": 5,
    "bestFinish": 9,
-   "rank": 5
+   "rank": 4
   },
   {
    "name": "Neil",
@@ -2181,7 +2146,52 @@
    "aliveCount": 4,
    "total": 5,
    "bestFinish": 9,
-   "rank": 5
+   "rank": 4
+  },
+  {
+   "name": "Nicola",
+   "colour": "#3cb44b",
+   "teams": [
+    {
+     "teamId": "POR",
+     "name": "Portugal",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "URU",
+     "name": "Uruguay",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "PAN",
+     "name": "Panama",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "GHA",
+     "name": "Ghana",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "COD",
+     "name": "DR Congo",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    }
+   ],
+   "aliveCount": 4,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 4
   },
   {
    "name": "Adam",
@@ -2990,9 +3000,9 @@
     "MA",
     "Paolo",
     "JK",
-    "Nicola",
     "LA",
     "Neil",
+    "Nicola",
     "Adam",
     "Martin",
     "Ollie"
@@ -3006,9 +3016,9 @@
     "MA",
     "Paolo",
     "JK",
-    "Nicola",
     "LA",
     "Neil",
+    "Nicola",
     "Adam",
     "Martin",
     "Ollie"
