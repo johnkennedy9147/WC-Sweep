@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-27T05:07:17.038Z",
- "sourceLastUpdated": "2026-06-27T05:07:16Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-27T05:17:26.819Z",
+ "sourceLastUpdated": "2026-06-27T05:16:41Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-27T21:00:00Z",
  "groups": [
   {
@@ -498,7 +498,7 @@
   },
   {
    "id": "G",
-   "complete": false,
+   "complete": true,
    "standings": [
     {
      "teamId": "BEL",
@@ -517,26 +517,7 @@
      "points": 5,
      "undetermined": false,
      "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "IRN",
-     "name": "Iran",
-     "drawnBy": {
-      "name": "Adam",
-      "colour": "#f032e6"
-     },
-     "played": 3,
-     "won": 1,
-     "drawn": 2,
-     "lost": 0,
-     "gf": 4,
-     "ga": 3,
-     "gd": 1,
-     "points": 5,
-     "undetermined": false,
-     "position": 2,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "EGY",
@@ -547,12 +528,31 @@
      },
      "played": 3,
      "won": 1,
-     "drawn": 1,
-     "lost": 1,
+     "drawn": 2,
+     "lost": 0,
      "gf": 5,
-     "ga": 4,
-     "gd": 1,
-     "points": 4,
+     "ga": 3,
+     "gd": 2,
+     "points": 5,
+     "undetermined": false,
+     "position": 2,
+     "status": "through"
+    },
+    {
+     "teamId": "IRN",
+     "name": "Iran",
+     "drawnBy": {
+      "name": "Adam",
+      "colour": "#f032e6"
+     },
+     "played": 3,
+     "won": 0,
+     "drawn": 3,
+     "lost": 0,
+     "gf": 3,
+     "ga": 3,
+     "gd": 0,
+     "points": 3,
      "undetermined": false,
      "position": 3,
      "status": "thirds"
@@ -574,7 +574,7 @@
      "points": 1,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
+     "status": "out"
     }
    ]
   },
@@ -992,29 +992,6 @@
  "thirdPlace": {
   "rows": [
    {
-    "group": "G",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "EGY",
-    "name": "Egypt",
-    "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
-    },
-    "played": 3,
-    "won": 1,
-    "drawn": 1,
-    "lost": 1,
-    "gf": 5,
-    "ga": 4,
-    "gd": 1,
-    "points": 4,
-    "undetermined": false,
-    "position": 3,
-    "rank": 1,
-    "qualified": true
-   },
-   {
     "group": "F",
     "groupComplete": true,
     "identityUndetermined": false,
@@ -1034,7 +1011,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 2,
+    "rank": 1,
     "qualified": true
    },
    {
@@ -1057,7 +1034,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 3,
+    "rank": 2,
     "qualified": true
    },
    {
@@ -1080,7 +1057,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 4,
+    "rank": 3,
     "qualified": true
    },
    {
@@ -1103,7 +1080,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 5,
+    "rank": 4,
     "qualified": true
    },
    {
@@ -1123,6 +1100,29 @@
     "gf": 8,
     "ga": 6,
     "gd": 2,
+    "points": 3,
+    "undetermined": false,
+    "position": 3,
+    "rank": 5,
+    "qualified": true
+   },
+   {
+    "group": "G",
+    "groupComplete": true,
+    "identityUndetermined": false,
+    "teamId": "IRN",
+    "name": "Iran",
+    "drawnBy": {
+     "name": "Adam",
+     "colour": "#f032e6"
+    },
+    "played": 3,
+    "won": 0,
+    "drawn": 3,
+    "lost": 0,
+    "gf": 3,
+    "ga": 3,
+    "gd": 0,
     "points": 3,
     "undetermined": false,
     "position": 3,
@@ -1481,7 +1481,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-01T20:00:00Z",
       "home": {
-       "label": "Winner Group G"
+       "teamId": "BEL",
+       "name": "Belgium",
+       "drawnBy": {
+        "name": "Ollie",
+        "colour": "#bcf60c"
+       }
       },
       "away": {
        "label": "Best 3rd place A/E/H/I/J"
@@ -1599,7 +1604,12 @@
        }
       },
       "away": {
-       "label": "Runner-up Group G"
+       "teamId": "EGY",
+       "name": "Egypt",
+       "drawnBy": {
+        "name": "MA",
+        "colour": "#4363d8"
+       }
       },
       "score": {
        "home": null,
@@ -2084,51 +2094,6 @@
    "rank": 3
   },
   {
-   "name": "Adam",
-   "colour": "#f032e6",
-   "teams": [
-    {
-     "teamId": "BRA",
-     "name": "Brazil",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "SUI",
-     "name": "Switzerland",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "IRN",
-     "name": "Iran",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "TUN",
-     "name": "Tunisia",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "NZL",
-     "name": "New Zealand",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    }
-   ],
-   "aliveCount": 4,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 5
-  },
-  {
    "name": "LA",
    "colour": "#911eb4",
    "teams": [
@@ -2219,6 +2184,51 @@
    "rank": 5
   },
   {
+   "name": "Adam",
+   "colour": "#f032e6",
+   "teams": [
+    {
+     "teamId": "BRA",
+     "name": "Brazil",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "SUI",
+     "name": "Switzerland",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "IRN",
+     "name": "Iran",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "TUN",
+     "name": "Tunisia",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "NZL",
+     "name": "New Zealand",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 3,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 7
+  },
+  {
    "name": "Martin",
    "colour": "#ffe119",
    "teams": [
@@ -2261,7 +2271,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 8
+   "rank": 7
   },
   {
    "name": "Ollie",
@@ -2306,7 +2316,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 8
+   "rank": 7
   }
  ],
  "topScorers": [
@@ -2981,9 +2991,9 @@
     "Paolo",
     "JK",
     "Nicola",
-    "Adam",
     "LA",
     "Neil",
+    "Adam",
     "Martin",
     "Ollie"
    ]
@@ -2997,9 +3007,9 @@
     "Paolo",
     "JK",
     "Nicola",
-    "Adam",
     "LA",
     "Neil",
+    "Adam",
     "Martin",
     "Ollie"
    ]
