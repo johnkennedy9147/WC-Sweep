@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-27T01:57:30.715Z",
- "sourceLastUpdated": "2026-06-27T01:57:22Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-27T02:07:17.296Z",
+ "sourceLastUpdated": "2026-06-27T02:06:11Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-27T03:00:00Z",
  "groups": [
   {
@@ -580,7 +580,7 @@
   },
   {
    "id": "H",
-   "complete": false,
+   "complete": true,
    "standings": [
     {
      "teamId": "ESP",
@@ -599,7 +599,7 @@
      "points": 7,
      "undetermined": false,
      "position": 1,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "CPV",
@@ -618,7 +618,7 @@
      "points": 3,
      "undetermined": false,
      "position": 2,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "URU",
@@ -656,7 +656,7 @@
      "points": 2,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
+     "status": "out"
     }
    ]
   },
@@ -1223,7 +1223,7 @@
    },
    {
     "group": "H",
-    "groupComplete": false,
+    "groupComplete": true,
     "identityUndetermined": false,
     "teamId": "URU",
     "name": "Uruguay",
@@ -1511,7 +1511,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-02T23:00:00Z",
       "home": {
-       "label": "Winner Group H"
+       "teamId": "ESP",
+       "name": "Spain",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
        "label": "Runner-up Group J"
@@ -1554,7 +1559,12 @@
        }
       },
       "away": {
-       "label": "Runner-up Group H"
+       "teamId": "CPV",
+       "name": "Cape Verde",
+       "drawnBy": {
+        "name": "JK",
+        "colour": "#46f0f0"
+       }
       },
       "score": {
        "home": null,
@@ -2029,51 +2039,6 @@
    "rank": 3
   },
   {
-   "name": "LA",
-   "colour": "#911eb4",
-   "teams": [
-    {
-     "teamId": "NED",
-     "name": "Netherlands",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "AUS",
-     "name": "Australia",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "KSA",
-     "name": "Saudi Arabia",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "UZB",
-     "name": "Uzbekistan",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "JOR",
-     "name": "Jordan",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    }
-   ],
-   "aliveCount": 5,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 3
-  },
-  {
    "name": "Nicola",
    "colour": "#3cb44b",
    "teams": [
@@ -2161,7 +2126,52 @@
    "aliveCount": 4,
    "total": 5,
    "bestFinish": 9,
-   "rank": 6
+   "rank": 5
+  },
+  {
+   "name": "LA",
+   "colour": "#911eb4",
+   "teams": [
+    {
+     "teamId": "NED",
+     "name": "Netherlands",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "AUS",
+     "name": "Australia",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "KSA",
+     "name": "Saudi Arabia",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "UZB",
+     "name": "Uzbekistan",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "JOR",
+     "name": "Jordan",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    }
+   ],
+   "aliveCount": 4,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 5
   },
   {
    "name": "Neil",
@@ -2206,7 +2216,7 @@
    "aliveCount": 4,
    "total": 5,
    "bestFinish": 9,
-   "rank": 6
+   "rank": 5
   },
   {
    "name": "Martin",
@@ -2970,9 +2980,9 @@
     "MA",
     "Paolo",
     "JK",
-    "LA",
     "Nicola",
     "Adam",
+    "LA",
     "Neil",
     "Martin",
     "Ollie"
@@ -2986,9 +2996,9 @@
     "MA",
     "Paolo",
     "JK",
-    "LA",
     "Nicola",
     "Adam",
+    "LA",
     "Neil",
     "Martin",
     "Ollie"
