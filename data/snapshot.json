@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-27T04:27:38.675Z",
- "sourceLastUpdated": "2026-06-27T04:27:35Z",
+ "fetchedAt": "2026-06-27T04:37:22.744Z",
+ "sourceLastUpdated": "2026-06-27T04:37:17Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-27T21:00:00Z",
  "groups": [
@@ -501,6 +501,25 @@
    "complete": false,
    "standings": [
     {
+     "teamId": "BEL",
+     "name": "Belgium",
+     "drawnBy": {
+      "name": "Ollie",
+      "colour": "#bcf60c"
+     },
+     "played": 3,
+     "won": 1,
+     "drawn": 2,
+     "lost": 0,
+     "gf": 4,
+     "ga": 1,
+     "gd": 3,
+     "points": 5,
+     "undetermined": false,
+     "position": 1,
+     "status": "projected"
+    },
+    {
      "teamId": "EGY",
      "name": "Egypt",
      "drawnBy": {
@@ -513,25 +532,6 @@
      "lost": 0,
      "gf": 5,
      "ga": 3,
-     "gd": 2,
-     "points": 5,
-     "undetermined": false,
-     "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "BEL",
-     "name": "Belgium",
-     "drawnBy": {
-      "name": "Ollie",
-      "colour": "#bcf60c"
-     },
-     "played": 3,
-     "won": 1,
-     "drawn": 2,
-     "lost": 0,
-     "gf": 3,
-     "ga": 1,
      "gd": 2,
      "points": 5,
      "undetermined": false,
@@ -569,8 +569,8 @@
      "drawn": 1,
      "lost": 2,
      "gf": 3,
-     "ga": 7,
-     "gd": -4,
+     "ga": 8,
+     "gd": -5,
      "points": 1,
      "undetermined": false,
      "position": 4,
