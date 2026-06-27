@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-27T00:57:22.516Z",
- "sourceLastUpdated": "2026-06-27T00:57:20Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-27T00:00:00Z",
+ "fetchedAt": "2026-06-27T01:07:18.290Z",
+ "sourceLastUpdated": "2026-06-27T01:01:32Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-27T03:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -589,35 +589,16 @@
       "name": "Paolo",
       "colour": "#e6194b"
      },
-     "played": 2,
-     "won": 1,
+     "played": 3,
+     "won": 2,
      "drawn": 1,
      "lost": 0,
-     "gf": 4,
+     "gf": 5,
      "ga": 0,
-     "gd": 4,
-     "points": 4,
+     "gd": 5,
+     "points": 7,
      "undetermined": false,
      "position": 1,
-     "status": "projected"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 2,
-     "won": 0,
-     "drawn": 2,
-     "lost": 0,
-     "gf": 3,
-     "ga": 3,
-     "gd": 0,
-     "points": 2,
-     "undetermined": false,
-     "position": 2,
      "status": "projected"
     },
     {
@@ -627,13 +608,32 @@
       "name": "JK",
       "colour": "#46f0f0"
      },
-     "played": 2,
+     "played": 3,
      "won": 0,
-     "drawn": 2,
+     "drawn": 3,
      "lost": 0,
      "gf": 2,
      "ga": 2,
      "gd": 0,
+     "points": 3,
+     "undetermined": false,
+     "position": 2,
+     "status": "projected"
+    },
+    {
+     "teamId": "URU",
+     "name": "Uruguay",
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
+     "played": 3,
+     "won": 0,
+     "drawn": 2,
+     "lost": 1,
+     "gf": 3,
+     "ga": 4,
+     "gd": -1,
      "points": 2,
      "undetermined": false,
      "position": 3,
@@ -646,14 +646,14 @@
       "name": "LA",
       "colour": "#911eb4"
      },
-     "played": 2,
+     "played": 3,
      "won": 0,
-     "drawn": 1,
+     "drawn": 2,
      "lost": 1,
      "gf": 1,
      "ga": 5,
      "gd": -4,
-     "points": 1,
+     "points": 2,
      "undetermined": false,
      "position": 4,
      "status": "alive"
@@ -1199,29 +1199,6 @@
     "qualified": false
    },
    {
-    "group": "H",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "CPV",
-    "name": "Cape Verde",
-    "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
-    },
-    "played": 2,
-    "won": 0,
-    "drawn": 2,
-    "lost": 0,
-    "gf": 2,
-    "ga": 2,
-    "gd": 0,
-    "points": 2,
-    "undetermined": false,
-    "position": 3,
-    "rank": 10,
-    "qualified": false
-   },
-   {
     "group": "G",
     "groupComplete": false,
     "identityUndetermined": false,
@@ -1238,6 +1215,29 @@
     "gf": 1,
     "ga": 1,
     "gd": 0,
+    "points": 2,
+    "undetermined": false,
+    "position": 3,
+    "rank": 10,
+    "qualified": false
+   },
+   {
+    "group": "H",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "URU",
+    "name": "Uruguay",
+    "drawnBy": {
+     "name": "Nicola",
+     "colour": "#3cb44b"
+    },
+    "played": 3,
+    "won": 0,
+    "drawn": 2,
+    "lost": 1,
+    "gf": 3,
+    "ga": 4,
+    "gd": -1,
     "points": 2,
     "undetermined": false,
     "position": 3,
