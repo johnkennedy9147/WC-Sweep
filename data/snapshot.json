@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-27T04:37:22.744Z",
- "sourceLastUpdated": "2026-06-27T04:37:17Z",
+ "fetchedAt": "2026-06-27T04:47:30.352Z",
+ "sourceLastUpdated": "2026-06-27T04:47:15Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-27T21:00:00Z",
  "groups": [
@@ -1304,7 +1304,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T17:00:00Z",
+      "utcDate": "2026-06-29T20:30:00Z",
       "home": {
        "teamId": "GER",
        "name": "Germany",
@@ -1324,7 +1324,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T20:30:00Z",
+      "utcDate": "2026-06-30T01:00:00Z",
       "home": {
        "teamId": "NED",
        "name": "Netherlands",
@@ -1349,7 +1349,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-30T01:00:00Z",
+      "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "BRA",
        "name": "Brazil",
@@ -1454,17 +1454,22 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-01T20:00:00Z",
+      "utcDate": "2026-07-02T00:00:00Z",
       "home": {
        "teamId": "USA",
-       "name": "United States",
+       "name": "USA",
        "drawnBy": {
         "name": "Paolo",
         "colour": "#e6194b"
        }
       },
       "away": {
-       "label": "Best 3rd place B/E/F/I/J"
+       "teamId": "BIH",
+       "name": "Bosnia-H.",
+       "drawnBy": {
+        "name": "MA",
+        "colour": "#4363d8"
+       }
       },
       "score": {
        "home": null,
@@ -1474,7 +1479,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-02T00:00:00Z",
+      "utcDate": "2026-07-01T20:00:00Z",
       "home": {
        "label": "Winner Group G"
       },
@@ -1544,9 +1549,14 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T18:00:00Z",
+      "utcDate": "2026-07-03T22:00:00Z",
       "home": {
-       "label": "Winner Group J"
+       "teamId": "ARG",
+       "name": "Argentina",
+       "drawnBy": {
+        "name": "Martin",
+        "colour": "#ffe119"
+       }
       },
       "away": {
        "teamId": "CPV",
@@ -1564,7 +1574,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T22:00:00Z",
+      "utcDate": "2026-07-04T01:30:00Z",
       "home": {
        "label": "Winner Group K"
       },
@@ -1579,7 +1589,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-04T01:30:00Z",
+      "utcDate": "2026-07-03T18:00:00Z",
       "home": {
        "teamId": "AUS",
        "name": "Australia",
@@ -2378,6 +2388,17 @@
    "rank": 6
   },
   {
+   "playerName": "Elijah Just",
+   "teamId": "NZL",
+   "teamName": "New Zealand",
+   "goals": 3,
+   "drawnBy": {
+    "name": "Adam",
+    "colour": "#f032e6"
+   },
+   "rank": 6
+  },
+  {
    "playerName": "Ismael Saibari",
    "teamId": "MAR",
    "teamName": "Morocco",
@@ -2441,7 +2462,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Ayase Ueda",
@@ -2452,7 +2473,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Cody Gakpo",
@@ -2463,7 +2484,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Cristiano Ronaldo",
@@ -2474,7 +2495,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Crysencio Summerville",
@@ -2485,7 +2506,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Cyle Larin",
@@ -2496,7 +2517,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Daichi Kamada",
@@ -2507,7 +2528,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Daniel Muñoz",
@@ -2518,18 +2539,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 13
-  },
-  {
-   "playerName": "Elijah Just",
-   "teamId": "NZL",
-   "teamName": "New Zealand",
-   "goals": 2,
-   "drawnBy": {
-    "name": "Adam",
-    "colour": "#f032e6"
-   },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Ermin Mahmic",
@@ -2540,7 +2550,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Folarin Balogun",
@@ -2551,7 +2561,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Harry Kane",
@@ -2562,7 +2572,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Julián Quiñones",
@@ -2573,7 +2583,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Kai Havertz",
@@ -2584,7 +2594,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Leandro Trossard",
@@ -2595,7 +2605,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Maximiliano Araújo",
@@ -2606,7 +2616,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Mikel Oyarzabal",
@@ -2617,7 +2627,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Nicolas Pépé",
@@ -2628,7 +2638,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Pape Gueye",
@@ -2639,7 +2649,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Ramin Rezaeian",
@@ -2650,7 +2660,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Ruben Vargas",
@@ -2661,7 +2671,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Yasin Ayari",
@@ -2672,7 +2682,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 13
+   "rank": 14
   },
   {
    "playerName": "Abdulelah Al Amri",
