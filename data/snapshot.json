@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-27T16:17:18.575Z",
+ "fetchedAt": "2026-06-27T16:27:40.381Z",
  "sourceLastUpdated": "2026-06-27T07:23:05Z",
  "liveNow": false,
- "nextKickoffUtc": "2026-06-26T19:00:00Z",
+ "nextKickoffUtc": "2026-06-27T21:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -520,25 +520,6 @@
      "status": "through"
     },
     {
-     "teamId": "IRN",
-     "name": "Iran",
-     "drawnBy": {
-      "name": "Adam",
-      "colour": "#f032e6"
-     },
-     "played": 3,
-     "won": 1,
-     "drawn": 2,
-     "lost": 0,
-     "gf": 4,
-     "ga": 3,
-     "gd": 1,
-     "points": 5,
-     "undetermined": false,
-     "position": 2,
-     "status": "through"
-    },
-    {
      "teamId": "EGY",
      "name": "Egypt",
      "drawnBy": {
@@ -547,12 +528,31 @@
      },
      "played": 3,
      "won": 1,
-     "drawn": 1,
-     "lost": 1,
+     "drawn": 2,
+     "lost": 0,
      "gf": 5,
-     "ga": 4,
-     "gd": 1,
-     "points": 4,
+     "ga": 3,
+     "gd": 2,
+     "points": 5,
+     "undetermined": false,
+     "position": 2,
+     "status": "through"
+    },
+    {
+     "teamId": "IRN",
+     "name": "Iran",
+     "drawnBy": {
+      "name": "Adam",
+      "colour": "#f032e6"
+     },
+     "played": 3,
+     "won": 0,
+     "drawn": 3,
+     "lost": 0,
+     "gf": 3,
+     "ga": 3,
+     "gd": 0,
+     "points": 3,
      "undetermined": false,
      "position": 3,
      "status": "thirds"
@@ -662,7 +662,7 @@
   },
   {
    "id": "I",
-   "complete": false,
+   "complete": true,
    "standings": [
     {
      "teamId": "FRA",
@@ -671,17 +671,17 @@
       "name": "Neil",
       "colour": "#f58231"
      },
-     "played": 2,
-     "won": 2,
+     "played": 3,
+     "won": 3,
      "drawn": 0,
      "lost": 0,
-     "gf": 6,
-     "ga": 1,
-     "gd": 5,
-     "points": 6,
+     "gf": 10,
+     "ga": 2,
+     "gd": 8,
+     "points": 9,
      "undetermined": false,
      "position": 1,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "NOR",
@@ -690,17 +690,17 @@
       "name": "Paolo",
       "colour": "#e6194b"
      },
-     "played": 2,
+     "played": 3,
      "won": 2,
      "drawn": 0,
-     "lost": 0,
-     "gf": 7,
-     "ga": 3,
-     "gd": 4,
+     "lost": 1,
+     "gf": 8,
+     "ga": 7,
+     "gd": 1,
      "points": 6,
      "undetermined": false,
      "position": 2,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "SEN",
@@ -709,17 +709,17 @@
       "name": "JK",
       "colour": "#46f0f0"
      },
-     "played": 2,
-     "won": 0,
+     "played": 3,
+     "won": 1,
      "drawn": 0,
      "lost": 2,
-     "gf": 3,
+     "gf": 8,
      "ga": 6,
-     "gd": -3,
-     "points": 0,
+     "gd": 2,
+     "points": 3,
      "undetermined": false,
      "position": 3,
-     "status": "alive"
+     "status": "thirds"
     },
     {
      "teamId": "IRQ",
@@ -728,17 +728,17 @@
       "name": "Ollie",
       "colour": "#bcf60c"
      },
-     "played": 2,
+     "played": 3,
      "won": 0,
      "drawn": 0,
-     "lost": 2,
+     "lost": 3,
      "gf": 1,
-     "ga": 7,
-     "gd": -6,
+     "ga": 12,
+     "gd": -11,
      "points": 0,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
+     "status": "out"
     }
    ]
   },
@@ -801,7 +801,7 @@
      "points": 3,
      "undetermined": false,
      "position": 3,
-     "status": "thirds"
+     "status": "alive"
     },
     {
      "teamId": "JOR",
@@ -992,29 +992,6 @@
  "thirdPlace": {
   "rows": [
    {
-    "group": "G",
-    "groupComplete": true,
-    "identityUndetermined": false,
-    "teamId": "EGY",
-    "name": "Egypt",
-    "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
-    },
-    "played": 3,
-    "won": 1,
-    "drawn": 1,
-    "lost": 1,
-    "gf": 5,
-    "ga": 4,
-    "gd": 1,
-    "points": 4,
-    "undetermined": false,
-    "position": 3,
-    "rank": 1,
-    "qualified": true
-   },
-   {
     "group": "F",
     "groupComplete": true,
     "identityUndetermined": false,
@@ -1034,7 +1011,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 2,
+    "rank": 1,
     "qualified": true
    },
    {
@@ -1057,7 +1034,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 3,
+    "rank": 2,
     "qualified": true
    },
    {
@@ -1080,7 +1057,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 4,
+    "rank": 3,
     "qualified": true
    },
    {
@@ -1103,7 +1080,53 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
+    "rank": 4,
+    "qualified": true
+   },
+   {
+    "group": "I",
+    "groupComplete": true,
+    "identityUndetermined": false,
+    "teamId": "SEN",
+    "name": "Senegal",
+    "drawnBy": {
+     "name": "JK",
+     "colour": "#46f0f0"
+    },
+    "played": 3,
+    "won": 1,
+    "drawn": 0,
+    "lost": 2,
+    "gf": 8,
+    "ga": 6,
+    "gd": 2,
+    "points": 3,
+    "undetermined": false,
+    "position": 3,
     "rank": 5,
+    "qualified": true
+   },
+   {
+    "group": "G",
+    "groupComplete": true,
+    "identityUndetermined": false,
+    "teamId": "IRN",
+    "name": "Iran",
+    "drawnBy": {
+     "name": "Adam",
+     "colour": "#f032e6"
+    },
+    "played": 3,
+    "won": 0,
+    "drawn": 3,
+    "lost": 0,
+    "gf": 3,
+    "ga": 3,
+    "gd": 0,
+    "points": 3,
+    "undetermined": false,
+    "position": 3,
+    "rank": 6,
     "qualified": true
    },
    {
@@ -1126,7 +1149,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 6,
+    "rank": 7,
     "qualified": true
    },
    {
@@ -1149,7 +1172,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 7,
+    "rank": 8,
     "qualified": true
    },
    {
@@ -1172,8 +1195,8 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 8,
-    "qualified": true
+    "rank": 9,
+    "qualified": false
    },
    {
     "group": "C",
@@ -1195,7 +1218,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 9,
+    "rank": 10,
     "qualified": false
    },
    {
@@ -1218,7 +1241,7 @@
     "points": 2,
     "undetermined": false,
     "position": 3,
-    "rank": 10,
+    "rank": 11,
     "qualified": false
    },
    {
@@ -1239,29 +1262,6 @@
     "ga": 2,
     "gd": -1,
     "points": 1,
-    "undetermined": false,
-    "position": 3,
-    "rank": 11,
-    "qualified": false
-   },
-   {
-    "group": "I",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "SEN",
-    "name": "Senegal",
-    "drawnBy": {
-     "name": "JK",
-     "colour": "#46f0f0"
-    },
-    "played": 2,
-    "won": 0,
-    "drawn": 0,
-    "lost": 2,
-    "gf": 3,
-    "ga": 6,
-    "gd": -3,
-    "points": 0,
     "undetermined": false,
     "position": 3,
     "rank": 12,
@@ -1304,7 +1304,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T20:30:00Z",
+      "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "GER",
        "name": "Germany",
@@ -1324,7 +1324,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-30T01:00:00Z",
+      "utcDate": "2026-06-29T20:30:00Z",
       "home": {
        "teamId": "NED",
        "name": "Netherlands",
@@ -1349,7 +1349,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T17:00:00Z",
+      "utcDate": "2026-06-30T01:00:00Z",
       "home": {
        "teamId": "BRA",
        "name": "Brazil",
@@ -1376,7 +1376,12 @@
       "status": "TIMED",
       "utcDate": "2026-06-30T17:00:00Z",
       "home": {
-       "label": "Winner Group I"
+       "teamId": "FRA",
+       "name": "France",
+       "drawnBy": {
+        "name": "Neil",
+        "colour": "#f58231"
+       }
       },
       "away": {
        "label": "Best 3rd place C/D/F/G/H"
@@ -1399,7 +1404,12 @@
        }
       },
       "away": {
-       "label": "Runner-up Group I"
+       "teamId": "NOR",
+       "name": "Norway",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "score": {
        "home": null,
@@ -1444,22 +1454,17 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-02T00:00:00Z",
+      "utcDate": "2026-07-01T20:00:00Z",
       "home": {
        "teamId": "USA",
-       "name": "USA",
+       "name": "United States",
        "drawnBy": {
         "name": "Paolo",
         "colour": "#e6194b"
        }
       },
       "away": {
-       "teamId": "BIH",
-       "name": "Bosnia-H.",
-       "drawnBy": {
-        "name": "MA",
-        "colour": "#4363d8"
-       }
+       "label": "Best 3rd place B/E/F/I/J"
       },
       "score": {
        "home": null,
@@ -1469,7 +1474,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-01T20:00:00Z",
+      "utcDate": "2026-07-02T00:00:00Z",
       "home": {
        "teamId": "BEL",
        "name": "Belgium",
@@ -1544,14 +1549,9 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T22:00:00Z",
+      "utcDate": "2026-07-03T18:00:00Z",
       "home": {
-       "teamId": "ARG",
-       "name": "Argentina",
-       "drawnBy": {
-        "name": "Martin",
-        "colour": "#ffe119"
-       }
+       "label": "Winner Group J"
       },
       "away": {
        "teamId": "CPV",
@@ -1569,7 +1569,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-04T01:30:00Z",
+      "utcDate": "2026-07-03T22:00:00Z",
       "home": {
        "label": "Winner Group K"
       },
@@ -1584,7 +1584,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T18:00:00Z",
+      "utcDate": "2026-07-04T01:30:00Z",
       "home": {
        "teamId": "AUS",
        "name": "Australia",
@@ -1594,11 +1594,11 @@
        }
       },
       "away": {
-       "teamId": "IRN",
-       "name": "Iran",
+       "teamId": "EGY",
+       "name": "Egypt",
        "drawnBy": {
-        "name": "Adam",
-        "colour": "#f032e6"
+        "name": "MA",
+        "colour": "#4363d8"
        }
       },
       "score": {
@@ -2174,51 +2174,6 @@
    "rank": 5
   },
   {
-   "name": "Ollie",
-   "colour": "#bcf60c",
-   "teams": [
-    {
-     "teamId": "BEL",
-     "name": "Belgium",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "COL",
-     "name": "Colombia",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "CRO",
-     "name": "Croatia",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "QAT",
-     "name": "Qatar",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "IRQ",
-     "name": "Iraq",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    }
-   ],
-   "aliveCount": 4,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 5
-  },
-  {
    "name": "Adam",
    "colour": "#f032e6",
    "teams": [
@@ -2261,7 +2216,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 8
+   "rank": 7
   },
   {
    "name": "Martin",
@@ -2306,7 +2261,52 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 8
+   "rank": 7
+  },
+  {
+   "name": "Ollie",
+   "colour": "#bcf60c",
+   "teams": [
+    {
+     "teamId": "BEL",
+     "name": "Belgium",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "COL",
+     "name": "Colombia",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "CRO",
+     "name": "Croatia",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "QAT",
+     "name": "Qatar",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "IRQ",
+     "name": "Iraq",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 3,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 7
   }
  ],
  "topScorers": [
@@ -2983,9 +2983,9 @@
     "Nicola",
     "LA",
     "Neil",
-    "Ollie",
     "Adam",
-    "Martin"
+    "Martin",
+    "Ollie"
    ]
   },
   "runnerUp": {
@@ -2999,9 +2999,9 @@
     "Nicola",
     "LA",
     "Neil",
-    "Ollie",
     "Adam",
-    "Martin"
+    "Martin",
+    "Ollie"
    ]
   },
   "topScorer": {
