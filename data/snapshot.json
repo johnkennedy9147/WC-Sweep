@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-28T01:27:18.084Z",
- "sourceLastUpdated": "2026-06-28T01:27:10Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-28T01:37:20.697Z",
+ "sourceLastUpdated": "2026-06-28T01:36:57Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-28T02:00:00Z",
  "groups": [
   {
@@ -826,7 +826,7 @@
   },
   {
    "id": "K",
-   "complete": false,
+   "complete": true,
    "standings": [
     {
      "teamId": "COL",
@@ -845,7 +845,7 @@
      "points": 7,
      "undetermined": false,
      "position": 1,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "POR",
@@ -864,7 +864,7 @@
      "points": 5,
      "undetermined": false,
      "position": 2,
-     "status": "projected"
+     "status": "through"
     },
     {
      "teamId": "COD",
@@ -877,9 +877,9 @@
      "won": 1,
      "drawn": 1,
      "lost": 1,
-     "gf": 3,
+     "gf": 4,
      "ga": 3,
-     "gd": 0,
+     "gd": 1,
      "points": 4,
      "undetermined": false,
      "position": 3,
@@ -897,12 +897,12 @@
      "drawn": 0,
      "lost": 3,
      "gf": 2,
-     "ga": 10,
-     "gd": -8,
+     "ga": 11,
+     "gd": -9,
      "points": 0,
      "undetermined": false,
      "position": 4,
-     "status": "alive"
+     "status": "out"
     }
    ]
   },
@@ -992,6 +992,29 @@
  "thirdPlace": {
   "rows": [
    {
+    "group": "K",
+    "groupComplete": true,
+    "identityUndetermined": false,
+    "teamId": "COD",
+    "name": "DR Congo",
+    "drawnBy": {
+     "name": "Nicola",
+     "colour": "#3cb44b"
+    },
+    "played": 3,
+    "won": 1,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 4,
+    "ga": 3,
+    "gd": 1,
+    "points": 4,
+    "undetermined": false,
+    "position": 3,
+    "rank": 1,
+    "qualified": true
+   },
+   {
     "group": "F",
     "groupComplete": true,
     "identityUndetermined": false,
@@ -1007,29 +1030,6 @@
     "lost": 1,
     "gf": 7,
     "ga": 7,
-    "gd": 0,
-    "points": 4,
-    "undetermined": false,
-    "position": 3,
-    "rank": 1,
-    "qualified": true
-   },
-   {
-    "group": "K",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "COD",
-    "name": "DR Congo",
-    "drawnBy": {
-     "name": "Nicola",
-     "colour": "#3cb44b"
-    },
-    "played": 3,
-    "won": 1,
-    "drawn": 1,
-    "lost": 1,
-    "gf": 3,
-    "ga": 3,
     "gd": 0,
     "points": 4,
     "undetermined": false,
@@ -1506,7 +1506,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-02T19:00:00Z",
       "home": {
-       "label": "Runner-up Group K"
+       "teamId": "POR",
+       "name": "Portugal",
+       "drawnBy": {
+        "name": "Nicola",
+        "colour": "#3cb44b"
+       }
       },
       "away": {
        "teamId": "CRO",
@@ -1591,7 +1596,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-04T01:30:00Z",
       "home": {
-       "label": "Winner Group K"
+       "teamId": "COL",
+       "name": "Colombia",
+       "drawnBy": {
+        "name": "Ollie",
+        "colour": "#bcf60c"
+       }
       },
       "away": {
        "label": "Best 3rd place D/E/I/J/L"
@@ -2059,51 +2069,6 @@
    "rank": 3
   },
   {
-   "name": "LA",
-   "colour": "#911eb4",
-   "teams": [
-    {
-     "teamId": "NED",
-     "name": "Netherlands",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "AUS",
-     "name": "Australia",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "KSA",
-     "name": "Saudi Arabia",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "UZB",
-     "name": "Uzbekistan",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "JOR",
-     "name": "Jordan",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    }
-   ],
-   "aliveCount": 4,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 4
-  },
-  {
    "name": "Neil",
    "colour": "#f58231",
    "teams": [
@@ -2236,7 +2201,52 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 7
+   "rank": 6
+  },
+  {
+   "name": "LA",
+   "colour": "#911eb4",
+   "teams": [
+    {
+     "teamId": "NED",
+     "name": "Netherlands",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "AUS",
+     "name": "Australia",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "KSA",
+     "name": "Saudi Arabia",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "UZB",
+     "name": "Uzbekistan",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "JOR",
+     "name": "Jordan",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    }
+   ],
+   "aliveCount": 3,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 6
   },
   {
    "name": "Martin",
@@ -2281,7 +2291,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 7
+   "rank": 6
   },
   {
    "name": "Ollie",
@@ -2326,7 +2336,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 7
+   "rank": 6
   }
  ],
  "topScorers": [
@@ -3000,10 +3010,10 @@
     "MA",
     "Paolo",
     "JK",
-    "LA",
     "Neil",
     "Nicola",
     "Adam",
+    "LA",
     "Martin",
     "Ollie"
    ]
@@ -3016,10 +3026,10 @@
     "MA",
     "Paolo",
     "JK",
-    "LA",
     "Neil",
     "Nicola",
     "Adam",
+    "LA",
     "Martin",
     "Ollie"
    ]
