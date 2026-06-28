@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-28T00:37:20.171Z",
- "sourceLastUpdated": "2026-06-28T00:29:45Z",
+ "fetchedAt": "2026-06-28T00:47:23.515Z",
+ "sourceLastUpdated": "2026-06-28T00:47:10Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-28T02:00:00Z",
  "groups": [
@@ -621,9 +621,12 @@
      "status": "through"
     },
     {
-     "teamId": "URY",
+     "teamId": "URU",
      "name": "Uruguay",
-     "drawnBy": null,
+     "drawnBy": {
+      "name": "Nicola",
+      "colour": "#3cb44b"
+     },
      "played": 3,
      "won": 0,
      "drawn": 2,
@@ -653,25 +656,6 @@
      "points": 2,
      "undetermined": false,
      "position": 4,
-     "status": "out"
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "drawnBy": {
-      "name": "Nicola",
-      "colour": "#3cb44b"
-     },
-     "played": 0,
-     "won": 0,
-     "drawn": 0,
-     "lost": 0,
-     "gf": 0,
-     "ga": 0,
-     "gd": 0,
-     "points": 0,
-     "undetermined": false,
-     "position": 5,
      "status": "out"
     }
    ]
@@ -1264,9 +1248,12 @@
     "group": "H",
     "groupComplete": true,
     "identityUndetermined": false,
-    "teamId": "URY",
+    "teamId": "URU",
     "name": "Uruguay",
-    "drawnBy": null,
+    "drawnBy": {
+     "name": "Nicola",
+     "colour": "#3cb44b"
+    },
     "played": 3,
     "won": 0,
     "drawn": 2,
@@ -2152,6 +2139,51 @@
    "rank": 4
   },
   {
+   "name": "Nicola",
+   "colour": "#3cb44b",
+   "teams": [
+    {
+     "teamId": "POR",
+     "name": "Portugal",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "URU",
+     "name": "Uruguay",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "PAN",
+     "name": "Panama",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "GHA",
+     "name": "Ghana",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "COD",
+     "name": "DR Congo",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    }
+   ],
+   "aliveCount": 4,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 4
+  },
+  {
    "name": "Adam",
    "colour": "#f032e6",
    "teams": [
@@ -2194,7 +2226,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 6
+   "rank": 7
   },
   {
    "name": "Martin",
@@ -2239,52 +2271,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 6
-  },
-  {
-   "name": "Nicola",
-   "colour": "#3cb44b",
-   "teams": [
-    {
-     "teamId": "POR",
-     "name": "Portugal",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "PAN",
-     "name": "Panama",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "GHA",
-     "name": "Ghana",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "COD",
-     "name": "DR Congo",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    }
-   ],
-   "aliveCount": 3,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 6
+   "rank": 7
   },
   {
    "name": "Ollie",
@@ -2329,7 +2316,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 6
+   "rank": 7
   }
  ],
  "topScorers": [
@@ -3005,9 +2992,9 @@
     "JK",
     "LA",
     "Neil",
+    "Nicola",
     "Adam",
     "Martin",
-    "Nicola",
     "Ollie"
    ]
   },
@@ -3021,9 +3008,9 @@
     "JK",
     "LA",
     "Neil",
+    "Nicola",
     "Adam",
     "Martin",
-    "Nicola",
     "Ollie"
    ]
   },
