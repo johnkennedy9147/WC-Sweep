@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-28T00:17:33.393Z",
- "sourceLastUpdated": "2026-06-28T00:17:22Z",
- "liveNow": false,
+ "fetchedAt": "2026-06-28T00:27:18.964Z",
+ "sourceLastUpdated": "2026-06-28T00:26:45Z",
+ "liveNow": true,
  "nextKickoffUtc": "2026-06-27T23:30:00Z",
  "groups": [
   {
@@ -835,14 +835,14 @@
       "name": "Ollie",
       "colour": "#bcf60c"
      },
-     "played": 2,
+     "played": 3,
      "won": 2,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "gf": 4,
      "ga": 1,
      "gd": 3,
-     "points": 6,
+     "points": 7,
      "undetermined": false,
      "position": 1,
      "status": "projected"
@@ -854,14 +854,14 @@
       "name": "Nicola",
       "colour": "#3cb44b"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 1,
+     "drawn": 2,
      "lost": 0,
      "gf": 6,
      "ga": 1,
      "gd": 5,
-     "points": 4,
+     "points": 5,
      "undetermined": false,
      "position": 2,
      "status": "projected"
