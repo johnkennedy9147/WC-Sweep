@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-28T03:37:20.259Z",
- "sourceLastUpdated": "2026-06-28T03:37:07Z",
+ "fetchedAt": "2026-06-28T03:47:13.319Z",
+ "sourceLastUpdated": "2026-06-28T03:47:07Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-28T19:00:00Z",
  "groups": [
@@ -757,9 +757,9 @@
      "won": 3,
      "drawn": 0,
      "lost": 0,
-     "gf": 7,
+     "gf": 8,
      "ga": 1,
-     "gd": 6,
+     "gd": 7,
      "points": 9,
      "undetermined": false,
      "position": 1,
@@ -815,8 +815,8 @@
      "drawn": 0,
      "lost": 3,
      "gf": 3,
-     "ga": 7,
-     "gd": -4,
+     "ga": 8,
+     "gd": -5,
      "points": 0,
      "undetermined": false,
      "position": 4,
@@ -2344,7 +2344,7 @@
    "playerName": "Lionel Messi",
    "teamId": "ARG",
    "teamName": "Argentina",
-   "goals": 5,
+   "goals": 6,
    "drawnBy": {
     "name": "Martin",
     "colour": "#ffe119"
