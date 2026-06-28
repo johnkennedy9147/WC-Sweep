@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-28T05:17:24.118Z",
- "sourceLastUpdated": "2026-06-28T04:36:33Z",
+ "fetchedAt": "2026-06-28T05:27:18.848Z",
+ "sourceLastUpdated": "2026-06-28T05:22:13Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-28T19:00:00Z",
  "groups": [
@@ -1287,7 +1287,7 @@
     "name": "Round of 32",
     "matches": [
      {
-      "status": "TIMED",
+      "status": "2026-06-29 19:00:00Z",
       "utcDate": "2026-06-28T19:00:00Z",
       "home": {
        "teamId": "RSA",
