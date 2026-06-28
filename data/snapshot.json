@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-28T02:47:18.665Z",
- "sourceLastUpdated": "2026-06-28T02:46:45Z",
+ "fetchedAt": "2026-06-28T02:57:19.791Z",
+ "sourceLastUpdated": "2026-06-28T02:57:06Z",
  "liveNow": true,
- "nextKickoffUtc": "2026-06-28T02:00:00Z",
+ "nextKickoffUtc": "2026-06-28T19:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -555,7 +555,7 @@
      "points": 3,
      "undetermined": false,
      "position": 3,
-     "status": "thirds"
+     "status": "alive"
     },
     {
      "teamId": "NZL",
@@ -772,14 +772,14 @@
       "name": "Martin",
       "colour": "#ffe119"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
-     "gf": 3,
-     "ga": 3,
+     "gf": 4,
+     "ga": 4,
      "gd": 0,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 2,
      "status": "projected"
@@ -791,17 +791,17 @@
       "name": "MA",
       "colour": "#4363d8"
      },
-     "played": 2,
+     "played": 3,
      "won": 1,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 1,
-     "gf": 2,
-     "ga": 4,
+     "gf": 3,
+     "ga": 5,
      "gd": -2,
-     "points": 3,
+     "points": 4,
      "undetermined": false,
      "position": 3,
-     "status": "alive"
+     "status": "thirds"
     },
     {
      "teamId": "JOR",
@@ -1107,6 +1107,29 @@
     "qualified": true
    },
    {
+    "group": "J",
+    "groupComplete": false,
+    "identityUndetermined": false,
+    "teamId": "ALG",
+    "name": "Algeria",
+    "drawnBy": {
+     "name": "MA",
+     "colour": "#4363d8"
+    },
+    "played": 3,
+    "won": 1,
+    "drawn": 1,
+    "lost": 1,
+    "gf": 3,
+    "ga": 5,
+    "gd": -2,
+    "points": 4,
+    "undetermined": false,
+    "position": 3,
+    "rank": 6,
+    "qualified": true
+   },
+   {
     "group": "D",
     "groupComplete": true,
     "identityUndetermined": false,
@@ -1126,7 +1149,7 @@
     "points": 4,
     "undetermined": false,
     "position": 3,
-    "rank": 6,
+    "rank": 7,
     "qualified": true
    },
    {
@@ -1149,7 +1172,7 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 7,
+    "rank": 8,
     "qualified": true
    },
    {
@@ -1172,8 +1195,8 @@
     "points": 3,
     "undetermined": false,
     "position": 3,
-    "rank": 8,
-    "qualified": true
+    "rank": 9,
+    "qualified": false
    },
    {
     "group": "A",
@@ -1192,29 +1215,6 @@
     "gf": 2,
     "ga": 3,
     "gd": -1,
-    "points": 3,
-    "undetermined": false,
-    "position": 3,
-    "rank": 9,
-    "qualified": false
-   },
-   {
-    "group": "J",
-    "groupComplete": false,
-    "identityUndetermined": false,
-    "teamId": "ALG",
-    "name": "Algeria",
-    "drawnBy": {
-     "name": "MA",
-     "colour": "#4363d8"
-    },
-    "played": 2,
-    "won": 1,
-    "drawn": 0,
-    "lost": 1,
-    "gf": 2,
-    "ga": 4,
-    "gd": -2,
     "points": 3,
     "undetermined": false,
     "position": 3,
