@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-28T04:27:24.434Z",
- "sourceLastUpdated": "2026-06-28T04:07:40Z",
+ "fetchedAt": "2026-06-28T04:37:23.431Z",
+ "sourceLastUpdated": "2026-06-28T04:36:33Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-28T19:00:00Z",
  "groups": [
@@ -1313,7 +1313,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T17:00:00Z",
+      "utcDate": "2026-06-29T20:30:00Z",
       "home": {
        "teamId": "GER",
        "name": "Germany",
@@ -1338,7 +1338,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-29T20:30:00Z",
+      "utcDate": "2026-06-30T01:00:00Z",
       "home": {
        "teamId": "NED",
        "name": "Netherlands",
@@ -1363,7 +1363,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-30T01:00:00Z",
+      "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "BRA",
        "name": "Brazil",
@@ -1388,7 +1388,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-30T17:00:00Z",
+      "utcDate": "2026-06-30T21:00:00Z",
       "home": {
        "teamId": "FRA",
        "name": "France",
@@ -1413,10 +1413,10 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-06-30T21:00:00Z",
+      "utcDate": "2026-06-30T17:00:00Z",
       "home": {
        "teamId": "CIV",
-       "name": "Côte d'Ivoire",
+       "name": "Ivory Coast",
        "drawnBy": {
         "name": "Neil",
         "colour": "#f58231"
@@ -1488,10 +1488,10 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-01T20:00:00Z",
+      "utcDate": "2026-07-02T00:00:00Z",
       "home": {
        "teamId": "USA",
-       "name": "United States",
+       "name": "USA",
        "drawnBy": {
         "name": "Paolo",
         "colour": "#e6194b"
@@ -1499,7 +1499,7 @@
       },
       "away": {
        "teamId": "BIH",
-       "name": "Bosnia and Herzegovina",
+       "name": "Bosnia-H.",
        "drawnBy": {
         "name": "MA",
         "colour": "#4363d8"
@@ -1513,7 +1513,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-02T00:00:00Z",
+      "utcDate": "2026-07-01T20:00:00Z",
       "home": {
        "teamId": "BEL",
        "name": "Belgium",
@@ -1613,7 +1613,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T18:00:00Z",
+      "utcDate": "2026-07-03T22:00:00Z",
       "home": {
        "teamId": "ARG",
        "name": "Argentina",
@@ -1638,7 +1638,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-03T22:00:00Z",
+      "utcDate": "2026-07-04T01:30:00Z",
       "home": {
        "teamId": "COL",
        "name": "Colombia",
@@ -1663,7 +1663,7 @@
      },
      {
       "status": "TIMED",
-      "utcDate": "2026-07-04T01:30:00Z",
+      "utcDate": "2026-07-03T18:00:00Z",
       "home": {
        "teamId": "AUS",
        "name": "Australia",
