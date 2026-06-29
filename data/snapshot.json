@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-29T19:07:31.294Z",
- "sourceLastUpdated": "2026-06-29T19:06:49Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-29T19:17:30.267Z",
+ "sourceLastUpdated": "2026-06-29T19:09:03Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-06-29T20:30:00Z",
  "groups": [
   {
@@ -1362,7 +1362,7 @@
       "winner": null
      },
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "BRA",
@@ -1967,65 +1967,6 @@
  },
  "leaderboard": [
   {
-   "name": "Paolo",
-   "colour": "#e6194b",
-   "teams": [
-    {
-     "teamId": "MEX",
-     "name": "Mexico",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "USA",
-     "name": "United States",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "ESP",
-     "name": "Spain",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "JPN",
-     "name": "Japan",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "NOR",
-     "name": "Norway",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "SWE",
-     "name": "Sweden",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "CZE",
-     "name": "Czech Republic",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    }
-   ],
-   "aliveCount": 6,
-   "total": 7,
-   "bestFinish": 9,
-   "rank": 1
-  },
-  {
    "name": "MA",
    "colour": "#4363d8",
    "teams": [
@@ -2075,7 +2016,66 @@
    "aliveCount": 5,
    "total": 6,
    "bestFinish": 9,
-   "rank": 2
+   "rank": 1
+  },
+  {
+   "name": "Paolo",
+   "colour": "#e6194b",
+   "teams": [
+    {
+     "teamId": "MEX",
+     "name": "Mexico",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "USA",
+     "name": "United States",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "ESP",
+     "name": "Spain",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "JPN",
+     "name": "Japan",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "NOR",
+     "name": "Norway",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "SWE",
+     "name": "Sweden",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "CZE",
+     "name": "Czech Republic",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 5,
+   "total": 7,
+   "bestFinish": 9,
+   "rank": 1
   },
   {
    "name": "JK",
@@ -3061,8 +3061,8 @@
    "holder": null,
    "decided": false,
    "inTheRunning": [
-    "Paolo",
     "MA",
+    "Paolo",
     "JK",
     "Neil",
     "Nicola",
@@ -3077,8 +3077,8 @@
    "holder": null,
    "decided": false,
    "inTheRunning": [
-    "Paolo",
     "MA",
+    "Paolo",
     "JK",
     "Neil",
     "Nicola",
