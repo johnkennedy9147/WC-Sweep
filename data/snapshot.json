@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-29T15:07:26.299Z",
- "sourceLastUpdated": "2026-06-29T08:25:01Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-29T17:00:00Z",
+ "fetchedAt": "2026-06-29T17:07:21.892Z",
+ "sourceLastUpdated": "2026-06-29T17:07:13Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-29T20:30:00Z",
  "groups": [
   {
    "id": "A",
@@ -1362,7 +1362,7 @@
       "winner": null
      },
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "BRA",
@@ -1381,8 +1381,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
