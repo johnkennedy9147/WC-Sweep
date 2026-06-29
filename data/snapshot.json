@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-29T03:27:25.923Z",
- "sourceLastUpdated": "2026-06-29T03:25:00Z",
+ "fetchedAt": "2026-06-29T06:17:17.057Z",
+ "sourceLastUpdated": "2026-06-29T05:20:12Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-29T17:00:00Z",
  "groups": [
@@ -1696,7 +1696,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-04T17:00:00Z",
       "home": {
-       "label": "R32 winner"
+       "teamId": "CAN",
+       "name": "Canada",
+       "drawnBy": {
+        "name": "MA",
+        "colour": "#4363d8"
+       }
       },
       "away": {
        "label": "R32 winner"
