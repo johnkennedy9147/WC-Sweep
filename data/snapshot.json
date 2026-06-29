@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-29T22:37:29.975Z",
- "sourceLastUpdated": "2026-06-29T22:34:45Z",
+ "fetchedAt": "2026-06-29T22:47:25.373Z",
+ "sourceLastUpdated": "2026-06-29T22:47:21Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-30T01:00:00Z",
  "groups": [
@@ -1312,7 +1312,7 @@
       "winner": "AWAY"
      },
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-06-29T20:30:00Z",
       "home": {
        "teamId": "GER",
