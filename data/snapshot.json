@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-29T17:57:38.431Z",
- "sourceLastUpdated": "2026-06-29T17:55:18Z",
+ "fetchedAt": "2026-06-29T18:17:34.864Z",
+ "sourceLastUpdated": "2026-06-29T18:17:30Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-29T20:30:00Z",
  "groups": [
@@ -1362,7 +1362,7 @@
       "winner": null
      },
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-06-29T17:00:00Z",
       "home": {
        "teamId": "BRA",
