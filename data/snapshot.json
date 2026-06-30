@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-30T22:37:31.017Z",
- "sourceLastUpdated": "2026-06-30T22:37:30Z",
+ "fetchedAt": "2026-06-30T22:47:14.987Z",
+ "sourceLastUpdated": "2026-06-30T22:46:30Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-01T01:00:00Z",
  "groups": [
@@ -1406,7 +1406,7 @@
        }
       },
       "score": {
-       "home": 2,
+       "home": 3,
        "away": 0
       },
       "winner": "HOME"
