@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-30T00:27:14.258Z",
- "sourceLastUpdated": "2026-06-30T00:27:13Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-30T01:00:00Z",
+ "fetchedAt": "2026-06-30T01:07:11.380Z",
+ "sourceLastUpdated": "2026-06-30T01:07:09Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-06-30T17:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1337,7 +1337,7 @@
       "winner": null
      },
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-06-30T01:00:00Z",
       "home": {
        "teamId": "NED",
@@ -1356,8 +1356,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
