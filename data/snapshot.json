@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-30T18:37:34.155Z",
- "sourceLastUpdated": "2026-06-30T18:37:06Z",
+ "fetchedAt": "2026-06-30T18:47:26.363Z",
+ "sourceLastUpdated": "2026-06-30T18:47:07Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-30T21:00:00Z",
  "groups": [
@@ -1431,10 +1431,10 @@
        }
       },
       "score": {
-       "home": 0,
+       "home": 1,
        "away": 1
       },
-      "winner": "AWAY"
+      "winner": null
      },
      {
       "status": "TIMED",
@@ -2424,7 +2424,7 @@
    "playerName": "Erling Haaland",
    "teamId": "NOR",
    "teamName": "Norway",
-   "goals": 4,
+   "goals": 5,
    "drawnBy": {
     "name": "Paolo",
     "colour": "#e6194b"
@@ -2440,7 +2440,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Ousmane Dembélé",
@@ -2451,7 +2451,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Vinicius Junior",
@@ -2462,7 +2462,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Brian Brobbey",
