@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-06-30T22:57:20.551Z",
- "sourceLastUpdated": "2026-06-30T22:57:18Z",
- "liveNow": true,
+ "fetchedAt": "2026-06-30T23:07:23.050Z",
+ "sourceLastUpdated": "2026-06-30T23:00:18Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-01T01:00:00Z",
  "groups": [
   {
@@ -1387,7 +1387,7 @@
       "winner": "HOME"
      },
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-06-30T21:00:00Z",
       "home": {
        "teamId": "FRA",
@@ -2075,8 +2075,8 @@
     {
      "teamId": "SWE",
      "name": "Sweden",
-     "alive": true,
-     "exit": null,
+     "alive": false,
+     "exit": "Round of 32",
      "finish": null
     },
     {
@@ -2087,10 +2087,10 @@
      "finish": null
     }
    ],
-   "aliveCount": 5,
+   "aliveCount": 4,
    "total": 7,
    "bestFinish": 9,
-   "rank": 1
+   "rank": 2
   },
   {
    "name": "JK",
