@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-30T17:47:17.551Z",
- "sourceLastUpdated": "2026-06-30T17:46:54Z",
+ "fetchedAt": "2026-06-30T17:57:44.818Z",
+ "sourceLastUpdated": "2026-06-30T17:55:54Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-30T21:00:00Z",
  "groups": [
@@ -1412,7 +1412,7 @@
       "winner": null
      },
      {
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "utcDate": "2026-06-30T17:00:00Z",
       "home": {
        "teamId": "CIV",
