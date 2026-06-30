@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-06-30T20:27:33.823Z",
+ "fetchedAt": "2026-06-30T20:37:14.436Z",
  "sourceLastUpdated": "2026-06-30T19:04:39Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-06-30T21:00:00Z",
@@ -2424,7 +2424,7 @@
    "playerName": "Erling Haaland",
    "teamId": "NOR",
    "teamName": "Norway",
-   "goals": 4,
+   "goals": 5,
    "drawnBy": {
     "name": "Paolo",
     "colour": "#e6194b"
@@ -2440,7 +2440,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Ousmane Dembélé",
@@ -2451,7 +2451,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Vinicius Junior",
@@ -2462,7 +2462,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Brian Brobbey",
@@ -2595,6 +2595,17 @@
     "colour": "#3cb44b"
    },
    "rank": 6
+  },
+  {
+   "playerName": "Amad Diallo",
+   "teamId": "CIV",
+   "teamName": "Ivory Coast",
+   "goals": 2,
+   "drawnBy": {
+    "name": "Neil",
+    "colour": "#f58231"
+   },
+   "rank": 18
   },
   {
    "playerName": "Anthony Elanga",
@@ -2836,18 +2847,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 39
-  },
-  {
-   "playerName": "Amad Diallo",
-   "teamId": "CIV",
-   "teamName": "Ivory Coast",
-   "goals": 1,
-   "drawnBy": {
-    "name": "Neil",
-    "colour": "#f58231"
-   },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Boualem Khoukhi",
@@ -2858,7 +2858,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Breel Embolo",
@@ -2869,7 +2869,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Connor Metcalfe",
@@ -2880,7 +2880,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Felix Kalu Nmecha",
@@ -2891,7 +2891,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Gio Reyna",
@@ -2902,7 +2902,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Hyun-Gyu Oh",
@@ -2913,7 +2913,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "In-beom Hwang",
@@ -2924,7 +2924,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Jamal Musiala",
@@ -2935,7 +2935,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "John McGinn",
@@ -2946,7 +2946,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Jovo Lukić",
@@ -2957,7 +2957,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Keito Nakamura",
@@ -2968,7 +2968,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Ladislav Krejčí",
@@ -2979,7 +2979,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Livano Comenencia",
@@ -2990,7 +2990,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Mauricio",
@@ -3001,7 +3001,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Nathaniel Brown",
@@ -3012,7 +3012,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Nestor Irankunda",
@@ -3023,7 +3023,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Nico Schlotterbeck",
@@ -3034,7 +3034,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Omar Rekik",
@@ -3045,7 +3045,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Raúl Jiménez",
@@ -3056,7 +3056,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 39
+   "rank": 40
   },
   {
    "playerName": "Virgil van Dijk",
@@ -3067,7 +3067,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 39
+   "rank": 40
   }
  ],
  "prizes": {
