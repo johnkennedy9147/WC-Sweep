@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-30T03:17:16.506Z",
- "sourceLastUpdated": "2026-06-30T03:16:40Z",
+ "fetchedAt": "2026-06-30T03:27:16.889Z",
+ "sourceLastUpdated": "2026-06-30T03:25:09Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-06-30T17:00:00Z",
  "groups": [
@@ -1337,7 +1337,7 @@
       "winner": null
      },
      {
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "utcDate": "2026-06-30T01:00:00Z",
       "home": {
        "teamId": "NED",
