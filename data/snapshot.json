@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-30T20:37:14.436Z",
- "sourceLastUpdated": "2026-06-30T19:04:39Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-06-30T21:00:00Z",
+ "fetchedAt": "2026-06-30T21:07:26.720Z",
+ "sourceLastUpdated": "2026-06-30T21:07:09Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-07-01T01:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1387,7 +1387,7 @@
       "winner": "HOME"
      },
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-06-30T21:00:00Z",
       "home": {
        "teamId": "FRA",
@@ -1406,8 +1406,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
