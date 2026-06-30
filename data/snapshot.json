@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-06-30T21:47:14.566Z",
- "sourceLastUpdated": "2026-06-30T21:47:09Z",
+ "fetchedAt": "2026-06-30T21:57:35.377Z",
+ "sourceLastUpdated": "2026-06-30T21:56:06Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-01T01:00:00Z",
  "groups": [
@@ -1387,7 +1387,7 @@
       "winner": "HOME"
      },
      {
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "utcDate": "2026-06-30T21:00:00Z",
       "home": {
        "teamId": "FRA",
@@ -2435,12 +2435,12 @@
    "playerName": "Kylian Mbappé",
    "teamId": "FRA",
    "teamName": "France",
-   "goals": 4,
+   "goals": 5,
    "drawnBy": {
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 3
+   "rank": 2
   },
   {
    "playerName": "Ousmane Dembélé",
@@ -2451,7 +2451,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Vinicius Junior",
@@ -2462,7 +2462,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Brian Brobbey",
