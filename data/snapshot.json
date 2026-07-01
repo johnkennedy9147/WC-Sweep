@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-01T22:07:18.993Z",
- "sourceLastUpdated": "2026-07-01T22:05:48Z",
+ "fetchedAt": "2026-07-01T22:17:32.362Z",
+ "sourceLastUpdated": "2026-07-01T22:17:08Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-02T00:00:00Z",
  "groups": [
@@ -1512,7 +1512,7 @@
       "winner": null
      },
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-01T20:00:00Z",
       "home": {
        "teamId": "BEL",
