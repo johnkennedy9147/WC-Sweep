@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-01T18:07:29.554Z",
- "sourceLastUpdated": "2026-07-01T18:06:21Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-07-01T20:00:00Z",
+ "fetchedAt": "2026-07-01T20:07:25.673Z",
+ "sourceLastUpdated": "2026-07-01T20:06:45Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-07-02T00:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1512,7 +1512,7 @@
       "winner": null
      },
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-01T20:00:00Z",
       "home": {
        "teamId": "BEL",
@@ -1531,8 +1531,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
