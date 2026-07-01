@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-01T01:37:16.712Z",
- "sourceLastUpdated": "2026-07-01T01:05:45Z",
- "liveNow": true,
- "nextKickoffUtc": "2026-07-01T16:00:00Z",
+ "fetchedAt": "2026-07-01T02:07:22.630Z",
+ "sourceLastUpdated": "2026-07-01T02:06:49Z",
+ "liveNow": false,
+ "nextKickoffUtc": "2026-06-30T17:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1412,7 +1412,7 @@
       "winner": "HOME"
      },
      {
-      "status": "FINISHED",
+      "status": "TIMED",
       "utcDate": "2026-06-30T17:00:00Z",
       "home": {
        "teamId": "CIV",
@@ -1431,13 +1431,13 @@
        }
       },
       "score": {
-       "home": 1,
-       "away": 2
+       "home": null,
+       "away": null
       },
-      "winner": "AWAY"
+      "winner": null
      },
      {
-      "status": "IN_PLAY",
+      "status": "LIVE",
       "utcDate": "2026-07-01T01:00:00Z",
       "home": {
        "teamId": "MEX",
@@ -2034,6 +2034,51 @@
    "rank": 1
   },
   {
+   "name": "Neil",
+   "colour": "#f58231",
+   "teams": [
+    {
+     "teamId": "FRA",
+     "name": "France",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "MAR",
+     "name": "Morocco",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "PAR",
+     "name": "Paraguay",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "CIV",
+     "name": "Côte d'Ivoire",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "TUR",
+     "name": "Türkiye",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 4,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 2
+  },
+  {
    "name": "Paolo",
    "colour": "#e6194b",
    "teams": [
@@ -2135,52 +2180,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 3
-  },
-  {
-   "name": "Neil",
-   "colour": "#f58231",
-   "teams": [
-    {
-     "teamId": "FRA",
-     "name": "France",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "MAR",
-     "name": "Morocco",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "PAR",
-     "name": "Paraguay",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "CIV",
-     "name": "Côte d'Ivoire",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "TUR",
-     "name": "Türkiye",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    }
-   ],
-   "aliveCount": 3,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 3
+   "rank": 4
   },
   {
    "name": "Nicola",
@@ -2225,7 +2225,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 3
+   "rank": 4
   },
   {
    "name": "Ollie",
@@ -2270,7 +2270,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 3
+   "rank": 4
   },
   {
    "name": "Adam",
@@ -3077,9 +3077,9 @@
    "decided": false,
    "inTheRunning": [
     "MA",
+    "Neil",
     "Paolo",
     "JK",
-    "Neil",
     "Nicola",
     "Ollie",
     "Adam",
@@ -3093,9 +3093,9 @@
    "decided": false,
    "inTheRunning": [
     "MA",
+    "Neil",
     "Paolo",
     "JK",
-    "Neil",
     "Nicola",
     "Ollie",
     "Adam",
