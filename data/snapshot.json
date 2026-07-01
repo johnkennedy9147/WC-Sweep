@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-01T06:07:18.624Z",
- "sourceLastUpdated": "2026-07-01T04:07:36Z",
+ "fetchedAt": "2026-07-01T06:17:28.247Z",
+ "sourceLastUpdated": "2026-07-01T06:02:36Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-07-01T16:00:00Z",
  "groups": [
@@ -1729,7 +1729,12 @@
        }
       },
       "away": {
-       "label": "R32 winner"
+       "teamId": "FRA",
+       "name": "France",
+       "drawnBy": {
+        "name": "Neil",
+        "colour": "#f58231"
+       }
       },
       "score": {
        "home": null,
@@ -1749,7 +1754,12 @@
        }
       },
       "away": {
-       "label": "R32 winner"
+       "teamId": "NOR",
+       "name": "Norway",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "score": {
        "home": null,
