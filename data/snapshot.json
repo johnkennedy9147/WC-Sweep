@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-01T17:47:25.672Z",
- "sourceLastUpdated": "2026-07-01T17:47:15Z",
+ "fetchedAt": "2026-07-01T17:57:28.013Z",
+ "sourceLastUpdated": "2026-07-01T17:57:16Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-01T20:00:00Z",
  "groups": [
@@ -1481,10 +1481,10 @@
        }
       },
       "score": {
-       "home": 1,
+       "home": 2,
        "away": 1
       },
-      "winner": null
+      "winner": "HOME"
      },
      {
       "status": "TIMED",
@@ -2456,12 +2456,12 @@
    "playerName": "Harry Kane",
    "teamId": "ENG",
    "teamName": "England",
-   "goals": 4,
+   "goals": 5,
    "drawnBy": {
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 4
+   "rank": 3
   },
   {
    "playerName": "Ousmane Dembélé",
@@ -2472,7 +2472,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Vinicius Junior",
@@ -2483,7 +2483,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Brian Brobbey",
