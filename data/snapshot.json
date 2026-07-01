@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-01T22:47:16.252Z",
- "sourceLastUpdated": "2026-07-01T22:47:09Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-01T22:57:38.837Z",
+ "sourceLastUpdated": "2026-07-01T22:54:56Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-02T00:00:00Z",
  "groups": [
   {
@@ -1512,7 +1512,7 @@
       "winner": null
      },
      {
-      "status": "PAUSED",
+      "status": "FINISHED",
       "utcDate": "2026-07-01T20:00:00Z",
       "home": {
        "teamId": "BEL",
@@ -1531,10 +1531,10 @@
        }
       },
       "score": {
-       "home": 2,
+       "home": 3,
        "away": 2
       },
-      "winner": null
+      "winner": "HOME"
      },
      {
       "status": "TIMED",
@@ -2238,51 +2238,6 @@
    "rank": 5
   },
   {
-   "name": "JK",
-   "colour": "#46f0f0",
-   "teams": [
-    {
-     "teamId": "GER",
-     "name": "Germany",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "SEN",
-     "name": "Senegal",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "ECU",
-     "name": "Ecuador",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "RSA",
-     "name": "South Africa",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "CPV",
-     "name": "Cape Verde",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    }
-   ],
-   "aliveCount": 2,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 5
-  },
-  {
    "name": "Martin",
    "colour": "#ffe119",
    "teams": [
@@ -2373,6 +2328,51 @@
    "rank": 5
   },
   {
+   "name": "JK",
+   "colour": "#46f0f0",
+   "teams": [
+    {
+     "teamId": "GER",
+     "name": "Germany",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "SEN",
+     "name": "Senegal",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "ECU",
+     "name": "Ecuador",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "RSA",
+     "name": "South Africa",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "CPV",
+     "name": "Cape Verde",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    }
+   ],
+   "aliveCount": 1,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 8
+  },
+  {
    "name": "LA",
    "colour": "#911eb4",
    "teams": [
@@ -2415,7 +2415,7 @@
    "aliveCount": 1,
    "total": 5,
    "bestFinish": 9,
-   "rank": 9
+   "rank": 8
   }
  ],
  "topScorers": [
@@ -3091,9 +3091,9 @@
     "Neil",
     "Ollie",
     "Adam",
-    "JK",
     "Martin",
     "Nicola",
+    "JK",
     "LA"
    ]
   },
@@ -3107,9 +3107,9 @@
     "Neil",
     "Ollie",
     "Adam",
-    "JK",
     "Martin",
     "Nicola",
+    "JK",
     "LA"
    ]
   },
