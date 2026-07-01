@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-01T22:37:15.261Z",
- "sourceLastUpdated": "2026-07-01T22:36:57Z",
+ "fetchedAt": "2026-07-01T22:47:16.252Z",
+ "sourceLastUpdated": "2026-07-01T22:47:09Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-02T00:00:00Z",
  "groups": [
@@ -2893,6 +2893,17 @@
    "rank": 19
   },
   {
+   "playerName": "Youri Tielemans",
+   "teamId": "BEL",
+   "teamName": "Belgium",
+   "goals": 2,
+   "drawnBy": {
+    "name": "Ollie",
+    "colour": "#bcf60c"
+   },
+   "rank": 19
+  },
+  {
    "playerName": "Boualem Khoukhi",
    "teamId": "QAT",
    "teamName": "Qatar",
@@ -2901,7 +2912,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Breel Embolo",
@@ -2912,7 +2923,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Connor Metcalfe",
@@ -2923,7 +2934,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Felix Kalu Nmecha",
@@ -2934,7 +2945,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Gio Reyna",
@@ -2945,7 +2956,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Hyun-Gyu Oh",
@@ -2956,7 +2967,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "In-beom Hwang",
@@ -2967,7 +2978,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Jamal Musiala",
@@ -2978,7 +2989,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "John McGinn",
@@ -2989,7 +3000,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Jovo Lukić",
@@ -3000,7 +3011,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Ladislav Krejčí",
@@ -3011,7 +3022,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Livano Comenencia",
@@ -3022,7 +3033,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Mauricio",
@@ -3033,7 +3044,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Nathaniel Brown",
@@ -3044,7 +3055,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Nestor Irankunda",
@@ -3055,7 +3066,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 44
+   "rank": 45
   },
   {
    "playerName": "Nico Schlotterbeck",
@@ -3066,18 +3077,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 44
-  },
-  {
-   "playerName": "Virgil van Dijk",
-   "teamId": "NED",
-   "teamName": "Netherlands",
-   "goals": 1,
-   "drawnBy": {
-    "name": "LA",
-    "colour": "#911eb4"
-   },
-   "rank": 44
+   "rank": 45
   }
  ],
  "prizes": {
