@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-06-30T23:47:15.434Z",
- "sourceLastUpdated": "2026-06-30T23:00:18Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-07-01T01:00:00Z",
+ "fetchedAt": "2026-07-01T01:07:12.464Z",
+ "sourceLastUpdated": "2026-07-01T01:05:45Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-07-01T16:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1437,7 +1437,7 @@
       "winner": "AWAY"
      },
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-01T01:00:00Z",
       "home": {
        "teamId": "MEX",
@@ -1456,8 +1456,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
