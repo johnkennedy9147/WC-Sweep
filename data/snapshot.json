@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-02T01:07:26.678Z",
- "sourceLastUpdated": "2026-07-02T01:01:21Z",
- "liveNow": true,
- "nextKickoffUtc": "2026-07-02T19:00:00Z",
+ "fetchedAt": "2026-07-02T01:17:18.331Z",
+ "sourceLastUpdated": "2026-07-02T01:17:07Z",
+ "liveNow": false,
+ "nextKickoffUtc": "2026-07-02T00:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1487,7 +1487,7 @@
       "winner": "HOME"
      },
      {
-      "status": "PAUSED",
+      "status": "LIVE",
       "utcDate": "2026-07-02T00:00:00Z",
       "home": {
        "teamId": "USA",
