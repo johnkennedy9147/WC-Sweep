@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-02T21:17:29.390Z",
- "sourceLastUpdated": "2026-07-02T21:08:24Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-07-02T23:00:00Z",
+ "fetchedAt": "2026-07-02T23:07:16.991Z",
+ "sourceLastUpdated": "2026-07-02T23:07:07Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-07-03T03:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1537,7 +1537,7 @@
       "winner": "HOME"
      },
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-02T23:00:00Z",
       "home": {
        "teamId": "POR",
@@ -1556,8 +1556,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
