@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-02T02:07:25.881Z",
- "sourceLastUpdated": "2026-07-02T02:07:08Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-02T02:17:39.334Z",
+ "sourceLastUpdated": "2026-07-02T02:12:45Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-02T19:00:00Z",
  "groups": [
   {
@@ -1487,7 +1487,7 @@
       "winner": "HOME"
      },
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-02T00:00:00Z",
       "home": {
        "teamId": "USA",
@@ -2033,12 +2033,12 @@
     {
      "teamId": "BIH",
      "name": "Bosnia and Herzegovina",
-     "alive": true,
-     "exit": null,
+     "alive": false,
+     "exit": "Round of 32",
      "finish": null
     }
    ],
-   "aliveCount": 5,
+   "aliveCount": 4,
    "total": 6,
    "bestFinish": 9,
    "rank": 1
@@ -2100,7 +2100,7 @@
    "aliveCount": 4,
    "total": 7,
    "bestFinish": 9,
-   "rank": 2
+   "rank": 1
   },
   {
    "name": "Neil",
