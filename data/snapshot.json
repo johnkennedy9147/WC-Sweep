@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-02T19:57:42.264Z",
- "sourceLastUpdated": "2026-07-02T19:56:21Z",
+ "fetchedAt": "2026-07-02T20:17:28.598Z",
+ "sourceLastUpdated": "2026-07-02T20:17:21Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-02T23:00:00Z",
  "groups": [
@@ -1562,7 +1562,7 @@
       "winner": null
      },
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-02T19:00:00Z",
       "home": {
        "teamId": "ESP",
