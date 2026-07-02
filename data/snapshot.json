@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-02T20:57:42.792Z",
- "sourceLastUpdated": "2026-07-02T20:57:33Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-02T21:07:27.792Z",
+ "sourceLastUpdated": "2026-07-02T21:04:09Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-02T23:00:00Z",
  "groups": [
   {
@@ -1562,7 +1562,7 @@
       "winner": null
      },
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-02T19:00:00Z",
       "home": {
        "teamId": "ESP",
@@ -2258,51 +2258,6 @@
    "rank": 5
   },
   {
-   "name": "Martin",
-   "colour": "#ffe119",
-   "teams": [
-    {
-     "teamId": "ARG",
-     "name": "Argentina",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "AUT",
-     "name": "Austria",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "SCO",
-     "name": "Scotland",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "CUW",
-     "name": "Curaçao",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "HAI",
-     "name": "Haiti",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    }
-   ],
-   "aliveCount": 2,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 5
-  },
-  {
    "name": "Nicola",
    "colour": "#3cb44b",
    "teams": [
@@ -2390,7 +2345,7 @@
    "aliveCount": 1,
    "total": 5,
    "bestFinish": 9,
-   "rank": 8
+   "rank": 7
   },
   {
    "name": "LA",
@@ -2435,7 +2390,52 @@
    "aliveCount": 1,
    "total": 5,
    "bestFinish": 9,
-   "rank": 8
+   "rank": 7
+  },
+  {
+   "name": "Martin",
+   "colour": "#ffe119",
+   "teams": [
+    {
+     "teamId": "ARG",
+     "name": "Argentina",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "AUT",
+     "name": "Austria",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "SCO",
+     "name": "Scotland",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "CUW",
+     "name": "Curaçao",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "HAI",
+     "name": "Haiti",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 1,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 7
   }
  ],
  "topScorers": [
@@ -3111,10 +3111,10 @@
     "Neil",
     "Ollie",
     "Adam",
-    "Martin",
     "Nicola",
     "JK",
-    "LA"
+    "LA",
+    "Martin"
    ]
   },
   "runnerUp": {
@@ -3127,10 +3127,10 @@
     "Neil",
     "Ollie",
     "Adam",
-    "Martin",
     "Nicola",
     "JK",
-    "LA"
+    "LA",
+    "Martin"
    ]
   },
   "topScorer": {
