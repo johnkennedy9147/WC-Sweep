@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-02T03:27:24.203Z",
- "sourceLastUpdated": "2026-07-02T03:25:01Z",
+ "fetchedAt": "2026-07-02T06:17:19.363Z",
+ "sourceLastUpdated": "2026-07-02T05:20:12Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-07-02T19:00:00Z",
  "groups": [
@@ -1771,10 +1771,20 @@
       "status": "TIMED",
       "utcDate": "2026-07-06T00:00:00Z",
       "home": {
-       "label": "R32 winner"
+       "teamId": "MEX",
+       "name": "Mexico",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
-       "label": "R32 winner"
+       "teamId": "ENG",
+       "name": "England",
+       "drawnBy": {
+        "name": "MA",
+        "colour": "#4363d8"
+       }
       },
       "score": {
        "home": null,
@@ -1801,10 +1811,20 @@
       "status": "TIMED",
       "utcDate": "2026-07-07T00:00:00Z",
       "home": {
-       "label": "R32 winner"
+       "teamId": "USA",
+       "name": "USA",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
-       "label": "R32 winner"
+       "teamId": "BEL",
+       "name": "Belgium",
+       "drawnBy": {
+        "name": "Ollie",
+        "colour": "#bcf60c"
+       }
       },
       "score": {
        "home": null,
