@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-03T20:47:26.344Z",
- "sourceLastUpdated": "2026-07-03T20:43:16Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-03T20:57:28.719Z",
+ "sourceLastUpdated": "2026-07-03T20:56:39Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-03T22:00:00Z",
  "groups": [
   {
@@ -1662,7 +1662,7 @@
       "winner": null
      },
      {
-      "status": "PAUSED",
+      "status": "FINISHED",
       "utcDate": "2026-07-03T18:00:00Z",
       "home": {
        "teamId": "AUS",
@@ -1681,8 +1681,8 @@
        }
       },
       "score": {
-       "home": 1,
-       "away": 1
+       "home": 3,
+       "away": 5
       },
       "winner": null
      }
