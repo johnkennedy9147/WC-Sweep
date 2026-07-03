@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-02T23:57:39.833Z",
- "sourceLastUpdated": "2026-07-02T23:55:39Z",
+ "fetchedAt": "2026-07-03T00:17:45.565Z",
+ "sourceLastUpdated": "2026-07-03T00:17:14Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-03T03:00:00Z",
  "groups": [
@@ -1537,7 +1537,7 @@
       "winner": "HOME"
      },
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-02T23:00:00Z",
       "home": {
        "teamId": "POR",
