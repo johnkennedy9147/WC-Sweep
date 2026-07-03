@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-03T20:07:25.092Z",
- "sourceLastUpdated": "2026-07-03T20:04:24Z",
+ "fetchedAt": "2026-07-03T20:17:33.567Z",
+ "sourceLastUpdated": "2026-07-03T20:17:20Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-03T22:00:00Z",
  "groups": [
@@ -1662,7 +1662,7 @@
       "winner": null
      },
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-03T18:00:00Z",
       "home": {
        "teamId": "AUS",
