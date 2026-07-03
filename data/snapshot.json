@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-03T04:57:40.701Z",
- "sourceLastUpdated": "2026-07-03T04:57:01Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-03T05:07:33.849Z",
+ "sourceLastUpdated": "2026-07-03T05:03:24Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-03T18:00:00Z",
  "groups": [
   {
@@ -1587,7 +1587,7 @@
       "winner": "HOME"
      },
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-03T03:00:00Z",
       "home": {
        "teamId": "SUI",
@@ -2012,58 +2012,6 @@
  },
  "leaderboard": [
   {
-   "name": "MA",
-   "colour": "#4363d8",
-   "teams": [
-    {
-     "teamId": "CAN",
-     "name": "Canada",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "ENG",
-     "name": "England",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "KOR",
-     "name": "South Korea",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "ALG",
-     "name": "Algeria",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "EGY",
-     "name": "Egypt",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "BIH",
-     "name": "Bosnia and Herzegovina",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    }
-   ],
-   "aliveCount": 4,
-   "total": 6,
-   "bestFinish": 9,
-   "rank": 1
-  },
-  {
    "name": "Paolo",
    "colour": "#e6194b",
    "teams": [
@@ -2123,6 +2071,58 @@
    "rank": 1
   },
   {
+   "name": "MA",
+   "colour": "#4363d8",
+   "teams": [
+    {
+     "teamId": "CAN",
+     "name": "Canada",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "ENG",
+     "name": "England",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "KOR",
+     "name": "South Korea",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "ALG",
+     "name": "Algeria",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "EGY",
+     "name": "Egypt",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "BIH",
+     "name": "Bosnia and Herzegovina",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    }
+   ],
+   "aliveCount": 3,
+   "total": 6,
+   "bestFinish": 9,
+   "rank": 2
+  },
+  {
    "name": "Neil",
    "colour": "#f58231",
    "teams": [
@@ -2165,7 +2165,7 @@
    "aliveCount": 3,
    "total": 5,
    "bestFinish": 9,
-   "rank": 3
+   "rank": 2
   },
   {
    "name": "Adam",
@@ -3106,8 +3106,8 @@
    "holder": null,
    "decided": false,
    "inTheRunning": [
-    "MA",
     "Paolo",
+    "MA",
     "Neil",
     "Adam",
     "Nicola",
@@ -3122,8 +3122,8 @@
    "holder": null,
    "decided": false,
    "inTheRunning": [
-    "MA",
     "Paolo",
+    "MA",
     "Neil",
     "Adam",
     "Nicola",
