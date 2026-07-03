@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-03T01:17:12.718Z",
- "sourceLastUpdated": "2026-07-03T01:16:39Z",
+ "fetchedAt": "2026-07-03T01:27:33.351Z",
+ "sourceLastUpdated": "2026-07-03T01:22:34Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-07-03T03:00:00Z",
  "groups": [
@@ -1557,9 +1557,9 @@
       },
       "score": {
        "home": 2,
-       "away": 2
+       "away": 1
       },
-      "winner": null
+      "winner": "HOME"
      },
      {
       "status": "FINISHED",
@@ -2168,51 +2168,6 @@
    "rank": 3
   },
   {
-   "name": "Ollie",
-   "colour": "#bcf60c",
-   "teams": [
-    {
-     "teamId": "BEL",
-     "name": "Belgium",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "COL",
-     "name": "Colombia",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "CRO",
-     "name": "Croatia",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "QAT",
-     "name": "Qatar",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "IRQ",
-     "name": "Iraq",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    }
-   ],
-   "aliveCount": 3,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 3
-  },
-  {
    "name": "Adam",
    "colour": "#f032e6",
    "teams": [
@@ -2255,7 +2210,7 @@
    "aliveCount": 2,
    "total": 5,
    "bestFinish": 9,
-   "rank": 5
+   "rank": 4
   },
   {
    "name": "Nicola",
@@ -2300,7 +2255,52 @@
    "aliveCount": 2,
    "total": 5,
    "bestFinish": 9,
-   "rank": 5
+   "rank": 4
+  },
+  {
+   "name": "Ollie",
+   "colour": "#bcf60c",
+   "teams": [
+    {
+     "teamId": "BEL",
+     "name": "Belgium",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "COL",
+     "name": "Colombia",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "CRO",
+     "name": "Croatia",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "QAT",
+     "name": "Qatar",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "IRQ",
+     "name": "Iraq",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 2,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 4
   },
   {
    "name": "JK",
@@ -3109,9 +3109,9 @@
     "MA",
     "Paolo",
     "Neil",
-    "Ollie",
     "Adam",
     "Nicola",
+    "Ollie",
     "JK",
     "LA",
     "Martin"
@@ -3125,9 +3125,9 @@
     "MA",
     "Paolo",
     "Neil",
-    "Ollie",
     "Adam",
     "Nicola",
+    "Ollie",
     "JK",
     "LA",
     "Martin"
