@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-04T00:47:28.746Z",
- "sourceLastUpdated": "2026-07-04T00:46:56Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-04T00:57:32.037Z",
+ "sourceLastUpdated": "2026-07-04T00:50:06Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-04T01:30:00Z",
  "groups": [
   {
@@ -1612,7 +1612,7 @@
       "winner": "HOME"
      },
      {
-      "status": "PAUSED",
+      "status": "FINISHED",
       "utcDate": "2026-07-03T22:00:00Z",
       "home": {
        "teamId": "ARG",
@@ -2303,51 +2303,6 @@
    "rank": 4
   },
   {
-   "name": "JK",
-   "colour": "#46f0f0",
-   "teams": [
-    {
-     "teamId": "GER",
-     "name": "Germany",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "SEN",
-     "name": "Senegal",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "ECU",
-     "name": "Ecuador",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "RSA",
-     "name": "South Africa",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "CPV",
-     "name": "Cape Verde",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    }
-   ],
-   "aliveCount": 1,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 7
-  },
-  {
    "name": "LA",
    "colour": "#911eb4",
    "teams": [
@@ -2436,6 +2391,51 @@
    "total": 5,
    "bestFinish": 9,
    "rank": 7
+  },
+  {
+   "name": "JK",
+   "colour": "#46f0f0",
+   "teams": [
+    {
+     "teamId": "GER",
+     "name": "Germany",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "SEN",
+     "name": "Senegal",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "ECU",
+     "name": "Ecuador",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "RSA",
+     "name": "South Africa",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "CPV",
+     "name": "Cape Verde",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    }
+   ],
+   "aliveCount": 0,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 9
   }
  ],
  "topScorers": [
@@ -3112,7 +3112,6 @@
     "Adam",
     "Nicola",
     "Ollie",
-    "JK",
     "LA",
     "Martin"
    ]
@@ -3128,7 +3127,6 @@
     "Adam",
     "Nicola",
     "Ollie",
-    "JK",
     "LA",
     "Martin"
    ]
