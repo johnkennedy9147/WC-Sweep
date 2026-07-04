@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-04T03:27:24.729Z",
- "sourceLastUpdated": "2026-07-04T03:26:49Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-04T03:37:17.001Z",
+ "sourceLastUpdated": "2026-07-04T03:36:40Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-04T17:00:00Z",
  "groups": [
   {
@@ -1637,7 +1637,7 @@
       "winner": "HOME"
      },
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-04T01:30:00Z",
       "home": {
        "teamId": "COL",
@@ -2213,51 +2213,6 @@
    "rank": 4
   },
   {
-   "name": "Nicola",
-   "colour": "#3cb44b",
-   "teams": [
-    {
-     "teamId": "POR",
-     "name": "Portugal",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "URU",
-     "name": "Uruguay",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "PAN",
-     "name": "Panama",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "GHA",
-     "name": "Ghana",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "COD",
-     "name": "DR Congo",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    }
-   ],
-   "aliveCount": 2,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 4
-  },
-  {
    "name": "Ollie",
    "colour": "#bcf60c",
    "teams": [
@@ -2345,7 +2300,7 @@
    "aliveCount": 1,
    "total": 5,
    "bestFinish": 9,
-   "rank": 7
+   "rank": 6
   },
   {
    "name": "Martin",
@@ -2390,7 +2345,52 @@
    "aliveCount": 1,
    "total": 5,
    "bestFinish": 9,
-   "rank": 7
+   "rank": 6
+  },
+  {
+   "name": "Nicola",
+   "colour": "#3cb44b",
+   "teams": [
+    {
+     "teamId": "POR",
+     "name": "Portugal",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "URU",
+     "name": "Uruguay",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "PAN",
+     "name": "Panama",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "GHA",
+     "name": "Ghana",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "COD",
+     "name": "DR Congo",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    }
+   ],
+   "aliveCount": 1,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 6
   },
   {
    "name": "JK",
@@ -3110,10 +3110,10 @@
     "MA",
     "Neil",
     "Adam",
-    "Nicola",
     "Ollie",
     "LA",
-    "Martin"
+    "Martin",
+    "Nicola"
    ]
   },
   "runnerUp": {
@@ -3125,10 +3125,10 @@
     "MA",
     "Neil",
     "Adam",
-    "Nicola",
     "Ollie",
     "LA",
-    "Martin"
+    "Martin",
+    "Nicola"
    ]
   },
   "topScorer": {
