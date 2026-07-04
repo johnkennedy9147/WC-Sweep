@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-04T00:57:32.037Z",
- "sourceLastUpdated": "2026-07-04T00:50:06Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-07-04T01:30:00Z",
+ "fetchedAt": "2026-07-04T01:37:35.916Z",
+ "sourceLastUpdated": "2026-07-04T01:37:17Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-07-04T17:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1637,7 +1637,7 @@
       "winner": "HOME"
      },
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-04T01:30:00Z",
       "home": {
        "teamId": "COL",
@@ -1656,8 +1656,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
