@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-04T18:07:17.925Z",
- "sourceLastUpdated": "2026-07-04T17:58:30Z",
+ "fetchedAt": "2026-07-04T18:17:24.100Z",
+ "sourceLastUpdated": "2026-07-04T18:17:12Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-04T21:00:00Z",
  "groups": [
@@ -1693,7 +1693,7 @@
     "name": "Round of 16",
     "matches": [
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-04T17:00:00Z",
       "home": {
        "teamId": "CAN",
