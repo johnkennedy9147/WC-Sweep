@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-04T02:27:29.224Z",
- "sourceLastUpdated": "2026-07-04T02:27:16Z",
+ "fetchedAt": "2026-07-04T02:37:18.185Z",
+ "sourceLastUpdated": "2026-07-04T02:29:48Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-04T17:00:00Z",
  "groups": [
@@ -1637,7 +1637,7 @@
       "winner": "HOME"
      },
      {
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "utcDate": "2026-07-04T01:30:00Z",
       "home": {
        "teamId": "COL",
