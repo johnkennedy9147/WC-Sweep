@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-05T21:47:18.851Z",
- "sourceLastUpdated": "2026-07-05T21:46:44Z",
+ "fetchedAt": "2026-07-05T21:57:18.089Z",
+ "sourceLastUpdated": "2026-07-05T21:56:59Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-07-05T20:00:00Z",
  "groups": [
@@ -1763,7 +1763,7 @@
       },
       "score": {
        "home": 0,
-       "away": 1
+       "away": 2
       },
       "winner": "AWAY"
      },
@@ -2480,6 +2480,17 @@
  ],
  "topScorers": [
   {
+   "playerName": "Erling Haaland",
+   "teamId": "NOR",
+   "teamName": "Norway",
+   "goals": 7,
+   "drawnBy": {
+    "name": "Paolo",
+    "colour": "#e6194b"
+   },
+   "rank": 1
+  },
+  {
    "playerName": "Kylian Mbappé",
    "teamId": "FRA",
    "teamName": "France",
@@ -2500,17 +2511,6 @@
     "colour": "#ffe119"
    },
    "rank": 1
-  },
-  {
-   "playerName": "Erling Haaland",
-   "teamId": "NOR",
-   "teamName": "Norway",
-   "goals": 6,
-   "drawnBy": {
-    "name": "Paolo",
-    "colour": "#e6194b"
-   },
-   "rank": 3
   },
   {
    "playerName": "Harry Kane",
@@ -3173,10 +3173,12 @@
    "amount": "£10",
    "tie": true,
    "leaders": [
+    "Erling Haaland",
     "Kylian Mbappé",
     "Lionel Messi"
    ],
    "holders": [
+    "Paolo",
     "Neil",
     "Martin"
    ]
