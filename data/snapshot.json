@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-05T21:37:15.744Z",
- "sourceLastUpdated": "2026-07-05T21:36:51Z",
+ "fetchedAt": "2026-07-05T21:47:18.851Z",
+ "sourceLastUpdated": "2026-07-05T21:46:44Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-07-05T20:00:00Z",
  "groups": [
@@ -1763,9 +1763,9 @@
       },
       "score": {
        "home": 0,
-       "away": 0
+       "away": 1
       },
-      "winner": null
+      "winner": "AWAY"
      },
      {
       "status": "TIMED",
@@ -2505,7 +2505,7 @@
    "playerName": "Erling Haaland",
    "teamId": "NOR",
    "teamName": "Norway",
-   "goals": 5,
+   "goals": 6,
    "drawnBy": {
     "name": "Paolo",
     "colour": "#e6194b"
@@ -2521,7 +2521,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 3
+   "rank": 4
   },
   {
    "playerName": "Ismaïla Sarr",
