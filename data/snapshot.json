@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-06T03:27:17.614Z",
- "sourceLastUpdated": "2026-07-06T03:25:01Z",
+ "fetchedAt": "2026-07-06T06:17:17.786Z",
+ "sourceLastUpdated": "2026-07-06T05:20:12Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-07-06T19:00:00Z",
  "groups": [
@@ -1942,10 +1942,20 @@
       "status": "TIMED",
       "utcDate": "2026-07-11T21:00:00Z",
       "home": {
-       "label": "R16 winner"
+       "teamId": "NOR",
+       "name": "Norway",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
-       "label": "R16 winner"
+       "teamId": "ENG",
+       "name": "England",
+       "drawnBy": {
+        "name": "MA",
+        "colour": "#4363d8"
+       }
       },
       "score": {
        "home": null,
