@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-06T02:17:24.680Z",
- "sourceLastUpdated": "2026-07-06T02:16:48Z",
+ "fetchedAt": "2026-07-06T02:27:39.737Z",
+ "sourceLastUpdated": "2026-07-06T02:27:27Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-06T19:00:00Z",
  "groups": [
@@ -1788,7 +1788,7 @@
       },
       "score": {
        "home": 1,
-       "away": 2
+       "away": 3
       },
       "winner": "AWAY"
      },
@@ -2516,7 +2516,7 @@
    "playerName": "Harry Kane",
    "teamId": "ENG",
    "teamName": "England",
-   "goals": 5,
+   "goals": 6,
    "drawnBy": {
     "name": "MA",
     "colour": "#4363d8"
