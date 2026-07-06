@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-06T19:47:22.061Z",
- "sourceLastUpdated": "2026-07-06T19:47:07Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-07-06T19:00:00Z",
+ "fetchedAt": "2026-07-06T19:57:34.274Z",
+ "sourceLastUpdated": "2026-07-06T19:56:36Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-07-07T00:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1793,7 +1793,7 @@
       "winner": "AWAY"
      },
      {
-      "status": "LIVE",
+      "status": "PAUSED",
       "utcDate": "2026-07-06T19:00:00Z",
       "home": {
        "teamId": "POR",
