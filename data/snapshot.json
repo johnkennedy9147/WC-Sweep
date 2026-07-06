@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-06T03:07:30.868Z",
- "sourceLastUpdated": "2026-07-06T03:07:26Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-06T03:17:20.006Z",
+ "sourceLastUpdated": "2026-07-06T03:12:36Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-06T19:00:00Z",
  "groups": [
   {
@@ -1768,7 +1768,7 @@
       "winner": "AWAY"
      },
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-06T01:00:00Z",
       "home": {
        "teamId": "MEX",
@@ -2058,8 +2058,8 @@
     {
      "teamId": "MEX",
      "name": "Mexico",
-     "alive": true,
-     "exit": null,
+     "alive": false,
+     "exit": "Round of 16",
      "finish": null
     },
     {
@@ -2105,7 +2105,7 @@
      "finish": null
     }
    ],
-   "aliveCount": 4,
+   "aliveCount": 3,
    "total": 7,
    "bestFinish": 9,
    "rank": 1
