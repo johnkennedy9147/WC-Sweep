@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-06T02:07:22.296Z",
- "sourceLastUpdated": "2026-07-06T01:58:48Z",
+ "fetchedAt": "2026-07-06T02:17:24.680Z",
+ "sourceLastUpdated": "2026-07-06T02:16:48Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-06T19:00:00Z",
  "groups": [
@@ -1768,7 +1768,7 @@
       "winner": "AWAY"
      },
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-06T01:00:00Z",
       "home": {
        "teamId": "MEX",
