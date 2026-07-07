@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-07T17:47:25.378Z",
- "sourceLastUpdated": "2026-07-07T17:47:09Z",
+ "fetchedAt": "2026-07-07T17:57:34.981Z",
+ "sourceLastUpdated": "2026-07-07T17:56:59Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-07T20:00:00Z",
  "groups": [
@@ -1862,10 +1862,10 @@
        }
       },
       "score": {
-       "home": 0,
+       "home": 2,
        "away": 2
       },
-      "winner": "AWAY"
+      "winner": null
      },
      {
       "status": "TIMED",
@@ -2500,6 +2500,17 @@
  ],
  "topScorers": [
   {
+   "playerName": "Lionel Messi",
+   "teamId": "ARG",
+   "teamName": "Argentina",
+   "goals": 8,
+   "drawnBy": {
+    "name": "Martin",
+    "colour": "#ffe119"
+   },
+   "rank": 1
+  },
+  {
    "playerName": "Erling Haaland",
    "teamId": "NOR",
    "teamName": "Norway",
@@ -2508,7 +2519,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 1
+   "rank": 2
   },
   {
    "playerName": "Kylian Mbappé",
@@ -2519,18 +2530,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 1
-  },
-  {
-   "playerName": "Lionel Messi",
-   "teamId": "ARG",
-   "teamName": "Argentina",
-   "goals": 7,
-   "drawnBy": {
-    "name": "Martin",
-    "colour": "#ffe119"
-   },
-   "rank": 1
+   "rank": 2
   },
   {
    "playerName": "Harry Kane",
@@ -3189,15 +3189,11 @@
   },
   "topScorer": {
    "amount": "£10",
-   "tie": true,
+   "tie": false,
    "leaders": [
-    "Erling Haaland",
-    "Kylian Mbappé",
     "Lionel Messi"
    ],
    "holders": [
-    "Paolo",
-    "Neil",
     "Martin"
    ]
   }
