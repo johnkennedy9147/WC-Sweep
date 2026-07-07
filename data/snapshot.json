@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-07T00:27:30.282Z",
- "sourceLastUpdated": "2026-07-07T00:27:06Z",
+ "fetchedAt": "2026-07-07T00:37:41.669Z",
+ "sourceLastUpdated": "2026-07-07T00:37:33Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-07T16:00:00Z",
  "groups": [
@@ -1837,10 +1837,10 @@
        }
       },
       "score": {
-       "home": 0,
+       "home": 1,
        "away": 1
       },
-      "winner": "AWAY"
+      "winner": null
      },
      {
       "status": "TIMED",
@@ -2809,6 +2809,17 @@
    "rank": 24
   },
   {
+   "playerName": "Charles De Ketelaere",
+   "teamId": "BEL",
+   "teamName": "Belgium",
+   "goals": 2,
+   "drawnBy": {
+    "name": "Ollie",
+    "colour": "#bcf60c"
+   },
+   "rank": 24
+  },
+  {
    "playerName": "Crysencio Summerville",
    "teamId": "NED",
    "teamName": "Netherlands",
@@ -2893,6 +2904,17 @@
    "drawnBy": {
     "name": "Ollie",
     "colour": "#bcf60c"
+   },
+   "rank": 24
+  },
+  {
+   "playerName": "Malik Tillman",
+   "teamId": "USA",
+   "teamName": "USA",
+   "goals": 2,
+   "drawnBy": {
+    "name": "Paolo",
+    "colour": "#e6194b"
    },
    "rank": 24
   },
@@ -3026,7 +3048,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 49
+   "rank": 51
   },
   {
    "playerName": "Connor Metcalfe",
@@ -3037,18 +3059,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 49
-  },
-  {
-   "playerName": "Felix Kalu Nmecha",
-   "teamId": "GER",
-   "teamName": "Germany",
-   "goals": 1,
-   "drawnBy": {
-    "name": "JK",
-    "colour": "#46f0f0"
-   },
-   "rank": 49
+   "rank": 51
   },
   {
    "playerName": "Gio Reyna",
@@ -3059,7 +3070,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 49
+   "rank": 51
   },
   {
    "playerName": "Hyun-Gyu Oh",
@@ -3070,7 +3081,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 49
+   "rank": 51
   },
   {
    "playerName": "In-beom Hwang",
@@ -3081,7 +3092,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 49
+   "rank": 51
   },
   {
    "playerName": "John McGinn",
@@ -3092,7 +3103,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 49
+   "rank": 51
   },
   {
    "playerName": "Jovo Lukić",
@@ -3103,7 +3114,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 49
+   "rank": 51
   },
   {
    "playerName": "Ladislav Krejčí",
@@ -3114,18 +3125,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 49
-  },
-  {
-   "playerName": "Livano Comenencia",
-   "teamId": "CUW",
-   "teamName": "Curaçao",
-   "goals": 1,
-   "drawnBy": {
-    "name": "Martin",
-    "colour": "#ffe119"
-   },
-   "rank": 49
+   "rank": 51
   },
   {
    "playerName": "Mauricio",
@@ -3136,7 +3136,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 49
+   "rank": 51
   },
   {
    "playerName": "Nestor Irankunda",
@@ -3147,7 +3147,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 49
+   "rank": 51
   }
  ],
  "prizes": {
