@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-07T22:17:32.350Z",
- "sourceLastUpdated": "2026-07-07T22:16:59Z",
- "liveNow": false,
+ "fetchedAt": "2026-07-07T22:27:39.376Z",
+ "sourceLastUpdated": "2026-07-07T22:27:20Z",
+ "liveNow": true,
  "nextKickoffUtc": "2026-07-09T20:00:00Z",
  "groups": [
   {
@@ -1868,7 +1868,7 @@
       "winner": "HOME"
      },
      {
-      "status": "FINISHED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-07T20:00:00Z",
       "home": {
        "teamId": "SUI",
