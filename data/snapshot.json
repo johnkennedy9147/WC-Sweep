@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-07T06:17:20.565Z",
- "sourceLastUpdated": "2026-07-07T05:20:11Z",
+ "fetchedAt": "2026-07-07T16:07:31.300Z",
+ "sourceLastUpdated": "2026-07-07T16:06:57Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-07-07T16:00:00Z",
  "groups": [
@@ -1843,7 +1843,7 @@
       "winner": "AWAY"
      },
      {
-      "status": "TIMED",
+      "status": "LIVE",
       "utcDate": "2026-07-07T16:00:00Z",
       "home": {
        "teamId": "ARG",
@@ -1862,8 +1862,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
