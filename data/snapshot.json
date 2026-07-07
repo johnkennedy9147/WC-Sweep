@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-07T03:27:22.835Z",
- "sourceLastUpdated": "2026-07-07T03:25:01Z",
+ "fetchedAt": "2026-07-07T06:17:20.565Z",
+ "sourceLastUpdated": "2026-07-07T05:20:11Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-07-07T16:00:00Z",
  "groups": [
@@ -1927,10 +1927,20 @@
       "status": "TIMED",
       "utcDate": "2026-07-10T19:00:00Z",
       "home": {
-       "label": "R16 winner"
+       "teamId": "ESP",
+       "name": "Spain",
+       "drawnBy": {
+        "name": "Paolo",
+        "colour": "#e6194b"
+       }
       },
       "away": {
-       "label": "R16 winner"
+       "teamId": "BEL",
+       "name": "Belgium",
+       "drawnBy": {
+        "name": "Ollie",
+        "colour": "#bcf60c"
+       }
       },
       "score": {
        "home": null,
