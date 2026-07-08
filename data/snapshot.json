@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-07T23:07:27.401Z",
- "sourceLastUpdated": "2026-07-07T22:57:22Z",
+ "fetchedAt": "2026-07-08T06:07:31.073Z",
+ "sourceLastUpdated": "2026-07-08T07:58:52Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-07-09T20:00:00Z",
  "groups": [
@@ -1890,7 +1890,7 @@
        "home": 4,
        "away": 3
       },
-      "winner": null
+      "winner": "HOME"
      }
     ]
    },
@@ -1977,10 +1977,20 @@
       "status": "TIMED",
       "utcDate": "2026-07-12T01:00:00Z",
       "home": {
-       "label": "R16 winner"
+       "teamId": "ARG",
+       "name": "Argentina",
+       "drawnBy": {
+        "name": "Martin",
+        "colour": "#ffe119"
+       }
       },
       "away": {
-       "label": "R16 winner"
+       "teamId": "SUI",
+       "name": "Switzerland",
+       "drawnBy": {
+        "name": "Adam",
+        "colour": "#f032e6"
+       }
       },
       "score": {
        "home": null,
@@ -2117,51 +2127,6 @@
    "rank": 1
   },
   {
-   "name": "Ollie",
-   "colour": "#bcf60c",
-   "teams": [
-    {
-     "teamId": "BEL",
-     "name": "Belgium",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "COL",
-     "name": "Colombia",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "CRO",
-     "name": "Croatia",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "QAT",
-     "name": "Qatar",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "IRQ",
-     "name": "Iraq",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    }
-   ],
-   "aliveCount": 2,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 1
-  },
-  {
    "name": "Paolo",
    "colour": "#e6194b",
    "teams": [
@@ -2263,7 +2228,7 @@
    "aliveCount": 1,
    "total": 5,
    "bestFinish": 9,
-   "rank": 4
+   "rank": 3
   },
   {
    "name": "MA",
@@ -2315,7 +2280,7 @@
    "aliveCount": 1,
    "total": 6,
    "bestFinish": 9,
-   "rank": 4
+   "rank": 3
   },
   {
    "name": "Martin",
@@ -2360,7 +2325,52 @@
    "aliveCount": 1,
    "total": 5,
    "bestFinish": 9,
-   "rank": 4
+   "rank": 3
+  },
+  {
+   "name": "Ollie",
+   "colour": "#bcf60c",
+   "teams": [
+    {
+     "teamId": "BEL",
+     "name": "Belgium",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "COL",
+     "name": "Colombia",
+     "alive": false,
+     "exit": "Round of 16",
+     "finish": null
+    },
+    {
+     "teamId": "CRO",
+     "name": "Croatia",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "QAT",
+     "name": "Qatar",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "IRQ",
+     "name": "Iraq",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 1,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 3
   },
   {
    "name": "JK",
@@ -3167,11 +3177,11 @@
    "decided": false,
    "inTheRunning": [
     "Neil",
-    "Ollie",
     "Paolo",
     "Adam",
     "MA",
-    "Martin"
+    "Martin",
+    "Ollie"
    ]
   },
   "runnerUp": {
@@ -3180,11 +3190,11 @@
    "decided": false,
    "inTheRunning": [
     "Neil",
-    "Ollie",
     "Paolo",
     "Adam",
     "MA",
-    "Martin"
+    "Martin",
+    "Ollie"
    ]
   },
   "topScorer": {
