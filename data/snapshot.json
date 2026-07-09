@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-09T21:17:30.040Z",
- "sourceLastUpdated": "2026-07-09T21:17:27Z",
+ "fetchedAt": "2026-07-09T21:27:25.962Z",
+ "sourceLastUpdated": "2026-07-09T21:26:39Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-10T19:00:00Z",
  "groups": [
@@ -2510,6 +2510,17 @@
  ],
  "topScorers": [
   {
+   "playerName": "Kylian Mbappé",
+   "teamId": "FRA",
+   "teamName": "France",
+   "goals": 8,
+   "drawnBy": {
+    "name": "Neil",
+    "colour": "#f58231"
+   },
+   "rank": 1
+  },
+  {
    "playerName": "Lionel Messi",
    "teamId": "ARG",
    "teamName": "Argentina",
@@ -2529,18 +2540,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 2
-  },
-  {
-   "playerName": "Kylian Mbappé",
-   "teamId": "FRA",
-   "teamName": "France",
-   "goals": 7,
-   "drawnBy": {
-    "name": "Neil",
-    "colour": "#f58231"
-   },
-   "rank": 2
+   "rank": 3
   },
   {
    "playerName": "Harry Kane",
@@ -3199,11 +3199,13 @@
   },
   "topScorer": {
    "amount": "£10",
-   "tie": false,
+   "tie": true,
    "leaders": [
+    "Kylian Mbappé",
     "Lionel Messi"
    ],
    "holders": [
+    "Neil",
     "Martin"
    ]
   }
