@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-09T06:17:21.127Z",
- "sourceLastUpdated": "2026-07-09T05:20:10Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-07-09T20:00:00Z",
+ "fetchedAt": "2026-07-09T20:07:29.043Z",
+ "sourceLastUpdated": "2026-07-09T20:06:53Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-07-10T19:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1899,7 +1899,7 @@
     "name": "Quarter-finals",
     "matches": [
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-09T20:00:00Z",
       "home": {
        "teamId": "FRA",
@@ -1918,8 +1918,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
