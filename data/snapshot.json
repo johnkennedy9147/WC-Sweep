@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-09T20:57:17.938Z",
- "sourceLastUpdated": "2026-07-09T20:56:40Z",
+ "fetchedAt": "2026-07-09T21:17:30.040Z",
+ "sourceLastUpdated": "2026-07-09T21:17:27Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-10T19:00:00Z",
  "groups": [
@@ -1899,7 +1899,7 @@
     "name": "Quarter-finals",
     "matches": [
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-09T20:00:00Z",
       "home": {
        "teamId": "FRA",
