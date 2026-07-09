@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-09T21:27:25.962Z",
- "sourceLastUpdated": "2026-07-09T21:26:39Z",
+ "fetchedAt": "2026-07-09T21:37:33.065Z",
+ "sourceLastUpdated": "2026-07-09T21:37:28Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-10T19:00:00Z",
  "groups": [
@@ -1918,10 +1918,10 @@
        }
       },
       "score": {
-       "home": 0,
+       "home": 2,
        "away": 0
       },
-      "winner": null
+      "winner": "HOME"
      },
      {
       "status": "TIMED",
@@ -2554,6 +2554,17 @@
    "rank": 4
   },
   {
+   "playerName": "Ousmane Dembélé",
+   "teamId": "FRA",
+   "teamName": "France",
+   "goals": 5,
+   "drawnBy": {
+    "name": "Neil",
+    "colour": "#f58231"
+   },
+   "rank": 5
+  },
+  {
    "playerName": "Ismaïla Sarr",
    "teamId": "SEN",
    "teamName": "Senegal",
@@ -2562,7 +2573,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 5
+   "rank": 6
   },
   {
    "playerName": "Jude Bellingham",
@@ -2573,7 +2584,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 5
+   "rank": 6
   },
   {
    "playerName": "Julián Quiñones",
@@ -2584,7 +2595,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 5
+   "rank": 6
   },
   {
    "playerName": "Mikel Oyarzabal",
@@ -2595,18 +2606,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 5
-  },
-  {
-   "playerName": "Ousmane Dembélé",
-   "teamId": "FRA",
-   "teamName": "France",
-   "goals": 4,
-   "drawnBy": {
-    "name": "Neil",
-    "colour": "#f58231"
-   },
-   "rank": 5
+   "rank": 6
   },
   {
    "playerName": "Vinicius Junior",
@@ -2617,7 +2617,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 5
+   "rank": 6
   },
   {
    "playerName": "Brian Brobbey",
