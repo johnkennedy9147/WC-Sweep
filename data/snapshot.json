@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-10T20:57:41.594Z",
- "sourceLastUpdated": "2026-07-10T20:56:13Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-10T21:07:42.702Z",
+ "sourceLastUpdated": "2026-07-10T21:05:15Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-11T21:00:00Z",
  "groups": [
   {
@@ -1924,7 +1924,7 @@
       "winner": "HOME"
      },
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-10T19:00:00Z",
       "home": {
        "teamId": "ESP",
@@ -2333,51 +2333,6 @@
    "rank": 2
   },
   {
-   "name": "Ollie",
-   "colour": "#bcf60c",
-   "teams": [
-    {
-     "teamId": "BEL",
-     "name": "Belgium",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "COL",
-     "name": "Colombia",
-     "alive": false,
-     "exit": "Round of 16",
-     "finish": null
-    },
-    {
-     "teamId": "CRO",
-     "name": "Croatia",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "QAT",
-     "name": "Qatar",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "IRQ",
-     "name": "Iraq",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    }
-   ],
-   "aliveCount": 1,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 2
-  },
-  {
    "name": "JK",
    "colour": "#46f0f0",
    "teams": [
@@ -2420,7 +2375,7 @@
    "aliveCount": 0,
    "total": 5,
    "bestFinish": 9,
-   "rank": 7
+   "rank": 6
   },
   {
    "name": "LA",
@@ -2465,7 +2420,7 @@
    "aliveCount": 0,
    "total": 5,
    "bestFinish": 9,
-   "rank": 7
+   "rank": 6
   },
   {
    "name": "Nicola",
@@ -2510,7 +2465,52 @@
    "aliveCount": 0,
    "total": 5,
    "bestFinish": 9,
-   "rank": 7
+   "rank": 6
+  },
+  {
+   "name": "Ollie",
+   "colour": "#bcf60c",
+   "teams": [
+    {
+     "teamId": "BEL",
+     "name": "Belgium",
+     "alive": false,
+     "exit": "Quarter-finals",
+     "finish": null
+    },
+    {
+     "teamId": "COL",
+     "name": "Colombia",
+     "alive": false,
+     "exit": "Round of 16",
+     "finish": null
+    },
+    {
+     "teamId": "CRO",
+     "name": "Croatia",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "QAT",
+     "name": "Qatar",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "IRQ",
+     "name": "Iraq",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 0,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 6
   }
  ],
  "topScorers": [
@@ -3185,8 +3185,7 @@
     "Adam",
     "MA",
     "Martin",
-    "Neil",
-    "Ollie"
+    "Neil"
    ]
   },
   "runnerUp": {
@@ -3198,8 +3197,7 @@
     "Adam",
     "MA",
     "Martin",
-    "Neil",
-    "Ollie"
+    "Neil"
    ]
   },
   "topScorer": {
