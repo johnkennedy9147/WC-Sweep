@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-09T22:27:14.901Z",
- "sourceLastUpdated": "2026-07-09T22:25:01Z",
+ "fetchedAt": "2026-07-10T06:17:42.376Z",
+ "sourceLastUpdated": "2026-07-10T05:20:09Z",
  "liveNow": false,
  "nextKickoffUtc": "2026-07-10T19:00:00Z",
  "groups": [
@@ -2008,7 +2008,12 @@
       "status": "TIMED",
       "utcDate": "2026-07-14T19:00:00Z",
       "home": {
-       "label": "QF winner"
+       "teamId": "FRA",
+       "name": "France",
+       "drawnBy": {
+        "name": "Neil",
+        "colour": "#f58231"
+       }
       },
       "away": {
        "label": "QF winner"
