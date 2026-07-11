@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-11T23:07:23.947Z",
- "sourceLastUpdated": "2026-07-11T23:06:54Z",
+ "fetchedAt": "2026-07-11T23:17:14.915Z",
+ "sourceLastUpdated": "2026-07-11T23:16:52Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-06T01:00:00Z",
  "groups": [
@@ -1968,10 +1968,10 @@
        }
       },
       "score": {
-       "home": 2,
-       "away": 1
+       "home": 1,
+       "away": 2
       },
-      "winner": "HOME"
+      "winner": "AWAY"
      },
      {
       "status": "TIMED",
@@ -2567,12 +2567,12 @@
    "playerName": "Jude Bellingham",
    "teamId": "ENG",
    "teamName": "England",
-   "goals": 5,
+   "goals": 6,
    "drawnBy": {
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 5
+   "rank": 4
   },
   {
    "playerName": "Ousmane Dembélé",
@@ -2583,7 +2583,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 5
+   "rank": 6
   },
   {
    "playerName": "Ismaïla Sarr",
