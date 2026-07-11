@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-11T23:47:18.216Z",
- "sourceLastUpdated": "2026-07-11T23:46:55Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-11T23:57:43.578Z",
+ "sourceLastUpdated": "2026-07-11T23:53:31Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-06T01:00:00Z",
  "groups": [
   {
@@ -1949,7 +1949,7 @@
       "winner": "HOME"
      },
      {
-      "status": "PAUSED",
+      "status": "FINISHED",
       "utcDate": "2026-07-11T21:00:00Z",
       "home": {
        "teamId": "NOR",
@@ -2126,8 +2126,8 @@
     {
      "teamId": "NOR",
      "name": "Norway",
-     "alive": true,
-     "exit": null,
+     "alive": false,
+     "exit": "Quarter-finals",
      "finish": null
     },
     {
@@ -2145,7 +2145,7 @@
      "finish": null
     }
    ],
-   "aliveCount": 3,
+   "aliveCount": 2,
    "total": 7,
    "bestFinish": 9,
    "rank": 1
