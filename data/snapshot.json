@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-11T06:17:27.380Z",
- "sourceLastUpdated": "2026-07-11T05:20:09Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-07-11T21:00:00Z",
+ "fetchedAt": "2026-07-11T21:07:18.659Z",
+ "sourceLastUpdated": "2026-07-11T21:06:10Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-07-12T01:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1949,7 +1949,7 @@
       "winner": "HOME"
      },
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-11T21:00:00Z",
       "home": {
        "teamId": "NOR",
@@ -1968,8 +1968,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
