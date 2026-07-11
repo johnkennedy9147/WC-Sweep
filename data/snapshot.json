@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-11T21:47:22.159Z",
- "sourceLastUpdated": "2026-07-11T21:47:18Z",
+ "fetchedAt": "2026-07-11T21:57:23.295Z",
+ "sourceLastUpdated": "2026-07-11T21:56:18Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-06T01:00:00Z",
  "groups": [
@@ -1969,9 +1969,9 @@
       },
       "score": {
        "home": 1,
-       "away": 0
+       "away": 1
       },
-      "winner": "HOME"
+      "winner": null
      },
      {
       "status": "TIMED",
@@ -2564,6 +2564,17 @@
    "rank": 4
   },
   {
+   "playerName": "Jude Bellingham",
+   "teamId": "ENG",
+   "teamName": "England",
+   "goals": 5,
+   "drawnBy": {
+    "name": "MA",
+    "colour": "#4363d8"
+   },
+   "rank": 5
+  },
+  {
    "playerName": "Ousmane Dembélé",
    "teamId": "FRA",
    "teamName": "France",
@@ -2583,18 +2594,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 6
-  },
-  {
-   "playerName": "Jude Bellingham",
-   "teamId": "ENG",
-   "teamName": "England",
-   "goals": 4,
-   "drawnBy": {
-    "name": "MA",
-    "colour": "#4363d8"
-   },
-   "rank": 6
+   "rank": 7
   },
   {
    "playerName": "Julián Quiñones",
@@ -2605,7 +2605,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 6
+   "rank": 7
   },
   {
    "playerName": "Mikel Oyarzabal",
@@ -2616,7 +2616,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 6
+   "rank": 7
   },
   {
    "playerName": "Vinicius Junior",
@@ -2627,7 +2627,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 6
+   "rank": 7
   },
   {
    "playerName": "Brian Brobbey",
