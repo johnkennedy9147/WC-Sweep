@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-12T03:47:40.005Z",
- "sourceLastUpdated": "2026-07-12T03:45:21Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-12T03:57:30.284Z",
+ "sourceLastUpdated": "2026-07-12T03:51:58Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-06T01:00:00Z",
  "groups": [
   {
@@ -1974,7 +1974,7 @@
       "winner": "AWAY"
      },
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-12T01:00:00Z",
       "home": {
        "teamId": "ARG",
@@ -1993,7 +1993,7 @@
        }
       },
       "score": {
-       "home": 2,
+       "home": 3,
        "away": 1
       },
       "winner": "HOME"
@@ -2151,51 +2151,6 @@
    "rank": 1
   },
   {
-   "name": "Adam",
-   "colour": "#f032e6",
-   "teams": [
-    {
-     "teamId": "BRA",
-     "name": "Brazil",
-     "alive": false,
-     "exit": "Round of 16",
-     "finish": null
-    },
-    {
-     "teamId": "SUI",
-     "name": "Switzerland",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "IRN",
-     "name": "Iran",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "TUN",
-     "name": "Tunisia",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "NZL",
-     "name": "New Zealand",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    }
-   ],
-   "aliveCount": 1,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 2
-  },
-  {
    "name": "MA",
    "colour": "#4363d8",
    "teams": [
@@ -2338,6 +2293,51 @@
    "rank": 2
   },
   {
+   "name": "Adam",
+   "colour": "#f032e6",
+   "teams": [
+    {
+     "teamId": "BRA",
+     "name": "Brazil",
+     "alive": false,
+     "exit": "Round of 16",
+     "finish": null
+    },
+    {
+     "teamId": "SUI",
+     "name": "Switzerland",
+     "alive": false,
+     "exit": "Quarter-finals",
+     "finish": null
+    },
+    {
+     "teamId": "IRN",
+     "name": "Iran",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "TUN",
+     "name": "Tunisia",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "NZL",
+     "name": "New Zealand",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 0,
+   "total": 5,
+   "bestFinish": 9,
+   "rank": 5
+  },
+  {
    "name": "JK",
    "colour": "#46f0f0",
    "teams": [
@@ -2380,7 +2380,7 @@
    "aliveCount": 0,
    "total": 5,
    "bestFinish": 9,
-   "rank": 6
+   "rank": 5
   },
   {
    "name": "LA",
@@ -2425,7 +2425,7 @@
    "aliveCount": 0,
    "total": 5,
    "bestFinish": 9,
-   "rank": 6
+   "rank": 5
   },
   {
    "name": "Nicola",
@@ -2470,7 +2470,7 @@
    "aliveCount": 0,
    "total": 5,
    "bestFinish": 9,
-   "rank": 6
+   "rank": 5
   },
   {
    "name": "Ollie",
@@ -2515,7 +2515,7 @@
    "aliveCount": 0,
    "total": 5,
    "bestFinish": 9,
-   "rank": 6
+   "rank": 5
   }
  ],
  "topScorers": [
@@ -3187,7 +3187,6 @@
    "decided": false,
    "inTheRunning": [
     "Paolo",
-    "Adam",
     "MA",
     "Martin",
     "Neil"
@@ -3199,7 +3198,6 @@
    "decided": false,
    "inTheRunning": [
     "Paolo",
-    "Adam",
     "MA",
     "Martin",
     "Neil"
