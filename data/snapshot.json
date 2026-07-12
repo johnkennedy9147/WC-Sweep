@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-12T01:47:17.918Z",
- "sourceLastUpdated": "2026-07-12T01:46:34Z",
+ "fetchedAt": "2026-07-12T01:57:47.863Z",
+ "sourceLastUpdated": "2026-07-12T01:56:46Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-06T01:00:00Z",
  "groups": [
@@ -1974,7 +1974,7 @@
       "winner": "AWAY"
      },
      {
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "utcDate": "2026-07-12T01:00:00Z",
       "home": {
        "teamId": "ARG",
