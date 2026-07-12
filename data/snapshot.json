@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-12T05:57:14.750Z",
- "sourceLastUpdated": "2026-07-12T05:52:40Z",
+ "fetchedAt": "2026-07-12T06:17:45.590Z",
+ "sourceLastUpdated": "2026-07-12T07:47:40Z",
  "liveNow": false,
- "nextKickoffUtc": "2026-07-06T01:00:00Z",
+ "nextKickoffUtc": "2026-07-14T19:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -1768,7 +1768,7 @@
       "winner": "AWAY"
      },
      {
-      "status": "2026-07-06 01:00:00Z",
+      "status": "FINISHED",
       "utcDate": "2026-07-06T01:00:00Z",
       "home": {
        "teamId": "MEX",
@@ -2033,10 +2033,20 @@
       "status": "TIMED",
       "utcDate": "2026-07-15T19:00:00Z",
       "home": {
-       "label": "QF winner"
+       "teamId": "ENG",
+       "name": "England",
+       "drawnBy": {
+        "name": "MA",
+        "colour": "#4363d8"
+       }
       },
       "away": {
-       "label": "QF winner"
+       "teamId": "ARG",
+       "name": "Argentina",
+       "drawnBy": {
+        "name": "Martin",
+        "colour": "#ffe119"
+       }
       },
       "score": {
        "home": null,
@@ -2092,65 +2102,6 @@
  },
  "leaderboard": [
   {
-   "name": "Paolo",
-   "colour": "#e6194b",
-   "teams": [
-    {
-     "teamId": "MEX",
-     "name": "Mexico",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "USA",
-     "name": "United States",
-     "alive": false,
-     "exit": "Round of 16",
-     "finish": null
-    },
-    {
-     "teamId": "ESP",
-     "name": "Spain",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "JPN",
-     "name": "Japan",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "NOR",
-     "name": "Norway",
-     "alive": false,
-     "exit": "Quarter-finals",
-     "finish": null
-    },
-    {
-     "teamId": "SWE",
-     "name": "Sweden",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "CZE",
-     "name": "Czech Republic",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    }
-   ],
-   "aliveCount": 2,
-   "total": 7,
-   "bestFinish": 9,
-   "rank": 1
-  },
-  {
    "name": "MA",
    "colour": "#4363d8",
    "teams": [
@@ -2200,7 +2151,7 @@
    "aliveCount": 1,
    "total": 6,
    "bestFinish": 9,
-   "rank": 2
+   "rank": 1
   },
   {
    "name": "Martin",
@@ -2245,7 +2196,7 @@
    "aliveCount": 1,
    "total": 5,
    "bestFinish": 9,
-   "rank": 2
+   "rank": 1
   },
   {
    "name": "Neil",
@@ -2290,7 +2241,66 @@
    "aliveCount": 1,
    "total": 5,
    "bestFinish": 9,
-   "rank": 2
+   "rank": 1
+  },
+  {
+   "name": "Paolo",
+   "colour": "#e6194b",
+   "teams": [
+    {
+     "teamId": "MEX",
+     "name": "Mexico",
+     "alive": false,
+     "exit": "Round of 16",
+     "finish": null
+    },
+    {
+     "teamId": "USA",
+     "name": "United States",
+     "alive": false,
+     "exit": "Round of 16",
+     "finish": null
+    },
+    {
+     "teamId": "ESP",
+     "name": "Spain",
+     "alive": true,
+     "exit": null,
+     "finish": null
+    },
+    {
+     "teamId": "JPN",
+     "name": "Japan",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "NOR",
+     "name": "Norway",
+     "alive": false,
+     "exit": "Quarter-finals",
+     "finish": null
+    },
+    {
+     "teamId": "SWE",
+     "name": "Sweden",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "CZE",
+     "name": "Czech Republic",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 1,
+   "total": 7,
+   "bestFinish": 9,
+   "rank": 1
   },
   {
    "name": "Adam",
@@ -3186,10 +3196,10 @@
    "holder": null,
    "decided": false,
    "inTheRunning": [
-    "Paolo",
     "MA",
     "Martin",
-    "Neil"
+    "Neil",
+    "Paolo"
    ]
   },
   "runnerUp": {
@@ -3197,10 +3207,10 @@
    "holder": null,
    "decided": false,
    "inTheRunning": [
-    "Paolo",
     "MA",
     "Martin",
-    "Neil"
+    "Neil",
+    "Paolo"
    ]
   },
   "topScorer": {
