@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-14T20:17:34.042Z",
- "sourceLastUpdated": "2026-07-14T20:16:59Z",
+ "fetchedAt": "2026-07-14T20:27:29.650Z",
+ "sourceLastUpdated": "2026-07-14T20:27:00Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-15T19:00:00Z",
  "groups": [
@@ -2025,7 +2025,7 @@
       },
       "score": {
        "home": 0,
-       "away": 1
+       "away": 2
       },
       "winner": "AWAY"
      },
@@ -3058,6 +3058,17 @@
    "rank": 26
   },
   {
+   "playerName": "Pedro Porro",
+   "teamId": "ESP",
+   "teamName": "Spain",
+   "goals": 2,
+   "drawnBy": {
+    "name": "Paolo",
+    "colour": "#e6194b"
+   },
+   "rank": 26
+  },
+  {
    "playerName": "Ramin Rezaeian",
    "teamId": "IRN",
    "teamName": "Iran",
@@ -3124,17 +3135,6 @@
    "rank": 26
   },
   {
-   "playerName": "Gio Reyna",
-   "teamId": "USA",
-   "teamName": "USA",
-   "goals": 1,
-   "drawnBy": {
-    "name": "Paolo",
-    "colour": "#e6194b"
-   },
-   "rank": 55
-  },
-  {
    "playerName": "Hyun-Gyu Oh",
    "teamId": "KOR",
    "teamName": "Korea Republic",
@@ -3143,7 +3143,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 55
+   "rank": 56
   },
   {
    "playerName": "In-beom Hwang",
@@ -3154,7 +3154,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 55
+   "rank": 56
   },
   {
    "playerName": "Jovo Lukić",
@@ -3165,7 +3165,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 55
+   "rank": 56
   },
   {
    "playerName": "Ladislav Krejčí",
@@ -3176,7 +3176,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 55
+   "rank": 56
   },
   {
    "playerName": "Mauricio",
@@ -3187,7 +3187,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 55
+   "rank": 56
   }
  ],
  "prizes": {
