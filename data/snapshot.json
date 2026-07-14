@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-14T20:57:15.855Z",
- "sourceLastUpdated": "2026-07-14T20:57:00Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-14T21:07:29.042Z",
+ "sourceLastUpdated": "2026-07-14T21:04:16Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-15T19:00:00Z",
  "groups": [
   {
@@ -2005,7 +2005,7 @@
     "name": "Semi-finals",
     "matches": [
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-14T19:00:00Z",
       "home": {
        "teamId": "FRA",
@@ -2206,7 +2206,7 @@
      "teamId": "FRA",
      "name": "France",
      "alive": true,
-     "exit": null,
+     "exit": "Semi-finals",
      "finish": null
     },
     {
@@ -3198,7 +3198,6 @@
    "inTheRunning": [
     "MA",
     "Martin",
-    "Neil",
     "Paolo"
    ]
   },
@@ -3209,7 +3208,6 @@
    "inTheRunning": [
     "MA",
     "Martin",
-    "Neil",
     "Paolo"
    ]
   },
