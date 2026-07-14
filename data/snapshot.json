@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-14T06:17:21.281Z",
- "sourceLastUpdated": "2026-07-14T05:20:10Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-07-14T19:00:00Z",
+ "fetchedAt": "2026-07-14T19:07:45.814Z",
+ "sourceLastUpdated": "2026-07-14T19:07:08Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-07-15T19:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -2005,7 +2005,7 @@
     "name": "Semi-finals",
     "matches": [
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-14T19:00:00Z",
       "home": {
        "teamId": "FRA",
@@ -2024,8 +2024,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      },
