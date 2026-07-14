@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-14T19:57:43.729Z",
- "sourceLastUpdated": "2026-07-14T19:57:16Z",
+ "fetchedAt": "2026-07-14T20:17:34.042Z",
+ "sourceLastUpdated": "2026-07-14T20:16:59Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-15T19:00:00Z",
  "groups": [
@@ -2005,7 +2005,7 @@
     "name": "Semi-finals",
     "matches": [
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-14T19:00:00Z",
       "home": {
        "teamId": "FRA",
