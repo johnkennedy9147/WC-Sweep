@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-15T20:37:26.623Z",
- "sourceLastUpdated": "2026-07-15T20:36:58Z",
+ "fetchedAt": "2026-07-15T20:47:36.421Z",
+ "sourceLastUpdated": "2026-07-15T20:46:34Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-18T21:00:00Z",
  "groups": [
@@ -2947,6 +2947,17 @@
    "rank": 26
   },
   {
+   "playerName": "Enzo Fernández",
+   "teamId": "ARG",
+   "teamName": "Argentina",
+   "goals": 2,
+   "drawnBy": {
+    "name": "Martin",
+    "colour": "#ffe119"
+   },
+   "rank": 26
+  },
+  {
    "playerName": "Ermin Mahmic",
    "teamId": "BIH",
    "teamName": "Bosnia-H.",
@@ -3153,7 +3164,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 56
+   "rank": 57
   },
   {
    "playerName": "In-beom Hwang",
@@ -3164,7 +3175,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 56
+   "rank": 57
   },
   {
    "playerName": "Jovo Lukić",
@@ -3175,7 +3186,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 56
+   "rank": 57
   },
   {
    "playerName": "Ladislav Krejčí",
@@ -3186,18 +3197,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 56
-  },
-  {
-   "playerName": "Mauricio",
-   "teamId": "PAR",
-   "teamName": "Paraguay",
-   "goals": 1,
-   "drawnBy": {
-    "name": "Neil",
-    "colour": "#f58231"
-   },
-   "rank": 56
+   "rank": 57
   }
  ],
  "prizes": {
