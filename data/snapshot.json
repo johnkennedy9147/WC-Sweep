@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-15T20:47:36.421Z",
- "sourceLastUpdated": "2026-07-15T20:46:34Z",
+ "fetchedAt": "2026-07-15T20:57:24.368Z",
+ "sourceLastUpdated": "2026-07-15T20:56:55Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-18T21:00:00Z",
  "groups": [
@@ -2050,9 +2050,9 @@
       },
       "score": {
        "home": 1,
-       "away": 0
+       "away": 1
       },
-      "winner": "HOME"
+      "winner": null
      }
     ]
    },
@@ -2771,6 +2771,17 @@
    "rank": 11
   },
   {
+   "playerName": "Lautaro Martínez",
+   "teamId": "ARG",
+   "teamName": "Argentina",
+   "goals": 3,
+   "drawnBy": {
+    "name": "Martin",
+    "colour": "#ffe119"
+   },
+   "rank": 11
+  },
+  {
    "playerName": "Matheus Cunha",
    "teamId": "BRA",
    "teamName": "Brazil",
@@ -2823,7 +2834,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Anthony Elanga",
@@ -2834,7 +2845,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Ayase Ueda",
@@ -2845,7 +2856,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Azzedine Ounahi",
@@ -2856,7 +2867,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Bradley Barcola",
@@ -2867,7 +2878,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Breel Embolo",
@@ -2878,7 +2889,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Crysencio Summerville",
@@ -2889,7 +2900,7 @@
     "name": "LA",
     "colour": "#911eb4"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Cyle Larin",
@@ -2900,7 +2911,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Daichi Kamada",
@@ -2911,7 +2922,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Dan Ndoye",
@@ -2922,7 +2933,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Daniel Muñoz",
@@ -2933,7 +2944,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Emam Ashour",
@@ -2944,7 +2955,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Enzo Fernández",
@@ -2955,7 +2966,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Ermin Mahmic",
@@ -2966,7 +2977,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Habib Diarra",
@@ -2977,18 +2988,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 26
-  },
-  {
-   "playerName": "Lautaro Martínez",
-   "teamId": "ARG",
-   "teamName": "Argentina",
-   "goals": 2,
-   "drawnBy": {
-    "name": "Martin",
-    "colour": "#ffe119"
-   },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Leandro Trossard",
@@ -2999,7 +2999,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Malik Tillman",
@@ -3010,7 +3010,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Marko Arnautovic",
@@ -3021,7 +3021,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Maximiliano Araújo",
@@ -3032,7 +3032,7 @@
     "name": "Nicola",
     "colour": "#3cb44b"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Mikel Merino",
@@ -3043,7 +3043,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Mostafa Ziko",
@@ -3054,7 +3054,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Nicolas Pépé",
@@ -3065,7 +3065,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Pape Gueye",
@@ -3076,7 +3076,7 @@
     "name": "JK",
     "colour": "#46f0f0"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Pedro Porro",
@@ -3087,7 +3087,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Ramin Rezaeian",
@@ -3098,7 +3098,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Riyad Mahrez",
@@ -3109,7 +3109,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Ruben Vargas",
@@ -3120,7 +3120,7 @@
     "name": "Adam",
     "colour": "#f032e6"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Soufiane Rahimi",
@@ -3131,7 +3131,7 @@
     "name": "Neil",
     "colour": "#f58231"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Yasin Ayari",
@@ -3142,7 +3142,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Youri Tielemans",
@@ -3153,7 +3153,7 @@
     "name": "Ollie",
     "colour": "#bcf60c"
    },
-   "rank": 26
+   "rank": 27
   },
   {
    "playerName": "Hyun-Gyu Oh",
