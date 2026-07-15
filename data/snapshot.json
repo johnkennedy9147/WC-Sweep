@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-07-15T21:07:32.966Z",
- "sourceLastUpdated": "2026-07-15T21:07:01Z",
- "liveNow": true,
+ "fetchedAt": "2026-07-15T21:17:44.341Z",
+ "sourceLastUpdated": "2026-07-15T21:09:25Z",
+ "liveNow": false,
  "nextKickoffUtc": "2026-07-18T21:00:00Z",
  "groups": [
   {
@@ -2030,7 +2030,7 @@
       "winner": "AWAY"
      },
      {
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-07-15T19:00:00Z",
       "home": {
        "teamId": "ENG",
@@ -2126,7 +2126,7 @@
      "teamId": "ENG",
      "name": "England",
      "alive": true,
-     "exit": null,
+     "exit": "Semi-finals",
      "finish": null
     },
     {
@@ -3206,7 +3206,6 @@
    "holder": null,
    "decided": false,
    "inTheRunning": [
-    "MA",
     "Martin",
     "Paolo"
    ]
@@ -3216,7 +3215,6 @@
    "holder": null,
    "decided": false,
    "inTheRunning": [
-    "MA",
     "Martin",
     "Paolo"
    ]
