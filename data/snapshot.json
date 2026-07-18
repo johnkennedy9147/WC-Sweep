@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-18T21:37:18.631Z",
- "sourceLastUpdated": "2026-07-18T21:36:48Z",
+ "fetchedAt": "2026-07-18T21:47:25.557Z",
+ "sourceLastUpdated": "2026-07-18T21:46:24Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-19T19:00:00Z",
  "groups": [
@@ -2081,7 +2081,7 @@
       },
       "score": {
        "home": 0,
-       "away": 2
+       "away": 3
       },
       "winner": "AWAY"
      }
@@ -2902,6 +2902,17 @@
    "rank": 27
   },
   {
+   "playerName": "Bukayo Saka",
+   "teamId": "ENG",
+   "teamName": "England",
+   "goals": 2,
+   "drawnBy": {
+    "name": "MA",
+    "colour": "#4363d8"
+   },
+   "rank": 27
+  },
+  {
    "playerName": "Crysencio Summerville",
    "teamId": "NED",
    "teamName": "Netherlands",
@@ -3174,7 +3185,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 57
+   "rank": 58
   },
   {
    "playerName": "In-beom Hwang",
@@ -3185,18 +3196,7 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 57
-  },
-  {
-   "playerName": "Jovo Lukić",
-   "teamId": "BIH",
-   "teamName": "Bosnia-H.",
-   "goals": 1,
-   "drawnBy": {
-    "name": "MA",
-    "colour": "#4363d8"
-   },
-   "rank": 57
+   "rank": 58
   },
   {
    "playerName": "Ladislav Krejčí",
@@ -3207,7 +3207,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 57
+   "rank": 58
   }
  ],
  "prizes": {
