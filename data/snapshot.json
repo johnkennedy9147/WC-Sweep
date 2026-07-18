@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-18T21:57:22.441Z",
- "sourceLastUpdated": "2026-07-18T21:56:00Z",
+ "fetchedAt": "2026-07-18T22:17:19.500Z",
+ "sourceLastUpdated": "2026-07-18T22:17:00Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-19T19:00:00Z",
  "groups": [
@@ -2061,7 +2061,7 @@
     "name": "Third place",
     "matches": [
      {
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-18T21:00:00Z",
       "home": {
        "teamId": "FRA",
@@ -2080,7 +2080,7 @@
        }
       },
       "score": {
-       "home": 0,
+       "home": 1,
        "away": 4
       },
       "winner": "AWAY"
@@ -2553,7 +2553,7 @@
    "playerName": "Kylian Mbappé",
    "teamId": "FRA",
    "teamName": "France",
-   "goals": 8,
+   "goals": 9,
    "drawnBy": {
     "name": "Neil",
     "colour": "#f58231"
@@ -2569,7 +2569,7 @@
     "name": "Martin",
     "colour": "#ffe119"
    },
-   "rank": 1
+   "rank": 2
   },
   {
    "playerName": "Erling Haaland",
@@ -3231,14 +3231,12 @@
   },
   "topScorer": {
    "amount": "£10",
-   "tie": true,
+   "tie": false,
    "leaders": [
-    "Kylian Mbappé",
-    "Lionel Messi"
+    "Kylian Mbappé"
    ],
    "holders": [
-    "Neil",
-    "Martin"
+    "Neil"
    ]
   }
  }
