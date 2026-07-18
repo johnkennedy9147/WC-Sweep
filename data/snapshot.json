@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-18T22:27:38.821Z",
- "sourceLastUpdated": "2026-07-18T22:26:36Z",
+ "fetchedAt": "2026-07-18T22:37:27.452Z",
+ "sourceLastUpdated": "2026-07-18T22:37:24Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-19T19:00:00Z",
  "groups": [
@@ -2080,7 +2080,7 @@
        }
       },
       "score": {
-       "home": 2,
+       "home": 3,
        "away": 4
       },
       "winner": "AWAY"
@@ -2553,7 +2553,7 @@
    "playerName": "Kylian Mbappé",
    "teamId": "FRA",
    "teamName": "France",
-   "goals": 9,
+   "goals": 10,
    "drawnBy": {
     "name": "Neil",
     "colour": "#f58231"
