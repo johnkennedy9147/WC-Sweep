@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-18T06:17:38.817Z",
- "sourceLastUpdated": "2026-07-18T05:20:20Z",
- "liveNow": false,
- "nextKickoffUtc": "2026-07-18T21:00:00Z",
+ "fetchedAt": "2026-07-18T21:07:36.126Z",
+ "sourceLastUpdated": "2026-07-18T21:07:24Z",
+ "liveNow": true,
+ "nextKickoffUtc": "2026-07-19T19:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -2061,7 +2061,7 @@
     "name": "Third place",
     "matches": [
      {
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "utcDate": "2026-07-18T21:00:00Z",
       "home": {
        "teamId": "FRA",
@@ -2080,8 +2080,8 @@
        }
       },
       "score": {
-       "home": null,
-       "away": null
+       "home": 0,
+       "away": 0
       },
       "winner": null
      }
