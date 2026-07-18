@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-07-18T22:57:25.226Z",
- "sourceLastUpdated": "2026-07-18T22:56:36Z",
+ "fetchedAt": "2026-07-18T23:07:25.993Z",
+ "sourceLastUpdated": "2026-07-18T23:06:48Z",
  "liveNow": true,
  "nextKickoffUtc": "2026-07-19T19:00:00Z",
  "groups": [
@@ -2080,8 +2080,8 @@
        }
       },
       "score": {
-       "home": 3,
-       "away": 5
+       "home": 4,
+       "away": 6
       },
       "winner": "AWAY"
      }
@@ -2583,6 +2583,17 @@
    "rank": 3
   },
   {
+   "playerName": "Jude Bellingham",
+   "teamId": "ENG",
+   "teamName": "England",
+   "goals": 7,
+   "drawnBy": {
+    "name": "MA",
+    "colour": "#4363d8"
+   },
+   "rank": 3
+  },
+  {
    "playerName": "Harry Kane",
    "teamId": "ENG",
    "teamName": "England",
@@ -2591,18 +2602,18 @@
     "name": "MA",
     "colour": "#4363d8"
    },
-   "rank": 4
+   "rank": 5
   },
   {
-   "playerName": "Jude Bellingham",
-   "teamId": "ENG",
-   "teamName": "England",
+   "playerName": "Ousmane Dembélé",
+   "teamId": "FRA",
+   "teamName": "France",
    "goals": 6,
    "drawnBy": {
-    "name": "MA",
-    "colour": "#4363d8"
+    "name": "Neil",
+    "colour": "#f58231"
    },
-   "rank": 4
+   "rank": 5
   },
   {
    "playerName": "Mikel Oyarzabal",
@@ -2613,18 +2624,7 @@
     "name": "Paolo",
     "colour": "#e6194b"
    },
-   "rank": 6
-  },
-  {
-   "playerName": "Ousmane Dembélé",
-   "teamId": "FRA",
-   "teamName": "France",
-   "goals": 5,
-   "drawnBy": {
-    "name": "Neil",
-    "colour": "#f58231"
-   },
-   "rank": 6
+   "rank": 7
   },
   {
    "playerName": "Ismaïla Sarr",
