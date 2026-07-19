@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-19T21:57:27.866Z",
- "sourceLastUpdated": "2026-07-19T21:57:24Z",
+ "fetchedAt": "2026-07-19T22:07:38.868Z",
+ "sourceLastUpdated": "2026-07-19T22:07:18Z",
  "liveNow": false,
- "nextKickoffUtc": "2026-07-19T19:00:00Z",
+ "nextKickoffUtc": null,
  "groups": [
   {
    "id": "A",
@@ -2092,7 +2092,7 @@
     "name": "Final",
     "matches": [
      {
-      "status": "LIVE",
+      "status": "FINISHED",
       "utcDate": "2026-07-19T19:00:00Z",
       "home": {
        "teamId": "ESP",
@@ -2122,51 +2122,6 @@
  },
  "leaderboard": [
   {
-   "name": "Martin",
-   "colour": "#ffe119",
-   "teams": [
-    {
-     "teamId": "ARG",
-     "name": "Argentina",
-     "alive": true,
-     "exit": null,
-     "finish": null
-    },
-    {
-     "teamId": "AUT",
-     "name": "Austria",
-     "alive": false,
-     "exit": "Round of 32",
-     "finish": null
-    },
-    {
-     "teamId": "SCO",
-     "name": "Scotland",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "CUW",
-     "name": "Curaçao",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    },
-    {
-     "teamId": "HAI",
-     "name": "Haiti",
-     "alive": false,
-     "exit": "Group stage",
-     "finish": null
-    }
-   ],
-   "aliveCount": 1,
-   "total": 5,
-   "bestFinish": 9,
-   "rank": 1
-  },
-  {
    "name": "Paolo",
    "colour": "#e6194b",
    "teams": [
@@ -2187,9 +2142,9 @@
     {
      "teamId": "ESP",
      "name": "Spain",
-     "alive": true,
-     "exit": null,
-     "finish": null
+     "alive": false,
+     "exit": "Champions",
+     "finish": "champions"
     },
     {
      "teamId": "JPN",
@@ -2220,10 +2175,55 @@
      "finish": null
     }
    ],
-   "aliveCount": 1,
+   "aliveCount": 0,
    "total": 7,
-   "bestFinish": 9,
+   "bestFinish": 0,
    "rank": 1
+  },
+  {
+   "name": "Martin",
+   "colour": "#ffe119",
+   "teams": [
+    {
+     "teamId": "ARG",
+     "name": "Argentina",
+     "alive": false,
+     "exit": "Runners-up",
+     "finish": "runnersUp"
+    },
+    {
+     "teamId": "AUT",
+     "name": "Austria",
+     "alive": false,
+     "exit": "Round of 32",
+     "finish": null
+    },
+    {
+     "teamId": "SCO",
+     "name": "Scotland",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "CUW",
+     "name": "Curaçao",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    },
+    {
+     "teamId": "HAI",
+     "name": "Haiti",
+     "alive": false,
+     "exit": "Group stage",
+     "finish": null
+    }
+   ],
+   "aliveCount": 0,
+   "total": 5,
+   "bestFinish": 1,
+   "rank": 2
   },
   {
    "name": "MA",
@@ -3213,21 +3213,15 @@
  "prizes": {
   "winner": {
    "amount": "£25",
-   "holder": null,
-   "decided": false,
-   "inTheRunning": [
-    "Martin",
-    "Paolo"
-   ]
+   "holder": "Paolo",
+   "decided": true,
+   "inTheRunning": []
   },
   "runnerUp": {
    "amount": "£10",
-   "holder": null,
-   "decided": false,
-   "inTheRunning": [
-    "Martin",
-    "Paolo"
-   ]
+   "holder": "Martin",
+   "decided": true,
+   "inTheRunning": []
   },
   "topScorer": {
    "amount": "£10",
