@@ -1,8 +1,8 @@
 {
- "fetchedAt": "2026-07-19T21:37:20.374Z",
- "sourceLastUpdated": "2026-07-19T21:36:52Z",
- "liveNow": true,
- "nextKickoffUtc": null,
+ "fetchedAt": "2026-07-19T21:47:36.155Z",
+ "sourceLastUpdated": "2026-07-19T21:47:07Z",
+ "liveNow": false,
+ "nextKickoffUtc": "2026-07-19T19:00:00Z",
  "groups": [
   {
    "id": "A",
@@ -2092,7 +2092,7 @@
     "name": "Final",
     "matches": [
      {
-      "status": "IN_PLAY",
+      "status": "LIVE",
       "utcDate": "2026-07-19T19:00:00Z",
       "home": {
        "teamId": "ESP",
